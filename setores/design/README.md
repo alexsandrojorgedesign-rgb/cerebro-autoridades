@@ -13,6 +13,7 @@ Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativ
 | Data | Fonte | Autoridade | Arquivo |
 |---|---|---|---|
 | 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |
+| 2026-11-09 | Estudo de caso: Elephant Skin (portfólio, copy e lançamento) | Pesquisa própria (Elephant Skin) | [resumo](../../setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md) |
 
 ## Princípios consolidados
 

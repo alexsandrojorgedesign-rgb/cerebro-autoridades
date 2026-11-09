@@ -89,6 +89,9 @@ F.append(("2026-09-04", "Mídia de interesse e volume (2 vídeos)", "Gary Vayner
 F.append(("2022-05-26", "Marca acima de venda digital (Inside 4Ds)", "Gary Vaynerchuk",
   "setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md",
   ["branding","marketing","conteudo-e-redes","negocios-e-gestao"]))
+F.append(("2026-11-09", "Estudo de caso: Elephant Skin (portfólio, copy e lançamento)", "Pesquisa própria (Elephant Skin)",
+  "setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md",
+  ["mercado-imobiliario","branding","marketing","conteudo-e-redes","design"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
