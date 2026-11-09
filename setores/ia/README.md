@@ -18,6 +18,7 @@ Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e neg
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
+| 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 
 ## Princípios consolidados
 

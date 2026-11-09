@@ -25,6 +25,7 @@ P = {
  "erich-shibata": ("Erich Shibata", "Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro", ["branding","marketing","vendas"]),
  "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
+ "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume e criativo que gera alcance", ["conteudo-e-redes","marketing","mercado-imobiliario"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -82,6 +83,9 @@ F.append(("2026-10-23", "Como construir uma marca pessoal em 2027", "Alex Hormoz
 F.append(("2026-04-14", "Marca notável na era da IA (The Entrepreneur's Studio)", "Seth Godin",
   "setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md",
   ["marketing","branding","ia","conteudo-e-redes","negocios-e-gestao"]))
+F.append(("2026-09-04", "Mídia de interesse e volume (2 vídeos)", "Gary Vaynerchuk",
+  "setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md",
+  ["conteudo-e-redes","marketing","mercado-imobiliario","ia"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -113,6 +117,7 @@ PRINC = {
   "- **CRM com disciplina + dados + IA:** registrar preferências do cliente, enriquecer dados e usar IA para priorizar e tratar objeções. Fontes: [Alfredo — tríade](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Kotler — Marketing 5.0](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md).",
   "- **O cliente atual é a alavanca mais barata (LTV):** vender melhor para quem já comprou e gerar indicação antes de buscar canais novos. Fontes: [Alfredo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Dener](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [Kotler 3.0 — credo 7](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md).","- **O gargalo costuma estar depois do lead:** atendimento lento e falta de follow-up desperdiçam a mídia. Fontes: [Michelly — pós-captação 8–12 meses](../../%s), [Dener — elo mais fraco](../../%s)." % (M, D)],
  "conteudo-e-redes": [
+  "- **Falar do interesse do público, não de si:** conteúdo egoísta (\"compre de mim\") não tem alcance; o algoritmo entrega por interesse, então o criativo relevante gera o alcance. Fontes: [GaryVee](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md), [Alfredo — G4 Day](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md).",
   "- **Seguidor não é a métrica principal:** priorize vendas, leads qualificados, encaminhamentos e engajamento. Fontes: [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).",
   "- **Conteúdo por etapa do funil com formatos fixos** (topo/meio/fundo), cada post com objetivo. Fontes: [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).","- **Todo conteúdo precisa levar a uma ação** (CTA para comentário, direct ou WhatsApp). Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
 }

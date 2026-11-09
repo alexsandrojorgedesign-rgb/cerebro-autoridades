@@ -57,6 +57,7 @@ cerebro-autoridades/
 | Erich Shibata (Cimed) | branding, marketing, vendas | [ficha](autoridades/erich-shibata.md) |
 | Marty Neumeier | branding, design | [ficha](autoridades/marty-neumeier.md) |
 | Alex Hormozi | branding, conteúdo, marketing | [ficha](autoridades/alex-hormozi.md) |
+| Gary Vaynerchuk | conteúdo e redes, marketing | [ficha](autoridades/gary-vaynerchuk.md) |
 
 ## Como adicionar um conteúdo
 
