@@ -49,6 +49,7 @@ cerebro-autoridades/
 | Alfredo Soares (G4) | branding, vendas, negócios | [ficha](autoridades/alfredo-soares.md) |
 | Bruno Nardon (G4) | negócios, branding | [ficha](autoridades/bruno-nardon.md) |
 | Tay Dantas (Vince Société) | branding, marketing, conteúdo | [ficha](autoridades/tay-dantas.md) |
+| Ana Couto | branding, marketing, negócios | [ficha](autoridades/ana-couto.md) |
 
 ## Como adicionar um conteúdo
 
