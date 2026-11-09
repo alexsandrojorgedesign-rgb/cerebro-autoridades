@@ -48,6 +48,7 @@ cerebro-autoridades/
 | Dener Lippert (V4 Company) | marketing, vendas, negócios, tráfego pago | [ficha](autoridades/dener-lippert.md) |
 | Alfredo Soares (G4) | branding, vendas, negócios | [ficha](autoridades/alfredo-soares.md) |
 | Bruno Nardon (G4) | negócios, branding | [ficha](autoridades/bruno-nardon.md) |
+| Tay Dantas (Vince Société) | branding, marketing, conteúdo | [ficha](autoridades/tay-dantas.md) |
 
 ## Como adicionar um conteúdo
 

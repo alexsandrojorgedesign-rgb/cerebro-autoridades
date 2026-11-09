@@ -11,6 +11,8 @@ Este repositório é o cérebro de **conhecimento externo** do Alex (We Inc / Ec
 - Separe três blocos: **o que a pessoa disse** (fiel), **aplicação para a We** (opinião nossa) e **discordâncias ou pontos fracos**.
 - Atualize a ficha da autoridade, o README do setor principal, o README dos setores secundários e o README raiz (só se a pessoa for nova).
 
+- Os READMEs dos setores são gerados por `_modelos/gerar_indices.py` (listas `P` = autoridades, `F` = fontes, `PRINC` = princípios consolidados). Para atualizar, edite as listas e rode `python -I _modelos/gerar_indices.py`; não edite os READMEs dos setores à mão.
+
 ## Ao consultar
 - Cite o arquivo de origem e o timestamp ao usar uma ideia daqui.
 - Prefira os **Princípios consolidados** dos setores: são ideias confirmadas por mais de uma fonte.

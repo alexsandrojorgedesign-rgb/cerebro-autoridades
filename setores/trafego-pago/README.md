@@ -19,4 +19,4 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
-- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Dener](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).
+- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Dener](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md).
