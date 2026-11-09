@@ -23,6 +23,7 @@ links: []
 - Tríade do futuro das vendas: CRM (disciplina), big data e IA; separar score do lead do nível de consciência. ([fonte](../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md))
 - Estratégia de conteúdo: identidade, formatos fixos por etapa do funil, volume alto, encaminhamento como métrica. ([fonte](../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md))
 - Faturar não é crescer: lucro e previsibilidade, empresa inteira vendedora, leads para o melhor vendedor (não fila), dinheiro na mesa do meio do funil. ([fonte](../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md))
+- Marca pessoal como empresa: conteúdo consistente → monetização com parceiros (não fornecedores) → reinvestir 50% → sociedade; seguidor não é fã. ([fonte](../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md))
 
 ## Fontes
 | Data | Conteúdo | Arquivo |
@@ -31,3 +32,4 @@ links: []
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | [resumo](../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | [resumo](../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | [resumo](../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
+| 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | [resumo](../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
