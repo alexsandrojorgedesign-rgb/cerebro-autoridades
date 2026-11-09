@@ -53,6 +53,8 @@ F.append(("2025-05-21", "Como vender mais e melhor (G4 Day)", "Alfredo Soares",
 F.append(("2026-11-06", "Marketing à prova de crise (The Code Vinci)", "Tay Dantas",
   "setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md",
   ["branding","marketing","conteudo-e-redes","trafego-pago"]))
+F.append(("2026-08-16", "Advisor: a empresa da marca pessoal do Ninja", "Alfredo Soares",
+  "setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md", ["conteudo-e-redes","branding","negocios-e-gestao","marketing"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -60,6 +62,7 @@ A = "setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md"
 D = "setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md"
 PRINC = {
  "branding": [
+  "- **Identidade se mostra, não se declara:** escolher traços e mostrar os momentos reais do dia a dia que os provam (disciplina = postar a mesma coisa todo dia). Fontes: [Alfredo — Ninja](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md), [Alfredo — nerd rico](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay — marca pessoal](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).",
   "- **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../%s), [Tay — brand performance](../../%s)." % (D, T),
   "- **Pessoas na frente da marca:** rostos (donos, equipe, clientes) conectam mais que logo. Marca pessoal dá velocidade e marca da empresa dá escala. Fontes: [Michelly](../../%s), [Tay](../../%s)." % (M, T),
   "- **\"Branding só dá resultado no longo prazo\" é falso dilema:** começar certo gera resultado no curto, médio e longo prazo. Fontes: [Tay](../../%s), [Ana Couto](../../%s)." % (T, A),
