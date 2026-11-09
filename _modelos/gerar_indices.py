@@ -20,6 +20,7 @@ P = {
  "ana-couto": ("Ana Couto", "branding como gestão de valor, método, gap de percepção, CBO", ["branding","marketing","negocios-e-gestao"]),
  "philip-kotler": ("Philip Kotler", "base conceitual do marketing; série Marketing X.0", ["marketing","branding","negocios-e-gestao","ia"]),
  "seth-godin": ("Seth Godin", "ser notável; nicho, early adopters e boca a boca", ["marketing","branding","conteudo-e-redes"]),
+ "claude-hopkins": ("Claude C. Hopkins", "copy de resposta direta: testar, medir, ser específico", ["marketing","trafego-pago","vendas","conteudo-e-redes"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -59,6 +60,9 @@ F.append(("2026-08-16", "Advisor: a empresa da marca pessoal do Ninja", "Alfredo
 F.append(("2003", "A Vaca Roxa (livro, via resumo Bookey)", "Seth Godin",
   "setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md",
   ["marketing","branding","conteudo-e-redes","negocios-e-gestao"]))
+F.append(("1923", "Scientific Advertising (livro)", "Claude C. Hopkins",
+  "setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md",
+  ["marketing","trafego-pago","vendas","conteudo-e-redes","branding"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -76,6 +80,7 @@ PRINC = {
   "- **O peso da marca depende do que o cliente valoriza:** quanto mais premium e exclusivo, mais a marca pesa. Fontes: [Nardon](../../%s), [Tay — luxo](../../%s)." % (D, T),
  ],
  "trafego-pago": [
+  "- **Testar e medir pelo custo por cliente/venda, não pelo gosto:** mesmo criativo com ganchos/títulos diferentes, escalar o vencedor. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Michelly — Andromeda](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Dener — volume de testes](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).",
   "- **Não depender só de mídia paga:** construir audiência própria, marca e indicação para baixar o custo de aquisição e aguentar a alta do CPC. Fontes: [Tay — terra e tijolo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md), [Alfredo — 30% orgânico](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Dener — superestimam o tráfego](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).","- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
  "vendas": [
   "- **Horário do cliente, não o seu:** ligar e atender na hora em que o cliente tem atenção (empresário à noite). Fontes: [Alfredo — Jota Jota](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Alfredo — G4 Day](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Kotler 5.0 — marketing contextual](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md).",

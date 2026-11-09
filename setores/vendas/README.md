@@ -9,11 +9,13 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | Michelly Müller | marketing imobiliário prático, Instagram e Meta Ads para corretores | [ficha](../../autoridades/michelly-muller.md) |
 | Dener Lippert | performance, gargalos, preço e LTV | [ficha](../../autoridades/dener-lippert.md) |
 | Alfredo Soares | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | [ficha](../../autoridades/alfredo-soares.md) |
+| Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 
 ## Fontes resumidas
 
 | Data | Fonte | Autoridade | Arquivo |
 |---|---|---|---|
+| 1923 | Scientific Advertising (livro) | Claude C. Hopkins | [resumo](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) |
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
