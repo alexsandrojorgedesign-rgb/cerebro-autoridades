@@ -40,6 +40,10 @@ cerebro-autoridades/
 | [Mercado Imobiliário](setores/mercado-imobiliario/) | incorporação, corretores, jornada do comprador |
 | [Negócios e Gestão](setores/negocios-e-gestao/) | estratégia, gargalos, liderança, modelo de negócio |
 
+## Pasta META (Meta Ads, Facebook, Instagram, WhatsApp)
+
+O que a Meta ensina oficialmente, estudado pela documentação pública e pelo catálogo do Meta Blueprint: estrutura de campanha, públicos (incluindo a categoria especial de Moradia), leilão, formatos, criativos, formulários e clique para WhatsApp, mensuração e API de Conversões, políticas e certificações. Ver [META/README.md](META/README.md).
+
 ## Autoridades
 
 | Pessoa | Setores | Ficha |
