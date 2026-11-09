@@ -23,6 +23,7 @@ P = {
  "claude-hopkins": ("Claude C. Hopkins", "copy de resposta direta: testar, medir, ser específico", ["marketing","trafego-pago","vendas","conteudo-e-redes"]),
  "david-ogilvy": ("David Ogilvy", "copy que vende + imagem de marca e grande ideia", ["marketing","branding","conteudo-e-redes","trafego-pago"]),
  "erich-shibata": ("Erich Shibata", "Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro", ["branding","marketing","vendas"]),
+ "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -71,6 +72,9 @@ F.append(("1983", "Ogilvy on Advertising (livro, via resumo Bookey)", "David Ogi
 F.append(("2024-06-18", "Branding & Cultura na Cimed (ROI Hunters #240)", "Erich Shibata",
   "setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md",
   ["branding","marketing","vendas","conteudo-e-redes","negocios-e-gestao"]))
+F.append(("2019-12-31", "O que é branding (The Futur)", "Marty Neumeier",
+  "setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md",
+  ["branding","design","marketing"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -89,7 +93,7 @@ PRINC = {
   "- **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../%s), [Tay — brand performance](../../%s)." % (D, T),
   "- **Pessoas na frente da marca:** rostos (donos, equipe, clientes) conectam mais que logo. Marca pessoal dá velocidade e marca da empresa dá escala. Fontes: [Michelly](../../%s), [Tay](../../%s)." % (M, T),
   "- **\"Branding só dá resultado no longo prazo\" é falso dilema:** começar certo gera resultado no curto, médio e longo prazo. Fontes: [Tay](../../%s), [Ana Couto](../../%s)." % (T, A),
-  "- **Marca é a percepção criada por todos os pontos de contato** (produto, loja, atendimento, equipe), não só pelo marketing ou pelo logo. Fontes: [Tay](../../%s), [Ana Couto](../../%s)." % (T, A),
+  "- **Marca é a percepção criada por todos os pontos de contato** (produto, loja, atendimento, equipe), não só pelo marketing ou pelo logo. Fontes: [Tay](../../%s), [Ana Couto](../../%s), [Neumeier](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md)." % (T, A),
   "- **Diagnóstico pelo gap de percepção:** como o público quer ser visto e como a marca é vista, por dentro e por fora, vale mais que perfil demográfico. Fontes: [Tay](../../%s), [Ana Couto](../../%s)." % (T, A),
   "- **O peso da marca depende do que o cliente valoriza:** quanto mais premium e exclusivo, mais a marca pesa. Fontes: [Nardon](../../%s), [Tay — luxo](../../%s)." % (D, T),
  ],

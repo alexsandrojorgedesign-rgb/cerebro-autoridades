@@ -14,6 +14,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Seth Godin | ser notável; nicho, early adopters e boca a boca | [ficha](../../autoridades/seth-godin.md) |
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
+| Marty Neumeier | marca é a sensação do cliente, não o logo | [ficha](../../autoridades/marty-neumeier.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 
 ## Fontes resumidas
@@ -24,6 +25,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
 | 2003 | A Vaca Roxa (livro, via resumo Bookey) | Seth Godin | [resumo](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md) |
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
+| 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
@@ -45,6 +47,6 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 - **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [Tay — brand performance](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **Pessoas na frente da marca:** rostos (donos, equipe, clientes) conectam mais que logo. Marca pessoal dá velocidade e marca da empresa dá escala. Fontes: [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **"Branding só dá resultado no longo prazo" é falso dilema:** começar certo gera resultado no curto, médio e longo prazo. Fontes: [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
-- **Marca é a percepção criada por todos os pontos de contato** (produto, loja, atendimento, equipe), não só pelo marketing ou pelo logo. Fontes: [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
+- **Marca é a percepção criada por todos os pontos de contato** (produto, loja, atendimento, equipe), não só pelo marketing ou pelo logo. Fontes: [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md), [Neumeier](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md).
 - **Diagnóstico pelo gap de percepção:** como o público quer ser visto e como a marca é vista, por dentro e por fora, vale mais que perfil demográfico. Fontes: [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
 - **O peso da marca depende do que o cliente valoriza:** quanto mais premium e exclusivo, mais a marca pesa. Fontes: [Nardon](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [Tay — luxo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).

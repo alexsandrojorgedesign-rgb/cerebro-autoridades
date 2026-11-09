@@ -55,6 +55,7 @@ cerebro-autoridades/
 | Claude C. Hopkins | marketing, tráfego pago, vendas | [ficha](autoridades/claude-hopkins.md) |
 | David Ogilvy | marketing, branding, conteúdo | [ficha](autoridades/david-ogilvy.md) |
 | Erich Shibata (Cimed) | branding, marketing, vendas | [ficha](autoridades/erich-shibata.md) |
+| Marty Neumeier | branding, design | [ficha](autoridades/marty-neumeier.md) |
 
 ## Como adicionar um conteúdo
 
