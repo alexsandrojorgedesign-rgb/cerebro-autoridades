@@ -8,7 +8,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 |---|---|---|
 | Michelly Müller | marketing imobiliário prático, Instagram e Meta Ads para corretores | [ficha](../../autoridades/michelly-muller.md) |
 | Alfredo Soares | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | [ficha](../../autoridades/alfredo-soares.md) |
-| Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance | [ficha](../../autoridades/tay-dantas.md) |
+| Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
 | Ana Couto | branding como gestão de valor, método, gap de percepção, CBO | [ficha](../../autoridades/ana-couto.md) |
 | Philip Kotler | base conceitual do marketing; série Marketing X.0 | [ficha](../../autoridades/philip-kotler.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
@@ -20,10 +20,12 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
+| 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 
 ## Princípios consolidados
 

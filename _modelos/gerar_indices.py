@@ -16,7 +16,7 @@ P = {
      ["mercado-imobiliario","conteudo-e-redes","trafego-pago","branding","ia","vendas"]),
  "dener-lippert": ("Dener Lippert", "performance, gargalos, preço e LTV", ["marketing","vendas","negocios-e-gestao","trafego-pago"]),
  "alfredo-soares": ("Alfredo Soares", "marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal", ["branding","vendas","negocios-e-gestao","marketing","conteudo-e-redes"]),
- "tay-dantas": ("Tay Dantas", "diagnóstico e estratégia de marca em 8 camadas, brand performance", ["branding","marketing","conteudo-e-redes","negocios-e-gestao"]),
+ "tay-dantas": ("Tay Dantas", "diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria", ["branding","marketing","conteudo-e-redes","negocios-e-gestao","trafego-pago"]),
  "ana-couto": ("Ana Couto", "branding como gestão de valor, método, gap de percepção, CBO", ["branding","marketing","negocios-e-gestao"]),
  "philip-kotler": ("Philip Kotler", "base conceitual do marketing; série Marketing X.0", ["marketing","branding","negocios-e-gestao","ia"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
@@ -47,6 +47,12 @@ F.append(("2021", "Marketing 5.0 (livro)", "Philip Kotler, Hermawan Kartajaya, I
 F.append(("2023-11-23", "Marketing de influência que funciona (Jota Jota #142)", "Alfredo Soares",
   "setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md",
   ["marketing","vendas","branding","conteudo-e-redes","ia","negocios-e-gestao"]))
+F.append(("2025-05-21", "Como vender mais e melhor (G4 Day)", "Alfredo Soares",
+  "setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md",
+  ["vendas","marketing","negocios-e-gestao","branding"]))
+F.append(("2026-11-06", "Marketing à prova de crise (The Code Vinci)", "Tay Dantas",
+  "setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md",
+  ["branding","marketing","conteudo-e-redes","trafego-pago"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -61,8 +67,10 @@ PRINC = {
   "- **Diagnóstico pelo gap de percepção:** como o público quer ser visto e como a marca é vista, por dentro e por fora, vale mais que perfil demográfico. Fontes: [Tay](../../%s), [Ana Couto](../../%s)." % (T, A),
   "- **O peso da marca depende do que o cliente valoriza:** quanto mais premium e exclusivo, mais a marca pesa. Fontes: [Nardon](../../%s), [Tay — luxo](../../%s)." % (D, T),
  ],
- "trafego-pago": ["- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
+ "trafego-pago": [
+  "- **Não depender só de mídia paga:** construir audiência própria, marca e indicação para baixar o custo de aquisição e aguentar a alta do CPC. Fontes: [Tay — terra e tijolo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md), [Alfredo — 30% orgânico](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Dener — superestimam o tráfego](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).","- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
  "vendas": [
+  "- **Horário do cliente, não o seu:** ligar e atender na hora em que o cliente tem atenção (empresário à noite). Fontes: [Alfredo — Jota Jota](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Alfredo — G4 Day](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Kotler 5.0 — marketing contextual](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md).",
   "- **CRM com disciplina + dados + IA:** registrar preferências do cliente, enriquecer dados e usar IA para priorizar e tratar objeções. Fontes: [Alfredo — tríade](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Kotler — Marketing 5.0](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md).",
   "- **O cliente atual é a alavanca mais barata (LTV):** vender melhor para quem já comprou e gerar indicação antes de buscar canais novos. Fontes: [Alfredo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Dener](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [Kotler 3.0 — credo 7](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md).","- **O gargalo costuma estar depois do lead:** atendimento lento e falta de follow-up desperdiçam a mídia. Fontes: [Michelly — pós-captação 8–12 meses](../../%s), [Dener — elo mais fraco](../../%s)." % (M, D)],
  "conteudo-e-redes": [

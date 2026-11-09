@@ -21,8 +21,10 @@ links: [https://www.instagram.com/vince.societe/]
 - Produto resolve dor concreta; marca resolve dor pessoal ou social. ([fonte](../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md))
 - Crie material para os outros falarem por você. ([fonte](../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md))
 - Marca pessoal dá velocidade; marca da empresa dá escala. ([fonte](../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md))
+- Tráfego pago é aluguel; construa terreno (audiência), planta (estratégia), tijolos (marca da empresa) e porta (marca pessoal). ([fonte](../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md))
 
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | [resumo](../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
+| 2026-11-06 | Marketing à prova de crise (The Code Vinci) | [resumo](../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
