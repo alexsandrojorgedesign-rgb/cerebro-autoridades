@@ -21,3 +21,4 @@ links: []
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS, G4 Podcasts) | [resumo](../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-08-05 | Posicionamento do Nardon: o nerd rico (canal do Alfredo) | [resumo](../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |

@@ -1,7 +1,7 @@
 ---
 nome: Alfredo Soares
 slug: alfredo-soares
-setores: [branding, vendas, negocios-e-gestao]
+setores: [branding, vendas, negocios-e-gestao, marketing, conteudo-e-redes]
 empresa_ou_projeto: G4 (sócio)
 links: []
 ---
@@ -19,7 +19,13 @@ links: []
 - Patrocínio só vale com o dobro do investimento reservado para distribuir o ativo. ([fonte](../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md))
 - Conteúdo não é tudo ou nada: precisa de manutenção. ([fonte](../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md))
 
+- Marketing é agenda: conectar acontecimentos para se manter em evidência. Conteúdo atrai, influência converte, experiência viraliza. ([fonte](../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md))
+- Tríade do futuro das vendas: CRM (disciplina), big data e IA; separar score do lead do nível de consciência. ([fonte](../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md))
+- Estratégia de conteúdo: identidade, formatos fixos por etapa do funil, volume alto, encaminhamento como métrica. ([fonte](../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS, G4 Podcasts) | [resumo](../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | [resumo](../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
+| 2026-08-05 | Posicionamento do Nardon: o nerd rico | [resumo](../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
