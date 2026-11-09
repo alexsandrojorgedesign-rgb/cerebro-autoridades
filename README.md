@@ -56,6 +56,7 @@ cerebro-autoridades/
 | David Ogilvy | marketing, branding, conteúdo | [ficha](autoridades/david-ogilvy.md) |
 | Erich Shibata (Cimed) | branding, marketing, vendas | [ficha](autoridades/erich-shibata.md) |
 | Marty Neumeier | branding, design | [ficha](autoridades/marty-neumeier.md) |
+| Alex Hormozi | branding, conteúdo, marketing | [ficha](autoridades/alex-hormozi.md) |
 
 ## Como adicionar um conteúdo
 

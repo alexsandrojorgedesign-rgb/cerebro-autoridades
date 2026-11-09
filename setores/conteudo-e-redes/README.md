@@ -9,9 +9,10 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | Michelly Müller | marketing imobiliário prático, Instagram e Meta Ads para corretores | [ficha](../../autoridades/michelly-muller.md) |
 | Alfredo Soares | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | [ficha](../../autoridades/alfredo-soares.md) |
 | Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
-| Seth Godin | ser notável; nicho, early adopters e boca a boca | [ficha](../../autoridades/seth-godin.md) |
+| Seth Godin | ser notável; permissão, confiança e consistência | [ficha](../../autoridades/seth-godin.md) |
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
+| Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 
 ## Fontes resumidas
 
@@ -25,9 +26,11 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
+| 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 
 ## Princípios consolidados

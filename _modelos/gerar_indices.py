@@ -19,11 +19,12 @@ P = {
  "tay-dantas": ("Tay Dantas", "diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria", ["branding","marketing","conteudo-e-redes","negocios-e-gestao","trafego-pago"]),
  "ana-couto": ("Ana Couto", "branding como gestão de valor, método, gap de percepção, CBO", ["branding","marketing","negocios-e-gestao"]),
  "philip-kotler": ("Philip Kotler", "base conceitual do marketing; série Marketing X.0", ["marketing","branding","negocios-e-gestao","ia"]),
- "seth-godin": ("Seth Godin", "ser notável; nicho, early adopters e boca a boca", ["marketing","branding","conteudo-e-redes"]),
+ "seth-godin": ("Seth Godin", "ser notável; permissão, confiança e consistência", ["marketing","branding","conteudo-e-redes","ia"]),
  "claude-hopkins": ("Claude C. Hopkins", "copy de resposta direta: testar, medir, ser específico", ["marketing","trafego-pago","vendas","conteudo-e-redes"]),
  "david-ogilvy": ("David Ogilvy", "copy que vende + imagem de marca e grande ideia", ["marketing","branding","conteudo-e-redes","trafego-pago"]),
  "erich-shibata": ("Erich Shibata", "Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro", ["branding","marketing","vendas"]),
  "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
+ "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -75,6 +76,12 @@ F.append(("2024-06-18", "Branding & Cultura na Cimed (ROI Hunters #240)", "Erich
 F.append(("2019-12-31", "O que é branding (The Futur)", "Marty Neumeier",
   "setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md",
   ["branding","design","marketing"]))
+F.append(("2026-10-23", "Como construir uma marca pessoal em 2027", "Alex Hormozi",
+  "setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md",
+  ["branding","conteudo-e-redes","marketing"]))
+F.append(("2026-04-14", "Marca notável na era da IA (The Entrepreneur's Studio)", "Seth Godin",
+  "setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md",
+  ["marketing","branding","ia","conteudo-e-redes","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -82,6 +89,7 @@ A = "setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md"
 D = "setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md"
 PRINC = {
  "marketing": [
+  "- **Clientes falando de você valem mais que você falando de você:** dê algo notável para contar (status, pertencimento, história) e cumpra a promessa, principalmente quando é difícil. Fontes: [Godin — era da IA](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md), [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — outros falam por você](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Hormozi — ciclo de marca](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md).",
   "- **Copy específica e com prova:** fatos, números e processo convencem; generalidade (\"alto padrão\", \"melhor\") é ignorada; depoimento real e demonstração valem mais que celebridade. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md).",
   "- **Repetir o que funciona e manter consistência:** campanha e tom vencedores rodam até os números caírem, não até a equipe enjoar. Fontes: [Hopkins — individualidade](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy — grande ideia e P&G](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Ana Couto — consistência](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).",
  ],

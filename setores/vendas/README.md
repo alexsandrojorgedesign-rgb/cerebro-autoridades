@@ -11,6 +11,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | Alfredo Soares | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | [ficha](../../autoridades/alfredo-soares.md) |
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
+| Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 
 ## Fontes resumidas
 

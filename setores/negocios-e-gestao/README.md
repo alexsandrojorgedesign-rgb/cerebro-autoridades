@@ -26,6 +26,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
+| 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 

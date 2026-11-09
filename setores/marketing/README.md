@@ -11,10 +11,11 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
 | Ana Couto | branding como gestão de valor, método, gap de percepção, CBO | [ficha](../../autoridades/ana-couto.md) |
 | Philip Kotler | base conceitual do marketing; série Marketing X.0 | [ficha](../../autoridades/philip-kotler.md) |
-| Seth Godin | ser notável; nicho, early adopters e boca a boca | [ficha](../../autoridades/seth-godin.md) |
+| Seth Godin | ser notável; permissão, confiança e consistência | [ficha](../../autoridades/seth-godin.md) |
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
+| Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 
 ## Fontes resumidas
 
@@ -31,13 +32,16 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
+| 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
+- **Clientes falando de você valem mais que você falando de você:** dê algo notável para contar (status, pertencimento, história) e cumpra a promessa, principalmente quando é difícil. Fontes: [Godin — era da IA](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md), [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — outros falam por você](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Hormozi — ciclo de marca](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md).
 - **Copy específica e com prova:** fatos, números e processo convencem; generalidade ("alto padrão", "melhor") é ignorada; depoimento real e demonstração valem mais que celebridade. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md).
 - **Repetir o que funciona e manter consistência:** campanha e tom vencedores rodam até os números caírem, não até a equipe enjoar. Fontes: [Hopkins — individualidade](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy — grande ideia e P&G](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Ana Couto — consistência](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
