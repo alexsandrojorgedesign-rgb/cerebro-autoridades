@@ -10,12 +10,14 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | Dener Lippert | performance, gargalos, preço e LTV | [ficha](../../autoridades/dener-lippert.md) |
 | Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
+| David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
 
 ## Fontes resumidas
 
 | Data | Fonte | Autoridade | Arquivo |
 |---|---|---|---|
 | 1923 | Scientific Advertising (livro) | Claude C. Hopkins | [resumo](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) |
+| 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
