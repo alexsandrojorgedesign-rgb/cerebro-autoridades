@@ -1,7 +1,7 @@
 ---
 nome: Gary Vaynerchuk (GaryVee)
 slug: gary-vaynerchuk
-setores: [conteudo-e-redes, marketing]
+setores: [conteudo-e-redes, marketing, branding]
 empresa_ou_projeto: VaynerMedia, VaynerX; autor de Crush It, Jab Jab Jab Right Hook
 links: []
 ---
@@ -16,8 +16,10 @@ links: []
 
 ## Ideias centrais
 - Redes viraram mídia de interesse: o criativo gera o alcance, então é preciso volume, variedade e relevância cultural; conteúdo egoísta não tem views. ([fonte](../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md))
+- Venda digital muda, marca fica: dar antes de pedir (jab jab jab right hook), comunidade no braço, mascote, dono que entende de marketing. ([fonte](../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md))
 
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-09 | Social Media Strategy 2027 + New Era of Social Media | [resumo](../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
+| 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | [resumo](../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |

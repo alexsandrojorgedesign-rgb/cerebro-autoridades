@@ -25,7 +25,7 @@ P = {
  "erich-shibata": ("Erich Shibata", "Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro", ["branding","marketing","vendas"]),
  "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
- "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume e criativo que gera alcance", ["conteudo-e-redes","marketing","mercado-imobiliario"]),
+ "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume, dar antes de pedir, marca acima de performance", ["conteudo-e-redes","marketing","mercado-imobiliario","branding"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -86,6 +86,9 @@ F.append(("2026-04-14", "Marca notável na era da IA (The Entrepreneur's Studio)
 F.append(("2026-09-04", "Mídia de interesse e volume (2 vídeos)", "Gary Vaynerchuk",
   "setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md",
   ["conteudo-e-redes","marketing","mercado-imobiliario","ia"]))
+F.append(("2022-05-26", "Marca acima de venda digital (Inside 4Ds)", "Gary Vaynerchuk",
+  "setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md",
+  ["branding","marketing","conteudo-e-redes","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -111,7 +114,7 @@ PRINC = {
  ],
  "trafego-pago": [
   "- **Testar e medir pelo custo por cliente/venda, não pelo gosto:** mesmo criativo com ganchos/títulos diferentes, escalar o vencedor. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Michelly — Andromeda](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Dener — volume de testes](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).",
-  "- **Não depender só de mídia paga:** construir audiência própria, marca e indicação para baixar o custo de aquisição e aguentar a alta do CPC. Fontes: [Tay — terra e tijolo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md), [Alfredo — 30% orgânico](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Dener — superestimam o tráfego](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).","- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
+  "- **Não depender só de mídia paga:** construir audiência própria, marca e indicação para baixar o custo de aquisição e aguentar a alta do CPC. Fontes: [Tay — terra e tijolo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md), [GaryVee — venda digital muda, marca fica](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md), [Alfredo — 30% orgânico](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Dener — superestimam o tráfego](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).","- **Criativo é a principal alavanca da mídia.** Criativos realmente diferentes entre si (Andromeda) e muitos testes, com gancho nos 3 primeiros segundos e CTA claro. Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
  "vendas": [
   "- **Horário do cliente, não o seu:** ligar e atender na hora em que o cliente tem atenção (empresário à noite). Fontes: [Alfredo — Jota Jota](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Alfredo — G4 Day](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Kotler 5.0 — marketing contextual](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md).",
   "- **CRM com disciplina + dados + IA:** registrar preferências do cliente, enriquecer dados e usar IA para priorizar e tratar objeções. Fontes: [Alfredo — tríade](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md), [Kotler — Marketing 5.0](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md).",

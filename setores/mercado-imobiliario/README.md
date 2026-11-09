@@ -7,7 +7,7 @@ Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dado
 | Pessoa | Por que ouvir | Ficha |
 |---|---|---|
 | Michelly Müller | marketing imobiliário prático, Instagram e Meta Ads para corretores | [ficha](../../autoridades/michelly-muller.md) |
-| Gary Vaynerchuk | mídia de interesse, volume e criativo que gera alcance | [ficha](../../autoridades/gary-vaynerchuk.md) |
+| Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
 
 ## Fontes resumidas
 
