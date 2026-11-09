@@ -10,6 +10,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | Dener Lippert | performance, gargalos, preço e LTV | [ficha](../../autoridades/dener-lippert.md) |
 | Alfredo Soares | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | [ficha](../../autoridades/alfredo-soares.md) |
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
+| Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
 
 ## Fontes resumidas
 
@@ -19,6 +20,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
+| 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |

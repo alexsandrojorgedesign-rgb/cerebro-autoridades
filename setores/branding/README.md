@@ -13,6 +13,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Philip Kotler | base conceitual do marketing; série Marketing X.0 | [ficha](../../autoridades/philip-kotler.md) |
 | Seth Godin | ser notável; nicho, early adopters e boca a boca | [ficha](../../autoridades/seth-godin.md) |
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
+| Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 
 ## Fontes resumidas
@@ -25,6 +26,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
+| 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
@@ -36,6 +38,8 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
+- **Patrocínio e evento só com verba e gente para ativar:** reservar mais verba para distribuir/ativar o ativo; patrocínio por ego não. Fontes: [Erich — Cimed](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md), [Alfredo — dobro para distribuir](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).
+- **Marca-mãe e ativo visual consistente:** concentrar atenção numa marca e repetir um ativo próprio (cor, selo) sempre igual; o logo é pequena parte da marca. Fontes: [Erich — Cimed](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Ana Couto](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
 - **Diferenciação real, não "muito bom":** o comum é invisível; o notável (produto, experiência, atendimento) gera boca a boca e baixa o custo de aquisição. Fontes: [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — marca mais desejada](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto — pontos de contato com intenção](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
 - **Identidade se mostra, não se declara:** escolher traços e mostrar os momentos reais do dia a dia que os provam (disciplina = postar a mesma coisa todo dia). Fontes: [Alfredo — Ninja](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md), [Alfredo — nerd rico](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay — marca pessoal](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [Tay — brand performance](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).

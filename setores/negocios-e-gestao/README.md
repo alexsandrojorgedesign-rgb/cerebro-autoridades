@@ -23,6 +23,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
+| 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |

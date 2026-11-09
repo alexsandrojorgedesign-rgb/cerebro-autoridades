@@ -54,6 +54,7 @@ cerebro-autoridades/
 | Seth Godin | marketing, branding, conteúdo | [ficha](autoridades/seth-godin.md) |
 | Claude C. Hopkins | marketing, tráfego pago, vendas | [ficha](autoridades/claude-hopkins.md) |
 | David Ogilvy | marketing, branding, conteúdo | [ficha](autoridades/david-ogilvy.md) |
+| Erich Shibata (Cimed) | branding, marketing, vendas | [ficha](autoridades/erich-shibata.md) |
 
 ## Como adicionar um conteúdo
 

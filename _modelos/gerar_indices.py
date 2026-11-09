@@ -22,6 +22,7 @@ P = {
  "seth-godin": ("Seth Godin", "ser notável; nicho, early adopters e boca a boca", ["marketing","branding","conteudo-e-redes"]),
  "claude-hopkins": ("Claude C. Hopkins", "copy de resposta direta: testar, medir, ser específico", ["marketing","trafego-pago","vendas","conteudo-e-redes"]),
  "david-ogilvy": ("David Ogilvy", "copy que vende + imagem de marca e grande ideia", ["marketing","branding","conteudo-e-redes","trafego-pago"]),
+ "erich-shibata": ("Erich Shibata", "Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro", ["branding","marketing","vendas"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -67,6 +68,9 @@ F.append(("1923", "Scientific Advertising (livro)", "Claude C. Hopkins",
 F.append(("1983", "Ogilvy on Advertising (livro, via resumo Bookey)", "David Ogilvy",
   "setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md",
   ["marketing","branding","conteudo-e-redes","trafego-pago","negocios-e-gestao"]))
+F.append(("2024-06-18", "Branding & Cultura na Cimed (ROI Hunters #240)", "Erich Shibata",
+  "setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md",
+  ["branding","marketing","vendas","conteudo-e-redes","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -78,6 +82,8 @@ PRINC = {
   "- **Repetir o que funciona e manter consistência:** campanha e tom vencedores rodam até os números caírem, não até a equipe enjoar. Fontes: [Hopkins — individualidade](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy — grande ideia e P&G](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Ana Couto — consistência](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).",
  ],
  "branding": [
+  "- **Patrocínio e evento só com verba e gente para ativar:** reservar mais verba para distribuir/ativar o ativo; patrocínio por ego não. Fontes: [Erich — Cimed](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md), [Alfredo — dobro para distribuir](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).",
+  "- **Marca-mãe e ativo visual consistente:** concentrar atenção numa marca e repetir um ativo próprio (cor, selo) sempre igual; o logo é pequena parte da marca. Fontes: [Erich — Cimed](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Ana Couto](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).",
   "- **Diferenciação real, não \"muito bom\":** o comum é invisível; o notável (produto, experiência, atendimento) gera boca a boca e baixa o custo de aquisição. Fontes: [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — marca mais desejada](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto — pontos de contato com intenção](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).",
   "- **Identidade se mostra, não se declara:** escolher traços e mostrar os momentos reais do dia a dia que os provam (disciplina = postar a mesma coisa todo dia). Fontes: [Alfredo — Ninja](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md), [Alfredo — nerd rico](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay — marca pessoal](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).",
   "- **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../%s), [Tay — brand performance](../../%s)." % (D, T),
