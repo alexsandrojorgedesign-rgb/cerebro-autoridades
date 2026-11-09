@@ -11,12 +11,14 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
 | Ana Couto | branding como gestão de valor, método, gap de percepção, CBO | [ficha](../../autoridades/ana-couto.md) |
 | Philip Kotler | base conceitual do marketing; série Marketing X.0 | [ficha](../../autoridades/philip-kotler.md) |
+| Seth Godin | ser notável; nicho, early adopters e boca a boca | [ficha](../../autoridades/seth-godin.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 
 ## Fontes resumidas
 
 | Data | Fonte | Autoridade | Arquivo |
 |---|---|---|---|
+| 2003 | A Vaca Roxa (livro, via resumo Bookey) | Seth Godin | [resumo](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md) |
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
@@ -31,6 +33,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
+- **Diferenciação real, não "muito bom":** o comum é invisível; o notável (produto, experiência, atendimento) gera boca a boca e baixa o custo de aquisição. Fontes: [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — marca mais desejada](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto — pontos de contato com intenção](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).
 - **Identidade se mostra, não se declara:** escolher traços e mostrar os momentos reais do dia a dia que os provam (disciplina = postar a mesma coisa todo dia). Fontes: [Alfredo — Ninja](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md), [Alfredo — nerd rico](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay — marca pessoal](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [Tay — brand performance](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **Pessoas na frente da marca:** rostos (donos, equipe, clientes) conectam mais que logo. Marca pessoal dá velocidade e marca da empresa dá escala. Fontes: [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).

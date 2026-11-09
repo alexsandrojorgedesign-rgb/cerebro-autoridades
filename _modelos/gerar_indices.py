@@ -19,6 +19,7 @@ P = {
  "tay-dantas": ("Tay Dantas", "diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria", ["branding","marketing","conteudo-e-redes","negocios-e-gestao","trafego-pago"]),
  "ana-couto": ("Ana Couto", "branding como gestão de valor, método, gap de percepção, CBO", ["branding","marketing","negocios-e-gestao"]),
  "philip-kotler": ("Philip Kotler", "base conceitual do marketing; série Marketing X.0", ["marketing","branding","negocios-e-gestao","ia"]),
+ "seth-godin": ("Seth Godin", "ser notável; nicho, early adopters e boca a boca", ["marketing","branding","conteudo-e-redes"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -55,6 +56,9 @@ F.append(("2026-11-06", "Marketing à prova de crise (The Code Vinci)", "Tay Dan
   ["branding","marketing","conteudo-e-redes","trafego-pago"]))
 F.append(("2026-08-16", "Advisor: a empresa da marca pessoal do Ninja", "Alfredo Soares",
   "setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md", ["conteudo-e-redes","branding","negocios-e-gestao","marketing"]))
+F.append(("2003", "A Vaca Roxa (livro, via resumo Bookey)", "Seth Godin",
+  "setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md",
+  ["marketing","branding","conteudo-e-redes","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -62,6 +66,7 @@ A = "setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md"
 D = "setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md"
 PRINC = {
  "branding": [
+  "- **Diferenciação real, não \"muito bom\":** o comum é invisível; o notável (produto, experiência, atendimento) gera boca a boca e baixa o custo de aquisição. Fontes: [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — marca mais desejada](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Ana Couto — pontos de contato com intenção](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).",
   "- **Identidade se mostra, não se declara:** escolher traços e mostrar os momentos reais do dia a dia que os provam (disciplina = postar a mesma coisa todo dia). Fontes: [Alfredo — Ninja](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md), [Alfredo — nerd rico](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay — marca pessoal](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).",
   "- **Marca e venda andam juntas:** marca serve para vender mais rápido e mais barato, não é desculpa para gasto sem retorno. Fontes: [Alfredo e Dener](../../%s), [Tay — brand performance](../../%s)." % (D, T),
   "- **Pessoas na frente da marca:** rostos (donos, equipe, clientes) conectam mais que logo. Marca pessoal dá velocidade e marca da empresa dá escala. Fontes: [Michelly](../../%s), [Tay](../../%s)." % (M, T),

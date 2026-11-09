@@ -51,6 +51,7 @@ cerebro-autoridades/
 | Tay Dantas (Vince Société) | branding, marketing, conteúdo | [ficha](autoridades/tay-dantas.md) |
 | Ana Couto | branding, marketing, negócios | [ficha](autoridades/ana-couto.md) |
 | Philip Kotler | marketing, branding, negócios | [ficha](autoridades/philip-kotler.md) |
+| Seth Godin | marketing, branding, conteúdo | [ficha](autoridades/seth-godin.md) |
 
 ## Como adicionar um conteúdo
 
