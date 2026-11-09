@@ -50,6 +50,7 @@ cerebro-autoridades/
 | Bruno Nardon (G4) | negócios, branding | [ficha](autoridades/bruno-nardon.md) |
 | Tay Dantas (Vince Société) | branding, marketing, conteúdo | [ficha](autoridades/tay-dantas.md) |
 | Ana Couto | branding, marketing, negócios | [ficha](autoridades/ana-couto.md) |
+| Philip Kotler | marketing, branding, negócios | [ficha](autoridades/philip-kotler.md) |
 
 ## Como adicionar um conteúdo
 
