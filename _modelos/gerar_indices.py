@@ -30,6 +30,7 @@ P = {
  "kallaway": ("Kallaway", "storytelling como loop: stakes, pergunta, virada e re-hook; roteiro de vídeo curto", ["storytelling","conteudo-e-redes","trafego-pago"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "philipp-humm": ("Philipp Humm", "zoom no momento com PAST: lugar, ação, fala, pensamentos", ["storytelling","conteudo-e-redes","vendas"]),
+ "remi": ("Remi (Open Residency)", "agentes de IA na prática: contexto .md, MCPs, skills e pasta OS", ["ia","negocios-e-gestao","marketing","trafego-pago"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -108,6 +109,9 @@ F.append(("2026-04-19", "Zoom no momento: método PAST", "Philipp Humm",
 F.append(("2019", "Storytelling — leitura complementar: mapa dos 37 capítulos e páginas", "Carmine Gallo",
   "setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md",
   ["storytelling","branding","marketing","conteudo-e-redes","vendas","negocios-e-gestao"]))
+F.append(("2026-07-22", "Agentes de IA: o curso completo (Open Residency)", "Remi",
+  "setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md",
+  ["ia","negocios-e-gestao","marketing","trafego-pago"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
