@@ -31,6 +31,7 @@ P = {
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "philipp-humm": ("Philipp Humm", "zoom no momento com PAST: lugar, ação, fala, pensamentos", ["storytelling","conteudo-e-redes","vendas"]),
  "remi": ("Remi (Open Residency)", "agentes de IA na prática: contexto .md, MCPs, skills e pasta OS", ["ia","negocios-e-gestao","marketing","trafego-pago"]),
+ "mateo-jimenez": ("Mateo Jiménez", "funil de conteúdo TOFU/MOFU/BOFU com proporções", ["conteudo-e-redes","marketing"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -112,6 +113,9 @@ F.append(("2019", "Storytelling — leitura complementar: mapa dos 37 capítulos
 F.append(("2026-07-22", "Agentes de IA: o curso completo (Open Residency)", "Remi",
   "setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md",
   ["ia","negocios-e-gestao","marketing","trafego-pago"]))
+F.append(("2026-11-09", "Reel: funil de conteúdo TOFU, MOFU, BOFU", "Mateo Jiménez",
+  "setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md",
+  ["conteudo-e-redes","marketing"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -152,7 +156,7 @@ PRINC = {
  "conteudo-e-redes": [
   "- **Falar do interesse do público, não de si:** conteúdo egoísta (\"compre de mim\") não tem alcance; o algoritmo entrega por interesse, então o criativo relevante gera o alcance. Fontes: [GaryVee](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md), [Alfredo — G4 Day](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md).",
   "- **Seguidor não é a métrica principal:** priorize vendas, leads qualificados, encaminhamentos e engajamento. Fontes: [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).",
-  "- **Conteúdo por etapa do funil com formatos fixos** (topo/meio/fundo), cada post com objetivo. Fontes: [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).","- **Todo conteúdo precisa levar a uma ação** (CTA para comentário, direct ou WhatsApp). Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
+  "- **Conteúdo por etapa do funil com formatos fixos** (topo/meio/fundo), cada post com objetivo; o topo é a maior fatia (Mateo sugere ~60–70% topo, 20–30% meio, 10–20% fundo). Fontes: [Mateo Jiménez](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).","- **Todo conteúdo precisa levar a uma ação** (CTA para comentário, direct ou WhatsApp). Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
 }
 for k,(nome,desc) in S.items():
     L = [f"# {nome}", "", desc, "", "## Autoridades de referência", "", "| Pessoa | Por que ouvir | Ficha |", "|---|---|---|"]

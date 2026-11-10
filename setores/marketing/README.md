@@ -19,6 +19,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
+| Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
 
 ## Fontes resumidas
 
@@ -46,6 +47,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 | 2026-11-09 | Estudo de caso: Elephant Skin (portfólio, copy e lançamento) | Pesquisa própria (Elephant Skin) | [resumo](../../setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md) |
+| 2026-11-09 | Reel: funil de conteúdo TOFU, MOFU, BOFU | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) |
 
 ## Princípios consolidados
 

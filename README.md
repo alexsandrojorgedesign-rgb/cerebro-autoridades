@@ -68,6 +68,7 @@ O que a Meta ensina oficialmente, estudado pela documentação pública e pelo c
 | Carmine Gallo | storytelling, branding, marketing, conteúdo, vendas, negócios | [ficha](autoridades/carmine-gallo.md) |
 | Philipp Humm | storytelling, conteúdo e redes | [ficha](autoridades/philipp-humm.md) |
 | Remi (Open Residency) | IA, negócios, marketing | [ficha](autoridades/remi.md) |
+| Mateo Jiménez | conteúdo e redes, marketing | [ficha](autoridades/mateo-jimenez.md) |
 
 ## Como adicionar um conteúdo
 
