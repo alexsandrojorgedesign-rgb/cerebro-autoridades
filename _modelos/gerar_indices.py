@@ -28,6 +28,8 @@ P = {
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
  "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume, dar antes de pedir, marca acima de performance", ["conteudo-e-redes","marketing","mercado-imobiliario","branding"]),
  "kallaway": ("Kallaway", "storytelling como loop: stakes, pergunta, virada e re-hook; roteiro de vídeo curto", ["storytelling","conteudo-e-redes","trafego-pago"]),
+ "carmine-gallo": ("Carmine Gallo", "storytelling de negócios: 65% de histórias, origem, simplificar, cultura", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes"]),
+ "philipp-humm": ("Philipp Humm", "zoom no momento com PAST: lugar, ação, fala, pensamentos", ["storytelling","conteudo-e-redes","vendas"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -97,6 +99,12 @@ F.append(("2026-11-09", "Estudo de caso: Elephant Skin (portfólio, copy e lanç
 F.append(("2026-04-22", "A neurociência do storytelling viciante", "Kallaway",
   "setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md",
   ["storytelling","conteudo-e-redes","trafego-pago"]))
+F.append(("2016", "Storytelling (The Storyteller's Secret, livro)", "Carmine Gallo",
+  "setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md",
+  ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes"]))
+F.append(("2026-04-19", "Zoom no momento: método PAST", "Philipp Humm",
+  "setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md",
+  ["storytelling","conteudo-e-redes","vendas"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -119,6 +127,12 @@ PRINC = {
   "- **Marca é a percepção criada por todos os pontos de contato** (produto, loja, atendimento, equipe), não só pelo marketing ou pelo logo. Fontes: [Tay](../../%s), [Ana Couto](../../%s), [Neumeier](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md)." % (T, A),
   "- **Diagnóstico pelo gap de percepção:** como o público quer ser visto e como a marca é vista, por dentro e por fora, vale mais que perfil demográfico. Fontes: [Tay](../../%s), [Ana Couto](../../%s)." % (T, A),
   "- **O peso da marca depende do que o cliente valoriza:** quanto mais premium e exclusivo, mais a marca pesa. Fontes: [Nardon](../../%s), [Tay — luxo](../../%s)." % (D, T),
+ ],
+ "storytelling": [
+  "- **Sem conflito não há história:** o que está em jogo, a luta e a tensão vêm antes do triunfo; a versão 'deu tudo certo' não prende. Fontes: [Kallaway — stakes](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — luta e triunfo, Hardy, Purdy](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md), [Humm — sair da visão de helicóptero](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md).",
+  "- **Detalhe concreto e específico gera crença e imagem mental:** nomear lugar, objeto, fala e número exatos, sem descrição genérica nem detalhe irrelevante. Fontes: [Gallo — Blakely, Frates](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md), [Humm — PAST](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md).",
+  "- **Comece no meio da ação, com pouco contexto:** a pergunta ou situação deve aparecer cedo, com contexto suficiente só para o público prever o que vem. Fontes: [Humm — ação e lugar](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md), [Kallaway — grande pergunta](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — manchete nos primeiros 60 s](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
+  "- **Surpresa que faz sentido:** quebrar a expectativa do público prende, desde que a virada tenha pista plantada e lógica. Fontes: [Kallaway — head fake](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — violação de expectativa, Gates/Jobs](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
  ],
  "trafego-pago": [
   "- **Documentação oficial da Meta** (campanhas, públicos, leilão, criativos, formulários, WhatsApp, mensuração, políticas): ver a pasta [META](../../META/README.md).",
