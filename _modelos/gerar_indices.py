@@ -1,5 +1,5 @@
 import pathlib
-R = pathlib.Path(r"C:\Users\alexs\Projetos\cerebro-autoridades")
+R = pathlib.Path(__file__).resolve().parents[1]
 S = {
  "marketing": ("Marketing", "Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV."),
  "ia": ("Inteligência Artificial", "Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios."),
@@ -13,6 +13,7 @@ S = {
  "negocios-e-gestao": ("Negócios e Gestão", "Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio."),
 }
 P = {
+ "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","marketing","conteudo-e-redes","vendas","negocios-e-gestao"]),
  "michelly-muller": ("Michelly Müller", "marketing imobiliário prático, Instagram e Meta Ads para corretores",
      ["mercado-imobiliario","conteudo-e-redes","trafego-pago","branding","ia","vendas"]),
  "dener-lippert": ("Dener Lippert", "performance, gargalos, preço e LTV", ["marketing","vendas","negocios-e-gestao","trafego-pago"]),
@@ -97,12 +98,18 @@ F.append(("2026-11-09", "Estudo de caso: Elephant Skin (portfólio, copy e lanç
 F.append(("2026-04-22", "A neurociência do storytelling viciante", "Kallaway",
   "setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md",
   ["storytelling","conteudo-e-redes","trafego-pago"]))
+F.append(("2019", "Storytelling (livro; edição brasileira)", "Carmine Gallo",
+  "setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md",
+  ["storytelling","branding","marketing","conteudo-e-redes","vendas","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
 A = "setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md"
 D = "setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md"
 PRINC = {
+ "storytelling": [
+  "- **Uma dificuldade relevante dá direção à história:** deixar claro quem enfrenta o problema, o que está em jogo e como os acontecimentos se conectam. Convergência prática entre [Gallo — caps. 5, 9 e 13, pp. 54–58, 75–79 e 102–105 do PDF](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) e [Kallaway — stakes e pergunta, 02:35–06:15 e 14:13–17:53](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md). Isso não comprova as explicações neurocientíficas propostas pelas fontes.",
+ ],
  "marketing": [
   "- **Clientes falando de você valem mais que você falando de você:** dê algo notável para contar (status, pertencimento, história) e cumpra a promessa, principalmente quando é difícil. Fontes: [Godin — era da IA](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md), [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — outros falam por você](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Hormozi — ciclo de marca](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md).",
   "- **Copy específica e com prova:** fatos, números e processo convencem; generalidade (\"alto padrão\", \"melhor\") é ignorada; depoimento real e demonstração valem mais que celebridade. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md).",

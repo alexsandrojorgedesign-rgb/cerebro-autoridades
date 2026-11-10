@@ -65,6 +65,7 @@ O que a Meta ensina oficialmente, estudado pela documentação pública e pelo c
 | Alex Hormozi | branding, conteúdo, marketing | [ficha](autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | conteúdo e redes, marketing | [ficha](autoridades/gary-vaynerchuk.md) |
 | Kallaway | storytelling, conteúdo e redes | [ficha](autoridades/kallaway.md) |
+| Carmine Gallo | storytelling, branding, marketing, conteúdo, vendas, negócios | [ficha](autoridades/carmine-gallo.md) |
 
 ## Como adicionar um conteúdo
 
