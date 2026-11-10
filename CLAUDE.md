@@ -19,7 +19,7 @@ Este repositório é o cérebro de **conhecimento externo** do Alex (We Inc / Ec
 - Ideia de uma única pessoa é opinião, não regra.
 
 ## Setores válidos
-`marketing`, `ia`, `design`, `branding`, `conteudo-e-redes`, `trafego-pago`, `vendas`, `mercado-imobiliario`, `negocios-e-gestao`. Para criar um setor novo, copie a estrutura de um existente e adicione-o à tabela do README raiz.
+`marketing`, `ia`, `design`, `branding`, `conteudo-e-redes`, `trafego-pago`, `vendas`, `mercado-imobiliario`, `storytelling`, `negocios-e-gestao`. Para criar um setor novo, copie a estrutura de um existente e adicione-o à tabela do README raiz.
 
 ## Commits
 Mensagens curtas em português, por exemplo: `fonte: Michelly Müller — conteúdo que vende imóveis 2026`.

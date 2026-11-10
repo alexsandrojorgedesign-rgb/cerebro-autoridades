@@ -9,6 +9,7 @@ S = {
  "trafego-pago": ("Tráfego Pago", "Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC."),
  "vendas": ("Vendas", "Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação."),
  "mercado-imobiliario": ("Mercado Imobiliário", "Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado."),
+ "storytelling": ("Storytelling", "Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação."),
  "negocios-e-gestao": ("Negócios e Gestão", "Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio."),
 }
 P = {
@@ -26,6 +27,7 @@ P = {
  "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
  "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume, dar antes de pedir, marca acima de performance", ["conteudo-e-redes","marketing","mercado-imobiliario","branding"]),
+ "kallaway": ("Kallaway", "storytelling como loop: stakes, pergunta, virada e re-hook; roteiro de vídeo curto", ["storytelling","conteudo-e-redes","trafego-pago"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -92,6 +94,9 @@ F.append(("2022-05-26", "Marca acima de venda digital (Inside 4Ds)", "Gary Vayne
 F.append(("2026-11-09", "Estudo de caso: Elephant Skin (portfólio, copy e lançamento)", "Pesquisa própria (Elephant Skin)",
   "setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md",
   ["mercado-imobiliario","branding","marketing","conteudo-e-redes","design"]))
+F.append(("2026-04-22", "A neurociência do storytelling viciante", "Kallaway",
+  "setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md",
+  ["storytelling","conteudo-e-redes","trafego-pago"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"

@@ -1,6 +1,6 @@
 # Cérebro de Autoridades
 
-Base de conhecimento **externo**: o que pessoas de referência dizem sobre marketing, IA, design, branding, vendas e mercado imobiliário. Aqui ficam resumos de vídeos, podcasts, livros, cursos e posts, organizados por setor, para consultar na hora de criar estratégia, conteúdo e campanhas.
+Base de conhecimento **externo**: o que pessoas de referência dizem sobre marketing, IA, design, branding, storytelling, vendas e mercado imobiliário. Aqui ficam resumos de vídeos, podcasts, livros, cursos e posts, organizados por setor, para consultar na hora de criar estratégia, conteúdo e campanhas.
 
 > O conhecimento **interno** (clientes, projetos, aprendizados do Alex) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Este repositório guarda só o que vem de fora.
 
@@ -18,6 +18,7 @@ cerebro-autoridades/
 │   ├── trafego-pago/
 │   ├── vendas/
 │   ├── mercado-imobiliario/
+│   ├── storytelling/
 │   └── negocios-e-gestao/
 │       ├── README.md       índice do setor: autoridades, fontes e princípios consolidados
 │       └── fontes/         um resumo por conteúdo (AAAA-MM-DD_autor_titulo.md)
@@ -38,6 +39,7 @@ cerebro-autoridades/
 | [Tráfego Pago](setores/trafego-pago/) | Meta Ads, Google Ads, criativos de performance |
 | [Vendas](setores/vendas/) | atendimento, follow-up, CRM, oferta e preço |
 | [Mercado Imobiliário](setores/mercado-imobiliario/) | incorporação, corretores, jornada do comprador |
+| [Storytelling](setores/storytelling/) | narrativa, roteiro, ganchos, tensão e retenção |
 | [Negócios e Gestão](setores/negocios-e-gestao/) | estratégia, gargalos, liderança, modelo de negócio |
 
 ## Pasta META (Meta Ads, Facebook, Instagram, WhatsApp)
@@ -62,6 +64,7 @@ O que a Meta ensina oficialmente, estudado pela documentação pública e pelo c
 | Marty Neumeier | branding, design | [ficha](autoridades/marty-neumeier.md) |
 | Alex Hormozi | branding, conteúdo, marketing | [ficha](autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | conteúdo e redes, marketing | [ficha](autoridades/gary-vaynerchuk.md) |
+| Kallaway | storytelling, conteúdo e redes | [ficha](autoridades/kallaway.md) |
 
 ## Como adicionar um conteúdo
 
