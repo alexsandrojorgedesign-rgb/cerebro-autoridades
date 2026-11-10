@@ -18,9 +18,11 @@ ano_original: 2016
 traducao: "Bruno Scartozzoni"
 ---
 
-# Storytelling — Carmine Gallo
+# Storytelling — Carmine Gallo: leitura complementar
 
 **Em uma frase:** ideias ganham força quando são apresentadas por meio de histórias humanas, claras e concretas, nas quais o público entende o conflito, acompanha uma transformação e percebe por que agir.
+
+> Leitura complementar ao [resumo já existente](2016-01-01_carmine-gallo_storytelling.md). Ambos estudam a mesma obra: o primeiro arquivo usa o ano do original (2016), e este usa o ano da edição brasileira (2019). Não são duas fontes independentes. Este material acrescenta um mapa por capítulo com páginas, instrumentos de consulta e análise crítica.
 
 ## Sobre a fonte e como consultar
 

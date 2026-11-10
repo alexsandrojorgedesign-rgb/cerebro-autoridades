@@ -6,7 +6,6 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 
 | Pessoa | Por que ouvir | Ficha |
 |---|---|---|
-| Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Dener Lippert | performance, gargalos, preço e LTV | [ficha](../../autoridades/dener-lippert.md) |
 | Alfredo Soares | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | [ficha](../../autoridades/alfredo-soares.md) |
 | Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
@@ -18,6 +17,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
+| Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 
 ## Fontes resumidas
 
@@ -27,7 +27,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
 | 2003 | A Vaca Roxa (livro, via resumo Bookey) | Seth Godin | [resumo](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md) |
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
-| 2019 | Storytelling (livro; edição brasileira) | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
+| 2019 | Storytelling — leitura complementar: mapa dos 37 capítulos e páginas | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
 | 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | Gary Vaynerchuk | [resumo](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |

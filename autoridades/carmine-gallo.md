@@ -1,31 +1,27 @@
 ---
-nome: "Carmine Gallo"
-slug: "carmine-gallo"
-setores: [storytelling, branding, marketing, conteudo-e-redes, vendas, negocios-e-gestao]
-empresa_ou_projeto: "Autor de The Storyteller's Secret e de livros sobre comunicação e apresentações"
+nome: Carmine Gallo
+slug: carmine-gallo
+setores: [storytelling, branding, vendas, negocios-e-gestao, conteudo-e-redes, marketing]
+empresa_ou_projeto: ex-jornalista de TV (CNN, CBS); consultor de comunicação; autor de "The Storyteller's Secret", "Talk Like TED", "The Presentation Secrets of Steve Jobs"
 links: []
 ---
 
 # Carmine Gallo
 
-**Quem é:** autor e palestrante sobre comunicação, apresentações e storytelling empresarial. No prefácio do livro consultado, relata sua trajetória no jornalismo e seu trabalho com líderes e empreendedores.
+**Quem é:** ex-âncora e repórter de TV americano que virou consultor e palestrante de comunicação para executivos. Autor de livros sobre apresentações de Steve Jobs, TED e storytelling.
 
-**Por que ouvir:** reúne casos e recursos de comunicação para explicar como histórias ajudam a apresentar ideias, ensinar, transmitir cultura e mobilizar pessoas.
+**Por que ouvir:** organiza storytelling de negócios em técnicas aplicáveis (65% de histórias, regra dos três, manchete de 140 caracteres, analogia, história de origem), com dezenas de casos de líderes e marcas.
 
-**Viés a considerar:** abordagem de divulgação e desenvolvimento profissional, apoiada em exemplos de grande sucesso. Os casos não isolam o efeito da narrativa; explicações neurocientíficas e percentuais exigem consulta às pesquisas originais.
+**Viés a considerar:** casos selecionados entre vencedores (viés de sobrevivência); ciência citada de forma simplificada; contexto de palestras e corporações americanas. A edição usada é de 2016, e alguns personagens envelheceram mal.
 
 ## Ideias centrais
-
-As ideias abaixo vêm de uma obra consultada; não representam consenso científico nem recorrência confirmada em vários livros do autor.
-
-- Histórias de origem e transformação dão significado à mensagem e explicam valores e escolhas. [Fonte, caps. 1–9](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md).
-- Detalhes relevantes, analogias, demonstrações e humor tornam conceitos mais acessíveis. [Fonte, caps. 10–17](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md).
-- Mensagem principal clara, organização em poucos pontos e imagens pertinentes facilitam a apresentação. [Fonte, caps. 18–23](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md).
-- Histórias de atendimento e de decisões organizacionais tornam a cultura observável. [Fonte, caps. 25–27](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md).
-- A prática desenvolve o narrador; o núcleo emocional e a transformação do personagem orientam os recursos visuais. [Fonte, caps. 33 e 37](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md).
+- Grandes storytellers transformam a própria luta em triunfo e falam a partir da paixão ("o que alegra seu coração?"). ([fonte](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md))
+- Ao menos 65% de uma apresentação deve ser história; dados vêm embalados nela. ([fonte](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md))
+- Simplificar: manchete curta, regra dos três, palavras curtas, analogia, imagem em vez de texto. ([fonte](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md))
+- Cultura e marca se constroem com histórias repetidas, inclusive as dos funcionários como heróis. ([fonte](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md))
 
 ## Fontes
-
 | Data | Conteúdo | Arquivo |
 |---|---|---|
-| 2019 (edição brasileira; original de 2016) | Storytelling — 37 capítulos, técnicas, aplicações e limites | [resumo](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
+| 2016 | Storytelling (The Storyteller's Secret), ed. bras. 2019 | [resumo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) |
+| 2019 (edição brasileira) | Leitura complementar: 37 capítulos, páginas, aplicações e análise crítica | [leitura detalhada](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
