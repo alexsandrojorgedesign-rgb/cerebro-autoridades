@@ -34,6 +34,7 @@ P = {
  "mateo-jimenez": ("Mateo Jiménez", "funil de conteúdo TOFU/MOFU/BOFU com proporções", ["conteudo-e-redes","marketing"]),
  "teo-egana": ("Teo Egaña", "conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter", ["mercado-imobiliario","conteudo-e-redes","marketing","vendas"]),
  "ketherin-kaffka": ("Ketherin Kaffka", "perfil como programa de TV: séries recorrentes (monoflow)", ["conteudo-e-redes","branding","mercado-imobiliario"]),
+ "metics-media": ("Metics Media (Matt)", "comparação prática OpenClaw x Hermes, instalação em VPS", ["ia","negocios-e-gestao"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -128,6 +129,8 @@ F.append(("2026-10-23", "Corte Open Residency: público em alvo e mix 3-2-1", "K
   "setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md", ["conteudo-e-redes","marketing","trafego-pago"]))
 F.append(("2026-11-05", "Corte Open Residency (evidência fraca)", "Gary Vaynerchuk",
   "setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md", ["conteudo-e-redes","marketing"]))
+F.append(("2026-06-15", "OpenClaw vs Hermes Agent: qual escolher", "Metics Media",
+  "setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md", ["ia","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -156,6 +159,10 @@ PRINC = {
   "- **Detalhe concreto e específico gera crença e imagem mental:** nomear lugar, objeto, fala e número exatos, sem descrição genérica nem detalhe irrelevante. Fontes: [Gallo — Blakely, Frates](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md), [Humm — PAST](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md).",
   "- **Comece no meio da ação, com pouco contexto:** a pergunta ou situação deve aparecer cedo, com contexto suficiente só para o público prever o que vem. Fontes: [Humm — ação e lugar](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md), [Kallaway — grande pergunta](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — manchete nos primeiros 60 s](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
   "- **Surpresa que faz sentido:** quebrar a expectativa do público prende, desde que a virada tenha pista plantada e lógica. Fontes: [Kallaway — head fake](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — violação de expectativa, Gates/Jobs](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
+ ],
+ "ia": [
+  "- **Agente que age em contas roda isolado e começa com pouca permissão:** máquina separada (VPS, Mac mini) em vez do PC de trabalho, só leitura e envio em rascunho até ganhar confiança, e versões sempre atualizadas. Fontes: [Remi — só leitura e aprovação](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics — VPS e CVEs](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md).",
+  "- **Tarefa repetida vira skill:** fazer uma vez, ajustar e salvar como skill (ou deixar o agente aprender sozinho) é o que deixa o agente útil e mais barato com o tempo. Fontes: [Remi — processo primeiro](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics — Curator do Hermes](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md).",
  ],
  "trafego-pago": [
   "- **Documentação oficial da Meta** (campanhas, públicos, leilão, criativos, formulários, WhatsApp, mensuração, políticas): ver a pasta [META](../../META/README.md).",

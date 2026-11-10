@@ -13,6 +13,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | Philip Kotler | base conceitual do marketing; série Marketing X.0 | [ficha](../../autoridades/philip-kotler.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
+| Metics Media (Matt) | comparação prática OpenClaw x Hermes, instalação em VPS | [ficha](../../autoridades/metics-media.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 
 ## Fontes resumidas
@@ -32,6 +33,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
+| 2026-06-15 | OpenClaw vs Hermes Agent: qual escolher | Metics Media | [resumo](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
