@@ -18,6 +18,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
+| Ketherin Kaffka | perfil como programa de TV: séries recorrentes (monoflow) | [ficha](../../autoridades/ketherin-kaffka.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 
 ## Fontes resumidas
@@ -39,6 +40,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
+| 2026-06-03 | Reel: perfil como programa de TV (monoflow) | Ketherin Kaffka | [resumo](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |

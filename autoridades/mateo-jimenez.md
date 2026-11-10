@@ -17,7 +17,10 @@ links: ["https://www.instagram.com/mate.jimenez/"]
 ## Ideias centrais
 - Funil de conteúdo TOFU (views, 60–70%), MOFU (confiança, 20–30%) e BOFU (vendas, 10–20%). ([fonte](../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md))
 
+- Sistema de topo: 5 temas (problema, crença, pergunta, resultado, tendência) × curiosidade/identificação; reels que viralizam viram Trial Reels e depois YouTube. ([fonte](../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-11-09 | Reel: as 3 partes do funil de conteúdo | [resumo](../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) |
+| 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | [resumo](../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |

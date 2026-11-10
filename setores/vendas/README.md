@@ -14,6 +14,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Philipp Humm | zoom no momento com PAST: lugar, ação, fala, pensamentos | [ficha](../../autoridades/philipp-humm.md) |
+| Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
 
 ## Fontes resumidas
 
@@ -29,6 +30,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
+| 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 
 ## Princípios consolidados

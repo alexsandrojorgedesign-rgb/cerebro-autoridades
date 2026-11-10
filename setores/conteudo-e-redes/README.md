@@ -18,6 +18,8 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Philipp Humm | zoom no momento com PAST: lugar, ação, fala, pensamentos | [ficha](../../autoridades/philipp-humm.md) |
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
+| Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
+| Ketherin Kaffka | perfil como programa de TV: séries recorrentes (monoflow) | [ficha](../../autoridades/ketherin-kaffka.md) |
 
 ## Fontes resumidas
 
@@ -37,9 +39,12 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
+| 2026-06-03 | Reel: perfil como programa de TV (monoflow) | Ketherin Kaffka | [resumo](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
+| 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
+| 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |

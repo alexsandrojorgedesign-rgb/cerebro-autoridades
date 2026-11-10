@@ -69,6 +69,8 @@ O que a Meta ensina oficialmente, estudado pela documentação pública e pelo c
 | Philipp Humm | storytelling, conteúdo e redes | [ficha](autoridades/philipp-humm.md) |
 | Remi (Open Residency) | IA, negócios, marketing | [ficha](autoridades/remi.md) |
 | Mateo Jiménez | conteúdo e redes, marketing | [ficha](autoridades/mateo-jimenez.md) |
+| Teo Egaña | mercado imobiliário, conteúdo | [ficha](autoridades/teo-egana.md) |
+| Ketherin Kaffka | conteúdo e redes, branding | [ficha](autoridades/ketherin-kaffka.md) |
 
 ## Como adicionar um conteúdo
 

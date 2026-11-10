@@ -32,6 +32,8 @@ P = {
  "philipp-humm": ("Philipp Humm", "zoom no momento com PAST: lugar, ação, fala, pensamentos", ["storytelling","conteudo-e-redes","vendas"]),
  "remi": ("Remi (Open Residency)", "agentes de IA na prática: contexto .md, MCPs, skills e pasta OS", ["ia","negocios-e-gestao","marketing","trafego-pago"]),
  "mateo-jimenez": ("Mateo Jiménez", "funil de conteúdo TOFU/MOFU/BOFU com proporções", ["conteudo-e-redes","marketing"]),
+ "teo-egana": ("Teo Egaña", "conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter", ["mercado-imobiliario","conteudo-e-redes","marketing","vendas"]),
+ "ketherin-kaffka": ("Ketherin Kaffka", "perfil como programa de TV: séries recorrentes (monoflow)", ["conteudo-e-redes","branding","mercado-imobiliario"]),
  "bruno-nardon": ("Bruno Nardon", "marca conforme o critério de valor do cliente", ["negocios-e-gestao","branding"]),
 }
 F = [
@@ -116,6 +118,12 @@ F.append(("2026-07-22", "Agentes de IA: o curso completo (Open Residency)", "Rem
 F.append(("2026-11-09", "Reel: funil de conteúdo TOFU, MOFU, BOFU", "Mateo Jiménez",
   "setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md",
   ["conteudo-e-redes","marketing"]))
+F.append(("2026-09-19", "Reel: sistema TOFU com Trial Reels e YouTube", "Mateo Jiménez",
+  "setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md", ["conteudo-e-redes","marketing"]))
+F.append(("2026-09-10", "Reel: estratégia de conteúdo para imobiliárias", "Teo Egaña",
+  "setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md", ["mercado-imobiliario","conteudo-e-redes","marketing","vendas"]))
+F.append(("2026-06-03", "Reel: perfil como programa de TV (monoflow)", "Ketherin Kaffka",
+  "setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md", ["conteudo-e-redes","branding","mercado-imobiliario"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
