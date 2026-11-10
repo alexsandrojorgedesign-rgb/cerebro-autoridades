@@ -22,9 +22,12 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 
 - Na era do AI slop, a vantagem está no que não se copia fácil: assinatura visual (6 dimensões), cadência, ideias (tema + ângulo + substância), volume com sistema híbrido de IA e ganchos com os 4 S. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md))
 
+- Gancho que congela o scroll responde "do que é e o que eu ganho" com texto na tela, fala e imagem alinhados; nos 5 a 10 s seguintes (zona de lock-in) a promessa é confirmada e a prova pesa mais. ([fonte](../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-04-22 | The Neuroscience of Addictive Storytelling | [resumo](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo | [resumo](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
 | 2026-10-29 | You Will Hate This, But It'll Grow Your Social Media 10x Faster | [resumo](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
+| 2026-08-05 | The Psychology of Killer Hooks | [resumo](../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |

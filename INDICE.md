@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-35 fontes de 23 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+40 fontes de 24 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -11,15 +11,20 @@
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
 | 2026-11-10 | [6 vantagens para crescer na era do AI slop](setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) | Kallaway | Conteúdo e Redes Sociais | video | ● completa |
+| 2026-11-10 | [Hermes Agent do zero: VPS, Telegram, vigias e memória](setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) | Metics Media | Inteligência Artificial | video | ● completa |
 | 2026-11-10 | [Corte Open Residency: público em alvo e mix 3-2-1](setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) | Kallaway | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [1M seguidores em 6 meses: 3 passos](setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) | Carima (kaye.creatives) | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-10 | [Reel: sistema TOFU com Trial Reels e YouTube](setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: estratégia de conteúdo para imobiliárias](setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) | Teo Egaña | Mercado Imobiliário | post | ◐ parcial (sem áudio) |
+| 2026-11-10 | [Se eu começasse nas redes em 2026 (lives, nicho, pós-post)](setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | video | ● completa |
+| 2026-11-10 | [Psicologia dos ganchos: texto, fala, imagem e lock-in](setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) | Kallaway | Storytelling | video | ● completa |
 | 2026-11-10 | [Agentes de IA: o curso completo (Open Residency)](setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) | Remi | Inteligência Artificial | podcast | ● legenda original |
 | 2026-11-10 | [OpenClaw vs Hermes Agent: qual escolher](setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) | Metics Media | Inteligência Artificial | video | ● completa |
 | 2026-11-10 | [Reel: perfil como programa de TV (monoflow)](setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) | Ketherin Kaffka | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [A neurociência do storytelling viciante](setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) | Kallaway | Storytelling | video | ● legenda original |
 | 2026-11-10 | [Zoom no momento: método PAST](setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) | Philipp Humm | Storytelling | video | ● legenda original |
+| 2026-11-10 | [As 5 linhas para contar qualquer história](setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) | Tim Runia | Storytelling | video | ● completa |
+| 2026-11-10 | [Storytelling em 9 min: 5 técnicas do zoom (2025)](setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) | Philipp Humm | Storytelling | video | ● completa |
 | 2026-11-10 | [Storytelling — leitura complementar: mapa dos 37 capítulos e páginas](setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) | Carmine Gallo | Storytelling | livro | ● completa |
 | 2026-11-10 | [Storytelling (The Storyteller's Secret, livro)](setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) | Carmine Gallo | Storytelling | livro | ● completa |
 | 2026-11-09 | [Estudo de caso: Elephant Skin (portfólio, copy e lançamento)](setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md) | Pesquisa própria (Elephant Skin) | Mercado Imobiliário | estudo | ● pesquisa própria |
@@ -59,6 +64,7 @@
 
 ### [Inteligência Artificial](setores/ia/README.md)
 
+- 2026-10-28 · [Hermes Agent do zero: VPS, Telegram, vigias e memória](setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) · Metics Media · ● completa
 - 2026-07-22 · [Agentes de IA: o curso completo (Open Residency)](setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) · Remi · ● legenda original
 - 2026-06-15 · [OpenClaw vs Hermes Agent: qual escolher](setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) · Metics Media · ● completa
 
@@ -82,6 +88,7 @@
 - 2026-09-19 · [Reel: sistema TOFU com Trial Reels e YouTube](setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) · Mateo Jiménez · ◐ parcial (sem áudio)
 - 2026-09-04 · [Mídia de interesse e volume (2 vídeos)](setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) · Gary Vaynerchuk · ● legenda original
 - 2026-08-16 · [Advisor: a empresa da marca pessoal do Ninja](setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) · Alfredo Soares · ● legenda original
+- 2026-08-14 · [Se eu começasse nas redes em 2026 (lives, nicho, pós-post)](setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) · Gary Vaynerchuk · ● completa
 - 2026-08-05 · [Posicionamento do Nardon: o nerd rico](setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) · Alfredo Soares, Bruno Nardon · ● legenda original
 - 2026-06-03 · [Reel: perfil como programa de TV (monoflow)](setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) · Ketherin Kaffka · ◐ parcial (sem áudio)
 
@@ -97,8 +104,11 @@
 
 ### [Storytelling](setores/storytelling/README.md)
 
+- 2026-08-05 · [Psicologia dos ganchos: texto, fala, imagem e lock-in](setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) · Kallaway · ● completa
 - 2026-04-22 · [A neurociência do storytelling viciante](setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) · Kallaway · ● legenda original
 - 2026-04-19 · [Zoom no momento: método PAST](setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) · Philipp Humm · ● legenda original
+- 2025-07-10 · [As 5 linhas para contar qualquer história](setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) · Tim Runia · ● completa
+- 2025-02-03 · [Storytelling em 9 min: 5 técnicas do zoom (2025)](setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) · Philipp Humm · ● completa
 - 2019 · [Storytelling — leitura complementar: mapa dos 37 capítulos e páginas](setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) · Carmine Gallo · ● completa
 - 2016 · [Storytelling (The Storyteller's Secret, livro)](setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) · Carmine Gallo · ● completa
 
@@ -116,16 +126,17 @@
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | 1 |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | 1 |
-| [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 3 |
-| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 3 |
+| [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 4 |
+| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 4 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | 2 |
-| [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | 1 |
+| [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | 2 |
 | [Michelly Müller](autoridades/michelly-muller.md) | marketing imobiliário prático, Instagram e Meta Ads para corretores | 1 |
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | 2 |
-| [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 1 |
+| [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 2 |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | 1 |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | 2 |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | 2 |
 | [Teo Egaña](autoridades/teo-egana.md) | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | 1 |
+| [Tim Runia](autoridades/tim-runia.md) | estrutura de história em 5 linhas antes de roteirizar e filmar | 1 |

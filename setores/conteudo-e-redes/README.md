@@ -23,6 +23,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
 | Ketherin Kaffka | perfil como programa de TV: séries recorrentes (monoflow) | [ficha](../../autoridades/ketherin-kaffka.md) |
 | Carima (kaye.creatives) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | [ficha](../../autoridades/kaye-creatives.md) |
+| Tim Runia | estrutura de história em 5 linhas antes de roteirizar e filmar | [ficha](../../autoridades/tim-runia.md) |
 
 ## Fontes resumidas
 
@@ -37,13 +38,17 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | Gary Vaynerchuk | [resumo](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
+| 2025-07-10 | As 5 linhas para contar qualquer história | Tim Runia | [resumo](../../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-06-03 | Reel: perfil como programa de TV (monoflow) | Ketherin Kaffka | [resumo](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
+| 2026-08-05 | Psicologia dos ganchos: texto, fala, imagem e lock-in | Kallaway | [resumo](../../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |
+| 2026-08-14 | Se eu começasse nas redes em 2026 (lives, nicho, pós-post) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
@@ -61,6 +66,8 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
+- **Postar é só o começo:** responder comentários, fazer lives e transformar as perguntas do público em pauta. Fontes: [GaryVee, começar em 2026](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md), [GaryVee, Q&A semanal](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md), [Michelly, caixinhas de dúvidas](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md).
+- **Documentar o trabalho real em vez de inventar conteúdo.** Fontes: [GaryVee, documentar](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md), [Hormozi, volume de trabalho documentado](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md).
 - **Assinatura visual própria e reconhecível:** personagem, cenário, seleção visual, layout, tipografia e movimento repetidos até virar marca; com IA deixando tudo igual, é a vantagem difícil de copiar. Fontes: [Kallaway — fosso visual](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md), [Ketherin Kaffka — Jean Black e séries](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md).
 - **Trial Reels para multiplicar o que já funcionou:** reel que vai bem nas primeiras 24 h ganha 2 ou 3 variações publicadas como trial (só para não seguidores) antes de pôr verba. Fontes: [Kaye — variações como trial](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md), [Mateo Jiménez — reels virais viram trial](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md).
 - **Formato validado adaptado, não ideia do zero:** salvar só referências que explodiram (outliers), inclusive de fora do nicho, e adaptar estrutura e gancho à marca, com crédito quando copiar muito. Contraponto: copiar outliers sem ângulo próprio leva todos ao mesmo "cluster"; use dados para o tema e coloque ângulo, substância e visual seus ([Kallaway — anti-slop](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)). Fontes: [Kaye — regra do outlier](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md), [Teo Egaña — formato validado e imaginável](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md).

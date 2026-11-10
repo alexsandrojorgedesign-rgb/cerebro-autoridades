@@ -27,10 +27,12 @@ Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e neg
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2026-10-16 | 1M seguidores em 6 meses: 3 passos | Carima (kaye.creatives) | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) |
+| 2026-10-28 | Hermes Agent do zero: VPS, Telegram, vigias e memória | Metics Media | [resumo](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) |
 | 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
 
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
-- **Agente que age em contas roda isolado e começa com pouca permissão:** máquina separada (VPS, Mac mini) em vez do PC de trabalho, só leitura e envio em rascunho até ganhar confiança, e versões sempre atualizadas. Fontes: [Remi — só leitura e aprovação](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics — VPS e CVEs](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md).
+- **Correção vira memória persistente:** preferência ensinada uma vez fica salva e vale em toda sessão nova, de preferência em arquivo seu. Fontes: [Remi, memory.md](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics, memória do Hermes](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md).
+- **Agente que age em contas roda isolado e começa com pouca permissão:** máquina separada (VPS, Mac mini) em vez do PC de trabalho, só leitura e envio em rascunho até ganhar confiança, e versões sempre atualizadas. Fontes: [Remi — só leitura e aprovação](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics — VPS e CVEs](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md), [Metics — VPS e allow list no Telegram](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md).
 - **Tarefa repetida vira skill:** fazer uma vez, ajustar e salvar como skill (ou deixar o agente aprender sozinho) é o que deixa o agente útil e mais barato com o tempo. Fontes: [Remi — processo primeiro](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics — Curator do Hermes](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md).

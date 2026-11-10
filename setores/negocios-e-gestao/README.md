@@ -39,6 +39,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-10-28 | Hermes Agent do zero: VPS, Telegram, vigias e memória | Metics Media | [resumo](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) |
 
 ## Princípios consolidados
 

@@ -18,7 +18,10 @@ links: ["https://www.youtube.com/channel/UCKjyzU_ElNwSXr4b0UzUjdw", "https://sto
 - Zoom no momento com PAST: lugar, ação, fala e pensamentos; nada de "visão de helicóptero" nem contexto longo na abertura. ([fonte](../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md))
 - Contar os pensamentos exatos e crus conecta mais do que nomear emoções. ([fonte](../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md))
 
+- Versão 2025 com 5 técnicas (lugar, ações, pensamentos, emoção mostrada no corpo, diálogo): mostrar a emoção em vez de nomeá-la e usar fala viva, nunca formal. ([fonte](../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-04-19 | Give me 18min & I'll improve your storytelling skills by 183% | [resumo](../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
+| 2025-02-03 | Give me 9min, and I'll improve your storytelling skills by 176% | [resumo](../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |

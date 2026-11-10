@@ -13,7 +13,8 @@
 8. **Teste antes de escalar:** reel que vai bem em 24 h ganha 2 ou 3 variações como Trial Reel; o que vencer vira anúncio.
 9. **Métricas certas:** topo por alcance, compartilhamentos e salvamentos; meio por seguidores e mensagens; fundo por leads. Seguidor não é a métrica principal.
 10. **Toda peça leva a uma ação** (comentário, direct, WhatsApp, lista de espera).
-11. **Volume com gosto:** IA nos gargalos (pesquisa, B-roll), humano no ângulo e no roteiro; gravar em lote.
+11. **Postar é o começo:** responder todo comentário, lives com o porta-voz e um reel por semana com as perguntas dos comentários; documentar o trabalho real em vez de inventar conteúdo. → [GaryVee, começar em 2026](../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md)
+12. **Volume com gosto:** IA nos gargalos (pesquisa, B-roll), humano no ângulo e no roteiro; gravar em lote.
 
 ## Leia nesta ordem
 1. [Princípios de conteúdo e redes](../setores/conteudo-e-redes/README.md#princípios-consolidados)

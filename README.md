@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**35 fontes · 23 autoridades · 10 setores · 8 guias · 34 princípios consolidados**
+**40 fontes · 24 autoridades · 10 setores · 8 guias · 39 princípios consolidados**
 
 ## Como consultar
 
@@ -33,27 +33,27 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 8 / 28 | 3 |
-| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 2 / 9 | 2 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 2 | — |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 7 / 23 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 10 / 29 | 7 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 0 / 8 | 4 |
-| [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 12 | 4 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 8 / 29 | 3 |
+| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 3 / 10 | 3 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 3 | — |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 7 / 24 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 11 / 33 | 9 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 0 / 9 | 4 |
+| [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 13 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 5 | — |
-| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 4 / 5 | 4 |
-| [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 17 | — |
+| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 7 / 8 | 6 |
+| [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 18 | — |
 
 ## Entraram por último
 
 - 2026-11-10 · [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) · Mateo Jiménez · ◐ parcial (sem áudio)
 - 2026-11-10 · [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) · Gary Vaynerchuk · ⚠️ fraca
 - 2026-11-10 · [6 vantagens para crescer na era do AI slop](setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) · Kallaway · ● completa
+- 2026-11-10 · [Hermes Agent do zero: VPS, Telegram, vigias e memória](setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) · Metics Media · ● completa
 - 2026-11-10 · [Corte Open Residency: público em alvo e mix 3-2-1](setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) · Kallaway · ◐ parcial (sem áudio)
 - 2026-11-10 · [1M seguidores em 6 meses: 3 passos](setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) · Carima (kaye.creatives) · ● completa
 - 2026-11-10 · [Reel: sistema TOFU com Trial Reels e YouTube](setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) · Mateo Jiménez · ◐ parcial (sem áudio)
 - 2026-11-10 · [Reel: estratégia de conteúdo para imobiliárias](setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) · Teo Egaña · ◐ parcial (sem áudio)
-- 2026-11-10 · [Agentes de IA: o curso completo (Open Residency)](setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) · Remi · ● legenda original
 
 [Ver todas →](INDICE.md)
 
@@ -84,6 +84,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | Marketing, Branding, Conteúdo e Redes Sociais, Inteligência Artificial |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | Branding, Marketing, Conteúdo e Redes Sociais, Negócios e Gestão |
 | [Teo Egaña](autoridades/teo-egana.md) | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | Mercado Imobiliário, Conteúdo e Redes Sociais, Marketing, Vendas |
+| [Tim Runia](autoridades/tim-runia.md) | estrutura de história em 5 linhas antes de roteirizar e filmar | Storytelling, Conteúdo e Redes Sociais, Design |
 
 ## Pasta META (Meta Ads, Facebook, Instagram, WhatsApp)
 

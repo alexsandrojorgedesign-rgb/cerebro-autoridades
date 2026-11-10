@@ -25,6 +25,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
+| 2026-08-05 | Psicologia dos ganchos: texto, fala, imagem e lock-in | Kallaway | [resumo](../../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo e mix 3-2-1 | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |

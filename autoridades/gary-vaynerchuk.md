@@ -18,9 +18,12 @@ links: []
 - Redes viraram mídia de interesse: o criativo gera o alcance, então é preciso volume, variedade e relevância cultural; conteúdo egoísta não tem views. ([fonte](../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md))
 - Venda digital muda, marca fica: dar antes de pedir (jab jab jab right hook), comunidade no braço, mascote, dono que entende de marketing. ([fonte](../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md))
 
+- Para começar do zero: lives mesmo com poucos seguidores, "seu nicho é você", documentar em vez de criar, postar todo dia em várias redes e responder todo comentário. ([fonte](../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-09 | Social Media Strategy 2027 + New Era of Social Media | [resumo](../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | [resumo](../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |
 | 2026-11-05 | Corte Open Residency (evidência fraca, reassistir) | [resumo](../setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) |
+| 2026-08-14 | If I Started Social Media In 2026, I'd Do This | [resumo](../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) |

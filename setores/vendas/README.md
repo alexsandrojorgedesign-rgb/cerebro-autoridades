@@ -29,6 +29,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
