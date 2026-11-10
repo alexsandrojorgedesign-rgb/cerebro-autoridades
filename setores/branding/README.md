@@ -2,6 +2,8 @@
 
 Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz.
 
+**Guias relacionados:** [Marca e posicionamento](../../guias/marca-e-posicionamento.md) · [Apresentações e pitch](../../guias/apresentacoes-decks-e-pitch.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

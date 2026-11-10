@@ -2,6 +2,8 @@
 
 Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios.
 
+**Guias relacionados:** [Agentes de IA](../../guias/agentes-de-ia.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

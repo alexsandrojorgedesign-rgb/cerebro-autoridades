@@ -185,8 +185,21 @@ PRINC = {
   "- **Seguidor não é a métrica principal:** priorize vendas, leads qualificados, encaminhamentos e engajamento. Fontes: [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).",
   "- **Conteúdo por etapa do funil com formatos fixos** (topo/meio/fundo), cada post com objetivo; o topo é a maior fatia (Mateo sugere ~60–70% topo, 20–30% meio, 10–20% fundo). Fontes: [Mateo Jiménez](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).","- **Todo conteúdo precisa levar a uma ação** (CTA para comentário, direct ou WhatsApp). Fontes: [Michelly](../../%s), [Dener](../../%s)." % (M, D)],
 }
+GT = {"roteiro-de-video-e-reels":"Roteiro de vídeo e reels","estrategia-de-conteudo-nas-redes":"Estratégia de conteúdo","conteudo-para-imobiliario":"Conteúdo imobiliário","apresentacoes-decks-e-pitch":"Apresentações e pitch","marca-e-posicionamento":"Marca e posicionamento","anuncios-e-trafego-pago":"Anúncios e tráfego","vendas-e-atendimento":"Vendas e atendimento","agentes-de-ia":"Agentes de IA"}
+GS = {  # guias relacionados a cada setor
+ "marketing": ["anuncios-e-trafego-pago","marca-e-posicionamento","estrategia-de-conteudo-nas-redes"],
+ "ia": ["agentes-de-ia"],
+ "design": ["marca-e-posicionamento","roteiro-de-video-e-reels"],
+ "branding": ["marca-e-posicionamento","apresentacoes-decks-e-pitch"],
+ "conteudo-e-redes": ["estrategia-de-conteudo-nas-redes","roteiro-de-video-e-reels","conteudo-para-imobiliario"],
+ "trafego-pago": ["anuncios-e-trafego-pago"],
+ "vendas": ["vendas-e-atendimento","apresentacoes-decks-e-pitch"],
+ "mercado-imobiliario": ["conteudo-para-imobiliario","vendas-e-atendimento","anuncios-e-trafego-pago"],
+ "storytelling": ["roteiro-de-video-e-reels","apresentacoes-decks-e-pitch"],
+ "negocios-e-gestao": ["agentes-de-ia","marca-e-posicionamento"],
+}
 for k,(nome,desc) in S.items():
-    L = [f"# {nome}", "", desc, "", "## Autoridades de referência", "", "| Pessoa | Por que ouvir | Ficha |", "|---|---|---|"]
+    L = [f"# {nome}", "", desc, "", "**Guias relacionados:** " + " · ".join(f"[{GT[g]}](../../guias/{g}.md)" for g in GS.get(k,[])) + " · [← início](../../README.md)", "", "## Autoridades de referência", "", "| Pessoa | Por que ouvir | Ficha |", "|---|---|---|"]
     for slug,(n,why,sets) in P.items():
         if k in sets: L.append(f"| {n} | {why} | [ficha](../../autoridades/{slug}.md) |")
     L += ["", "## Fontes resumidas", "", "| Data | Fonte | Autoridade | Arquivo |", "|---|---|---|---|"]
@@ -196,3 +209,139 @@ for k,(nome,desc) in S.items():
     L += PRINC.get(k, [])
     (R/"setores"/k/"README.md").write_text("\n".join(L)+"\n", encoding="utf-8")
 print("ok")
+
+# ---------------------------------------------------------------------------
+# Índices globais: README.md (raiz), INDICE.md e guias/README.md
+# Gerados a partir de S, P, F, PRINC, G e do frontmatter das fontes. Não editar à mão.
+# ---------------------------------------------------------------------------
+import re as _re, datetime as _dt
+
+G = [  # guias por tarefa: (arquivo, título, use quando)
+ ("roteiro-de-video-e-reels.md", "Roteiro de vídeo e reels", "escrever ou revisar roteiro, gancho, depoimento, manifesto"),
+ ("estrategia-de-conteudo-nas-redes.md", "Estratégia de conteúdo nas redes", "planejar calendário, linha editorial, séries, métricas"),
+ ("conteudo-para-imobiliario.md", "Conteúdo para incorporadora e imobiliária", "pauta e séries de empreendimentos, corretores, lista de espera"),
+ ("apresentacoes-decks-e-pitch.md", "Apresentações, decks e pitch", "deck de lançamento, apresentação a corretores, investidores, propostas"),
+ ("marca-e-posicionamento.md", "Marca e posicionamento", "posicionamento, manual, arquitetura de marcas, marca pessoal"),
+ ("anuncios-e-trafego-pago.md", "Anúncios e tráfego pago (Meta)", "campanha, criativos de performance, formulário, WhatsApp, mensuração"),
+ ("vendas-e-atendimento.md", "Vendas e atendimento", "material para corretores, follow-up, CRM, argumentário"),
+ ("agentes-de-ia.md", "Criar ou escolher um agente de IA", "decidir Hermes x OpenClaw x skill, permissões, onde rodar"),
+]
+
+def _front(path):
+    t = (R/path).read_text(encoding="utf-8")
+    m = _re.match(r"^---\n(.*?)\n---", t, _re.S)
+    d = {}
+    if m:
+        for line in m.group(1).splitlines():
+            if ":" in line and not line.startswith(" "):
+                k, v = line.split(":", 1)
+                d[k.strip()] = v.split(" #")[0].strip().strip('"')
+    return d
+
+def _evid(e):
+    el = e.lower()
+    if "muito fraca" in el: return "⚠️ fraca"
+    if "não é o livro completo" in el or "bookey" in el: return "◐ resumo de terceiros"
+    if "frames" in el or "sem áudio" in el: return "◐ parcial (sem áudio)"
+    if "tradução automática" in el or "traduzida" in el: return "◑ tradução automática"
+    if "pesquisa web" in el: return "● pesquisa própria"
+    if "leitura integral" in el or "legenda manual" in el or "lida inteira" in el or "leitura do pdf" in el: return "● completa"
+    return "● legenda original"
+
+FX = []
+for d,t,a,path,sets in F:
+    fm = _front(path)
+    FX.append(dict(data=d, titulo=t, autor=a, path=path, setor=sets[0], sets=sets,
+                   tipo=fm.get("tipo","?"), inc=fm.get("data_inclusao",""), ev=_evid(fm.get("evidencia","")),
+                   auts=fm.get("autoridades","")))
+ns = {k: sum(1 for f in FX if f["setor"]==k) for k in S}
+nx = {k: sum(1 for f in FX if k in f["sets"]) for k in S}
+npr = {k: len(PRINC.get(k, [])) for k in S}
+
+# INDICE.md
+L = ["# Índice geral de fontes", "",
+     f"{len(FX)} fontes de {len(P)} autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.", "",
+     "**Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).", "",
+     "## Mais recentes (por data de inclusão)", "",
+     "| Incluída | Fonte | Autoridade | Setor | Tipo | Evidência |", "|---|---|---|---|---|---|"]
+for f in sorted(FX, key=lambda x:(x["inc"], x["data"]), reverse=True):
+    L.append(f"| {f['inc']} | [{f['titulo']}]({f['path']}) | {f['autor']} | {S[f['setor']][0]} | {f['tipo']} | {f['ev']} |")
+L += ["", "## Por setor principal", ""]
+for k,(nome,_) in S.items():
+    fs = [f for f in FX if f["setor"]==k]
+    if not fs: continue
+    L += [f"### [{nome}](setores/{k}/README.md)", ""]
+    for f in sorted(fs, key=lambda x:x["data"], reverse=True):
+        L.append(f"- {f['data']} · [{f['titulo']}]({f['path']}) · {f['autor']} · {f['ev']}")
+    L.append("")
+L += ["## Por autoridade", "", "| Autoridade | Foco | Fontes |", "|---|---|---|"]
+for slug,(n,why,sets) in sorted(P.items(), key=lambda x:x[1][0].lower()):
+    c = sum(1 for f in FX if slug in f["auts"])
+    L.append(f"| [{n}](autoridades/{slug}.md) | {why} | {c} |")
+(R/"INDICE.md").write_text("\n".join(L)+"\n", encoding="utf-8")
+
+# guias/README.md
+L = ["# Guias por tarefa", "", "Comece por aqui quando for **fazer** algo. Cada guia tem um checklist rápido, as fontes para ler em ordem e os cuidados.", "",
+     "| Guia | Use quando |", "|---|---|"]
+for arq,tit,quando in G:
+    L.append(f"| [{tit}]({arq}) | {quando} |")
+L += ["", "[← Voltar ao início](../README.md)"]
+(R/"guias"/"README.md").write_text("\n".join(L)+"\n", encoding="utf-8")
+
+# README.md (raiz)
+rec = sorted(FX, key=lambda x:(x["inc"], x["data"]), reverse=True)[:8]
+L = ["# Cérebro de Autoridades", "",
+ "Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoas de referência dizem sobre marketing, conteúdo, storytelling, branding, tráfego, vendas, mercado imobiliário e IA, resumido em português com **aplicação para a We** e **pontos fracos** de cada fonte.", "",
+ "> O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\\Meu Drive\\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.", "",
+ f"**{len(FX)} fontes · {len(P)} autoridades · {len(S)} setores · {len(G)} guias · {sum(npr.values())} princípios consolidados**", "",
+ "## Como consultar", "",
+ "| Quero… | Vá para |", "|---|---|",
+ "| **fazer** algo (roteiro, calendário, deck, campanha, agente) | [Guias por tarefa](guias/README.md) |",
+ "| saber o que já está **confirmado por mais de uma fonte** | **Princípios consolidados** no README de cada setor (tabela abaixo) |",
+ "| achar uma fonte específica ou ver as mais recentes | [Índice geral](INDICE.md) |",
+ "| saber o que uma pessoa pensa | [Autoridades](#autoridades) |",
+ "| regras oficiais de anúncios na Meta | [Pasta META](META/README.md) |", "",
+ "## Guias por tarefa", "", "| Guia | Use quando |", "|---|---|"]
+for arq,tit,quando in G:
+    L.append(f"| [{tit}](guias/{arq}) | {quando} |")
+L += ["", "## Setores", "", "| Setor | Assunto | Fontes (principal / total) | Princípios |", "|---|---|---|---|"]
+for k,(nome,desc) in S.items():
+    L.append(f"| [{nome}](setores/{k}/README.md) | {desc} | {ns[k]} / {nx[k]} | {npr[k] or '—'} |")
+L += ["", "## Entraram por último", ""]
+for f in rec:
+    L.append(f"- {f['inc']} · [{f['titulo']}]({f['path']}) · {f['autor']} · {f['ev']}")
+L += ["", "[Ver todas →](INDICE.md)", "", "## Autoridades", "", "| Pessoa | Foco | Setores |", "|---|---|---|"]
+for slug,(n,why,sets) in sorted(P.items(), key=lambda x:x[1][0].lower()):
+    L.append(f"| [{n}](autoridades/{slug}.md) | {why} | {', '.join(S[s][0] for s in sets[:4])} |")
+L += ["", "## Pasta META (Meta Ads, Facebook, Instagram, WhatsApp)", "",
+ "O que a Meta ensina oficialmente (estrutura de campanha, públicos, leilão, criativos, formulários e WhatsApp, mensuração, políticas, certificações), resumido e aplicado à We. Ver [META/README.md](META/README.md).", "",
+ "## Estrutura", "", "```",
+ "cerebro-autoridades/",
+ "├── guias/                      checklists por tarefa (comece por aqui)",
+ "├── setores/<setor>/README.md   autoridades, fontes e princípios consolidados do setor",
+ "├── setores/<setor>/fontes/     um resumo por conteúdo (AAAA-MM-DD_autor_titulo.md)",
+ "├── autoridades/                uma ficha por pessoa",
+ "├── META/                       documentação oficial da Meta resumida",
+ "├── INDICE.md                   todas as fontes (recentes, por setor, por autoridade)",
+ "└── _modelos/                   modelos de fonte e ficha + gerar_indices.py", "```", "",
+ "## Como adicionar um conteúdo", "",
+ "1. Assista ou leia. Para vídeo, `/watch <url>` no Claude Code.",
+ "2. Copie `_modelos/fonte.md` para `setores/<setor-principal>/fontes/AAAA-MM-DD_autor_titulo.md` e preencha (o que foi dito, aplicação para a We, pontos fracos).",
+ "3. Crie ou atualize a ficha em `autoridades/`.",
+ "4. Registre em `_modelos/gerar_indices.py` (listas `P`, `F` e, se a ideia já apareceu em outra fonte, `PRINC`) e rode `python -I _modelos/gerar_indices.py`.",
+ "5. Se a fonte mudar um checklist, atualize o guia em `guias/`.", "",
+ "Regras completas para agentes (Claude Code, Hermes): [CLAUDE.md](CLAUDE.md).",
+ "", f"_Índices gerados em {_dt.date.today().isoformat()}._"]
+(R/"README.md").write_text("\n".join(L)+"\n", encoding="utf-8")
+
+# Verificação de links relativos quebrados
+bad = []
+for md in R.rglob("*.md"):
+    if ".git" in md.parts: continue
+    for link in _re.findall(r"\]\(([^)#\s]+)(?:#[^)]*)?\)", md.read_text(encoding="utf-8")):
+        if link.startswith(("http", "mailto")): continue
+        if not (md.parent/link).resolve().exists():
+            bad.append(f"{md.relative_to(R)} -> {link}")
+if bad:
+    print("LINKS QUEBRADOS:"); print("\n".join(bad))
+print(f"índices globais: {len(FX)} fontes, {len(G)} guias")

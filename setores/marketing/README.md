@@ -2,6 +2,8 @@
 
 Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV.
 
+**Guias relacionados:** [Anúncios e tráfego](../../guias/anuncios-e-trafego-pago.md) · [Marca e posicionamento](../../guias/marca-e-posicionamento.md) · [Estratégia de conteúdo](../../guias/estrategia-de-conteudo-nas-redes.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

@@ -2,6 +2,8 @@
 
 Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 
+**Guias relacionados:** [Vendas e atendimento](../../guias/vendas-e-atendimento.md) · [Apresentações e pitch](../../guias/apresentacoes-decks-e-pitch.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

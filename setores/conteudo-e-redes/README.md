@@ -2,6 +2,8 @@
 
 Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário.
 
+**Guias relacionados:** [Estratégia de conteúdo](../../guias/estrategia-de-conteudo-nas-redes.md) · [Roteiro de vídeo e reels](../../guias/roteiro-de-video-e-reels.md) · [Conteúdo imobiliário](../../guias/conteudo-para-imobiliario.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

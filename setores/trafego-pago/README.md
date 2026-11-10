@@ -2,6 +2,8 @@
 
 Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC.
 
+**Guias relacionados:** [Anúncios e tráfego](../../guias/anuncios-e-trafego-pago.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

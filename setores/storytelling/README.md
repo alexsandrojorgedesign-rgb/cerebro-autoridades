@@ -2,6 +2,8 @@
 
 Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação.
 
+**Guias relacionados:** [Roteiro de vídeo e reels](../../guias/roteiro-de-video-e-reels.md) · [Apresentações e pitch](../../guias/apresentacoes-decks-e-pitch.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

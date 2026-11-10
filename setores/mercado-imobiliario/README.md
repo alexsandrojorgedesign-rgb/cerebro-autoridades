@@ -2,6 +2,8 @@
 
 Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado.
 
+**Guias relacionados:** [Conteúdo imobiliário](../../guias/conteudo-para-imobiliario.md) · [Vendas e atendimento](../../guias/vendas-e-atendimento.md) · [Anúncios e tráfego](../../guias/anuncios-e-trafego-pago.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

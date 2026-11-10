@@ -2,6 +2,8 @@
 
 Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo.
 
+**Guias relacionados:** [Marca e posicionamento](../../guias/marca-e-posicionamento.md) · [Roteiro de vídeo e reels](../../guias/roteiro-de-video-e-reels.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |

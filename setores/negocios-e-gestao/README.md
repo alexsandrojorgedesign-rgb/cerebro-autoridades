@@ -2,6 +2,8 @@
 
 Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio.
 
+**Guias relacionados:** [Agentes de IA](../../guias/agentes-de-ia.md) · [Marca e posicionamento](../../guias/marca-e-posicionamento.md) · [← início](../../README.md)
+
 ## Autoridades de referência
 
 | Pessoa | Por que ouvir | Ficha |
