@@ -27,7 +27,7 @@ P = {
  "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
  "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume, dar antes de pedir, marca acima de performance", ["conteudo-e-redes","marketing","mercado-imobiliario","branding"]),
- "kallaway": ("Kallaway", "storytelling como loop: stakes, pergunta, virada e re-hook; roteiro de vídeo curto", ["storytelling","conteudo-e-redes","trafego-pago"]),
+ "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "philipp-humm": ("Philipp Humm", "zoom no momento com PAST: lugar, ação, fala, pensamentos", ["storytelling","conteudo-e-redes","vendas"]),
  "remi": ("Remi (Open Residency)", "agentes de IA na prática: contexto .md, MCPs, skills e pasta OS", ["ia","negocios-e-gestao","marketing","trafego-pago"]),
@@ -124,6 +124,10 @@ F.append(("2026-09-10", "Reel: estratégia de conteúdo para imobiliárias", "Te
   "setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md", ["mercado-imobiliario","conteudo-e-redes","marketing","vendas"]))
 F.append(("2026-06-03", "Reel: perfil como programa de TV (monoflow)", "Ketherin Kaffka",
   "setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md", ["conteudo-e-redes","branding","mercado-imobiliario"]))
+F.append(("2026-10-23", "Corte Open Residency: público em alvo e mix 3-2-1", "Kallaway",
+  "setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md", ["conteudo-e-redes","marketing","trafego-pago"]))
+F.append(("2026-11-05", "Corte Open Residency (evidência fraca)", "Gary Vaynerchuk",
+  "setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md", ["conteudo-e-redes","marketing"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"

@@ -1,8 +1,8 @@
 ---
-nome: Kallaway
+nome: Kallaway (Kane Kallaway)
 slug: kallaway
-setores: [storytelling, conteudo-e-redes]
-empresa_ou_projeto: canal Kallaway (YouTube); Short Form System (curso de conteúdo)
+setores: [storytelling, conteudo-e-redes, marketing]
+empresa_ou_projeto: canal Kallaway (YouTube); fundador da Sandcastles.ai; Short Form System (curso de conteúdo)
 links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 ---
 
@@ -18,7 +18,10 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 - História prende por um loop de 4 passos (stakes → grande pergunta → head fake → re-hook), baseado em antecipação e surpresa (dopamina como previsão). ([fonte](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md))
 - Teaser vazio não funciona: o público precisa de contexto para prever, senão a virada não tem contra o que contrastar. ([fonte](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md))
 
+- Público em alvo: ICP no centro, anéis próximos convertem, anéis de fora dão alcance, o mais externo deve ser evitado; mix de conteúdo "3-2-1" e um "chaos agent" para testes. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-04-22 | The Neuroscience of Addictive Storytelling | [resumo](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
+| 2026-10-23 | Corte Open Residency: público em alvo | [resumo](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |

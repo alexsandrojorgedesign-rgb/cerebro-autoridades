@@ -23,3 +23,4 @@ links: []
 |---|---|---|
 | 2026-09 | Social Media Strategy 2027 + New Era of Social Media | [resumo](../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | [resumo](../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |
+| 2026-11-05 | Corte Open Residency (evidência fraca, reassistir) | [resumo](../setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) |

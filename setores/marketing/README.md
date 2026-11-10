@@ -17,6 +17,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
+| Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
@@ -48,6 +49,8 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
+| 2026-10-23 | Corte Open Residency: público em alvo e mix 3-2-1 | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
+| 2026-11-05 | Corte Open Residency (evidência fraca) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 | 2026-11-09 | Estudo de caso: Elephant Skin (portfólio, copy e lançamento) | Pesquisa própria (Elephant Skin) | [resumo](../../setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md) |
 | 2026-11-09 | Reel: funil de conteúdo TOFU, MOFU, BOFU | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) |

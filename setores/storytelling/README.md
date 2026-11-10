@@ -6,7 +6,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 
 | Pessoa | Por que ouvir | Ficha |
 |---|---|---|
-| Kallaway | storytelling como loop: stakes, pergunta, virada e re-hook; roteiro de vídeo curto | [ficha](../../autoridades/kallaway.md) |
+| Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Philipp Humm | zoom no momento com PAST: lugar, ação, fala, pensamentos | [ficha](../../autoridades/philipp-humm.md) |
 

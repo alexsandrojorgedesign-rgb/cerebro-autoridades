@@ -11,7 +11,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | Tay Dantas | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | [ficha](../../autoridades/tay-dantas.md) |
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
-| Kallaway | storytelling como loop: stakes, pergunta, virada e re-hook; roteiro de vídeo curto | [ficha](../../autoridades/kallaway.md) |
+| Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 
 ## Fontes resumidas
@@ -24,6 +24,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-10-23 | Corte Open Residency: público em alvo e mix 3-2-1 | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 
 ## Princípios consolidados
