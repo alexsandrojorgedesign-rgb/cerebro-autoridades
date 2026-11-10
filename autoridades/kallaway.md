@@ -8,7 +8,7 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 
 # Kallaway
 
-**Quem é:** criador americano que ensina conteúdo curto, roteiro e storytelling; diz ter mais de 1 milhão de seguidores (dado do próprio vídeo, não verificado).
+**Quem é:** criador americano que ensina conteúdo curto, roteiro e storytelling; diz ter 2 milhões de seguidores e bilhões de views (dado do próprio vídeo, não verificado).
 
 **Por que ouvir:** transforma storytelling em estrutura prática e repetível (loops, ganchos, re-hooks), com exemplos de roteiro; bom para revisar roteiros de reels.
 
@@ -20,8 +20,11 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 
 - Público em alvo: ICP no centro, anéis próximos convertem, anéis de fora dão alcance, o mais externo deve ser evitado; mix de conteúdo "3-2-1" e um "chaos agent" para testes. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md))
 
+- Na era do AI slop, a vantagem está no que não se copia fácil: assinatura visual (6 dimensões), cadência, ideias (tema + ângulo + substância), volume com sistema híbrido de IA e ganchos com os 4 S. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
 | 2026-04-22 | The Neuroscience of Addictive Storytelling | [resumo](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo | [resumo](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
+| 2026-10-29 | You Will Hate This, But It'll Grow Your Social Media 10x Faster | [resumo](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |

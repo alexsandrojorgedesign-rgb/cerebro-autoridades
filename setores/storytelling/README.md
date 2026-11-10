@@ -18,6 +18,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2019 | Storytelling — leitura complementar: mapa dos 37 capítulos e páginas | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
+| 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
 
 ## Princípios consolidados
 
