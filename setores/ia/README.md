@@ -11,6 +11,7 @@ Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e neg
 | Seth Godin | ser notável; permissão, confiança e consistência | [ficha](../../autoridades/seth-godin.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 | Metics Media (Matt) | comparação prática OpenClaw x Hermes, instalação em VPS | [ficha](../../autoridades/metics-media.md) |
+| Carima (kaye.creatives) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | [ficha](../../autoridades/kaye-creatives.md) |
 
 ## Fontes resumidas
 
@@ -23,6 +24,7 @@ Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e neg
 | 2026-06-15 | OpenClaw vs Hermes Agent: qual escolher | Metics Media | [resumo](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
+| 2026-10-16 | 1M seguidores em 6 meses: 3 passos | Carima (kaye.creatives) | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) |
 
 ## Princípios consolidados
 

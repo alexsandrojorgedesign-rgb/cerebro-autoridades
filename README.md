@@ -72,6 +72,7 @@ O que a Meta ensina oficialmente, estudado pela documentação pública e pelo c
 | Teo Egaña | mercado imobiliário, conteúdo | [ficha](autoridades/teo-egana.md) |
 | Ketherin Kaffka | conteúdo e redes, branding | [ficha](autoridades/ketherin-kaffka.md) |
 | Metics Media (Matt) | IA | [ficha](autoridades/metics-media.md) |
+| Carima (kaye.creatives) | conteúdo e redes, IA | [ficha](autoridades/kaye-creatives.md) |
 
 ## Como adicionar um conteúdo
 

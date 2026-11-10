@@ -22,6 +22,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
 | Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
+| Carima (kaye.creatives) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | [ficha](../../autoridades/kaye-creatives.md) |
 
 ## Fontes resumidas
 
@@ -48,6 +49,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
 | 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-10-16 | 1M seguidores em 6 meses: 3 passos | Carima (kaye.creatives) | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) |
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo e mix 3-2-1 | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
 | 2026-11-05 | Corte Open Residency (evidência fraca) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) |

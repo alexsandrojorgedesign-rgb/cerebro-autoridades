@@ -20,6 +20,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
 | Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
 | Ketherin Kaffka | perfil como programa de TV: séries recorrentes (monoflow) | [ficha](../../autoridades/ketherin-kaffka.md) |
+| Carima (kaye.creatives) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | [ficha](../../autoridades/kaye-creatives.md) |
 
 ## Fontes resumidas
 
@@ -46,6 +47,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
 | 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
+| 2026-10-16 | 1M seguidores em 6 meses: 3 passos | Carima (kaye.creatives) | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) |
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo e mix 3-2-1 | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
 | 2026-11-05 | Corte Open Residency (evidência fraca) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) |
@@ -56,6 +58,8 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 ## Princípios consolidados
 
 <!-- Ideias que aparecem em mais de uma fonte. Cada item cita os arquivos de origem. -->
+- **Trial Reels para multiplicar o que já funcionou:** reel que vai bem nas primeiras 24 h ganha 2 ou 3 variações publicadas como trial (só para não seguidores) antes de pôr verba. Fontes: [Kaye — variações como trial](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md), [Mateo Jiménez — reels virais viram trial](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md).
+- **Formato validado adaptado, não ideia do zero:** salvar só referências que explodiram (outliers), inclusive de fora do nicho, e adaptar estrutura e gancho à marca, com crédito quando copiar muito. Fontes: [Kaye — regra do outlier](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md), [Teo Egaña — formato validado e imaginável](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md).
 - **Falar do interesse do público, não de si:** conteúdo egoísta ("compre de mim") não tem alcance; o algoritmo entrega por interesse, então o criativo relevante gera o alcance. Fontes: [GaryVee](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md), [Alfredo — G4 Day](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md).
 - **Seguidor não é a métrica principal:** priorize vendas, leads qualificados, encaminhamentos e engajamento. Fontes: [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md), [Tay](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **Conteúdo por etapa do funil com formatos fixos** (topo/meio/fundo), cada post com objetivo; o topo é a maior fatia (Mateo sugere ~60–70% topo, 20–30% meio, 10–20% fundo). Fontes: [Mateo Jiménez](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).
