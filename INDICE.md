@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-67 fontes de 39 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+68 fontes de 40 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -21,6 +21,7 @@
 | 2026-11-19 | [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) | Chris Do | Storytelling | video | ● completa |
 | 2026-11-19 | [Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)](setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) | Chris Do | Branding | video | ● completa |
+| 2026-11-19 | [Processo criativo sem ego (compilação de entrevistas)](setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md) | Rick Rubin | Design | video | ● completa |
 | 2026-11-19 | [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) | Matt Gray | Branding | video | ● completa |
 | 2026-11-19 | [Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)](setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) | Matt Gray | Branding | video | ◑ tradução automática |
 | 2026-11-19 | [Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato)](setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
@@ -103,6 +104,7 @@
 - 2026-10-18 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
 - 2026-10-05 · [7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)](setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) · ArtClass · ◐ parcial (sem áudio)
 - 2026-09-15 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
+- 2026-08-18 · [Processo criativo sem ego (compilação de entrevistas)](setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md) · Rick Rubin · ● completa
 - 2026-07-16 · [Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato)](setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
 - 2026-04-09 · [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) · Louis Moss · ◐ parcial (sem áudio)
 - 2025-05-02 · [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) · Kittl · ◐ parcial (sem áudio)
@@ -210,6 +212,7 @@
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | 2 |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 4 |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | 1 |
+| [Rick Rubin](autoridades/rick-rubin.md) | processo criativo: fazer o que é seu, guardar versões, sem ego | 1 |
 | [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | 2 |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | 2 |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | 2 |

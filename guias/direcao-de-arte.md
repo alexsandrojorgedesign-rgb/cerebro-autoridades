@@ -42,4 +42,5 @@
 ## Cuidados
 - O cardápio de ingredientes é infinito; o erro comum é usar muitos. Contenção é parte do método.
 - Insight e ideia levam tempo (os alunos de Murray gastaram 2 de 4 semanas só nisso); não pule direto para o layout.
+- Guarde todas as versões e compare com a primeira antes de aprovar: às vezes o ajuste piorou ("não estragar o que já está bom"). Na criação, vale a melhor solução, venha de quem vier. → [Rick Rubin](../setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md)
 - Variar o feed é variar o ingrediente e o recurso visual, não só a posição do título.

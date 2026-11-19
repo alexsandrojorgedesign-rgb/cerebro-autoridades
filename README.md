@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**67 fontes · 39 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
+**68 fontes · 40 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
 
 ## Como consultar
 
@@ -36,9 +36,9 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 |---|---|---|---|
 | [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 44 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 10 / 14 | 3 |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 36 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 51 | 13 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 11 / 15 | 3 |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 37 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 52 | 13 |
 | [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 15 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
@@ -96,6 +96,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | Marketing, Branding, Negócios e Gestão, Inteligência Artificial |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | Storytelling, Conteúdo e Redes Sociais, Vendas |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | Inteligência Artificial, Negócios e Gestão, Marketing, Tráfego Pago |
+| [Rick Rubin](autoridades/rick-rubin.md) | processo criativo: fazer o que é seu, guardar versões, sem ego | Design, Branding |
 | [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | Design, Branding |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | Marketing, Branding, Conteúdo e Redes Sociais, Inteligência Artificial |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | Branding, Marketing, Conteúdo e Redes Sociais, Negócios e Gestão |

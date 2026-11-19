@@ -15,6 +15,7 @@ Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativ
 | Kittl | glossário de estilos de design com palavras de busca | [ficha](../../autoridades/kittl.md) |
 | Louis Moss | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | [ficha](../../autoridades/louis-moss.md) |
 | orenmeetsworld | direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção | [ficha](../../autoridades/orenmeetsworld.md) |
+| Rick Rubin | processo criativo: fazer o que é seu, guardar versões, sem ego | [ficha](../../autoridades/rick-rubin.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
 | Tim Runia | estrutura de história em 5 linhas antes de roteirizar e filmar | [ficha](../../autoridades/tim-runia.md) |
 
@@ -31,6 +32,7 @@ Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativ
 | 2025-07-10 | As 5 linhas para contar qualquer história | Tim Runia | [resumo](../../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) |
 | 2026-04-09 | Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s) | Louis Moss | [resumo](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) |
 | 2026-07-16 | Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato) | Jason Murray | [resumo](../../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) |
+| 2026-08-18 | Processo criativo sem ego (compilação de entrevistas) | Rick Rubin | [resumo](../../setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md) |
 | 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
 | 2026-10-05 | 7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s) | ArtClass | [resumo](../../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) |
 | 2026-10-18 | 7 regras de tipografia (linha, entrelinha, modo escuro, órfãs) | ArtClass | [resumo](../../setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) |

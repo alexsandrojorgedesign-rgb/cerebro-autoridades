@@ -24,6 +24,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Kittl | glossário de estilos de design com palavras de busca | [ficha](../../autoridades/kittl.md) |
 | Louis Moss | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | [ficha](../../autoridades/louis-moss.md) |
 | Fernando F. Kuwahara | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | [ficha](../../autoridades/fernando-kuwahara.md) |
+| Rick Rubin | processo criativo: fazer o que é seu, guardar versões, sem ego | [ficha](../../autoridades/rick-rubin.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
 | Matt Gray | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | [ficha](../../autoridades/matt-gray.md) |
@@ -61,6 +62,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-14 | Se eu começasse nas redes em 2026 (lives, nicho, pós-post) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
+| 2026-08-18 | Processo criativo sem ego (compilação de entrevistas) | Rick Rubin | [resumo](../../setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md) |
 | 2026-08-26 | Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde) | Chris Do | [resumo](../../setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) |
 | 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
 | 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
