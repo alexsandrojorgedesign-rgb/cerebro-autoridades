@@ -41,7 +41,7 @@ Contexto: Marty Neumeier, autor de *The Brand Gap* e *Zag*, em conversa com Chri
 - "Você não cria uma marca; cria milhões, uma na cabeça de cada pessoa."
 - "Quase todo mundo na empresa está ajudando ou prejudicando a marca."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Medir a marca pelo que fica na cabeça do cliente, não pelo checklist entregue** (logo, slogan, campanha). Perguntar periodicamente a compradores, leads e corretores: "que palavra vem à cabeça quando você pensa na We?" Converge com o gap de percepção da [Ana Couto](2024-01-22_ana-couto_o-poder-do-branding.md) e o diagnóstico da [Tay](2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md).
 - **Atendimento, obra, entrega e pós-venda constroem ou destroem a marca** tanto quanto o marketing: treinar equipe, corretores e obra como guardiões da marca.
 - **Ao apresentar um projeto de identidade** (manual, logo de empreendimento), deixar claro que é a **matéria-prima**. A marca se forma com a experiência ao longo do tempo.

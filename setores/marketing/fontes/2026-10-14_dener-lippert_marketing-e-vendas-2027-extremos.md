@@ -69,7 +69,7 @@ Formato: debate entre Dener Lippert (V4) e Alfredo Soares e Bruno Nardon (G4). H
 - "Se não tenho o dobro do valor pago para distribuir esse ativo, não vale fazer."
 - "As pessoas superestimam o tráfego e subestimam o resto da jornada."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - Achar o elo mais fraco antes de aumentar a verba: tempo de resposta e follow-up de leads (Chatwoot, Facilita) vs. volume do Rodrigo.
 - Vicente é premium, então marca pesa de verdade; no Bioma, o critério de valor tende a ser condição e preço.
 - Criativos: volume de testes, gancho forte, CTA claro e destino WhatsApp (fluxo DM → WhatsApp já ativo).

@@ -35,7 +35,7 @@ Contexto: diz ter ajudado 17.500 fundadores, ter 3,5 milhões de seguidores e um
 - "The best niche to create your personal brand around is you." [0:01]
 - "You stop being the creator of your personal brand, and you start to be the CEO of a personal media company." [0:08]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **4-3-2-1 para o perfil do Douglas e para a WeInvest/Dani:** 4 categorias (ex.: mercado de Cascavel, bastidor da incorporação, investimento, cidade/estilo de vida), 3 frases-assinatura repetidas sempre (uma expressão própria do Douglas que vire marca), 2 formatos fixos, 1 plataforma prioritária (Instagram) — e uma lista própria (WhatsApp/e-mail).
 - **Teste dos 30 dias para o marketing da We:** se o Alex sumisse 30 dias, os perfis seguiriam saindo? Banco de posts agendados, reciclagem (Brock Johnson) e equipe/agentes cuidando da publicação.
 - **Cascata:** um vídeo longo (podcast, entrevista com o Douglas, tour de obra) vira cortes, carrosséis, posts de LinkedIn e e-mail para a base de corretores.

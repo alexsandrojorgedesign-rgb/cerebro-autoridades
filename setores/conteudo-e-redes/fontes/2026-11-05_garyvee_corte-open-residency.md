@@ -23,7 +23,7 @@ tags: [garyvee, linkedin, facebook, distribuicao, orcamento]
 - Leitura provável: escolher o que vai dar resultado e não o que é mais fácil; tirar parte do dinheiro de um lugar (provavelmente mídia) e colocar em outro (provavelmente conteúdo/distribuição) e "ganhar em todo lugar". **Não confirmado.**
 - CTA: comentar "VEE" para o episódio completo.
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - Coerente com a fonte anterior dele ([mídia de interesse e volume](2026-09-04_garyvee_midia-de-interesse-e-volume.md)): distribuir os mesmos conteúdos também no LinkedIn (Douglas, We Invest) e no Facebook (público mais velho, comprador de imóvel). Só usar como argumento depois de assistir o episódio completo.
 
 ## Discordâncias e pontos fracos

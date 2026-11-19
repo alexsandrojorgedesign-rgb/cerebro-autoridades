@@ -30,7 +30,7 @@ tags: [instagram, pesquisa-de-palavra-chave, tiktok, formatos, trial-reels, cons
 - "Não produzo nada da minha cabeça; produzo conteúdo que sei que tem consumo." [0:03] (via tradução automática)
 - "Uma coisa de cada vez." [0:16]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Pesquisa de busca antes da pauta:** buscar no TikTok e no Instagram termos como "apartamento Cascavel", "primeiro apartamento", "financiamento Caixa", "decoração apartamento pequeno" e anotar os de maior alcance e o formato usado; vira insumo da pauta e da linha "nome" do perfil (Brock Johnson).
 - **Fases para perfis novos ou fracos** (WeInvest, Creare, Nós): primeiro garantir a frequência com reciclagem, depois otimizar engajamento, só então cobrar seguidor e lead. Evita julgar um perfil por venda no 1º mês.
 - **Formato no ritmo do nicho:** em imóvel, o equivalente ao "certo × errado rápido" é antes/depois, planta → realidade, obra → entregue, em cortes curtos.

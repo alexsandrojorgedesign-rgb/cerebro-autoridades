@@ -29,7 +29,7 @@ tags: [linguagem-corporal, apresentacao, palestra, porta-voz, gestos, contato-vi
 - "One thought, one person." [0:06]
 - Mãos: "Think of it as a home, not a handcuff." [0:03]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Treino rápido para porta-vozes em vídeo e eventos** (Douglas, corretores, arquitetas, Dani na WeInvest): antes de gravar, ajustar postura, mãos em posição neutra entre gestos, e falar cada frase para uma pessoa (ou para a lente) até o fim.
 - **Gestos que viram plano de câmera:** contar nos dedos em "3 motivos", comparação lado a lado em "aluguel × compra", palma aberta na chamada para visita.
 - Bom anexo para o workshop interno e para treinamento de corretores no stand/decorado.

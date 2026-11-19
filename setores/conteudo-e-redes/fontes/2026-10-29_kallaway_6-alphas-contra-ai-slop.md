@@ -61,7 +61,7 @@ tags: [ai-slop, diferenciacao, assinatura-visual, cadencia, ideias, ganchos, vol
 - "If your content is not cutting through, it is always an idea problem." [12:17]
 - "You have to zag while everyone is zigging." [10:02]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Assinatura visual por marca**, com as 6 dimensões: personagem (Douglas, corretores, arquitetos), cenário (decorado, obra, Casa WE), seleção visual (renders oficiais, drone em movimento), layout, tipografia (manuais já existentes) e movimento. Documentar como "padrão da série" de cada perfil, junto com o modelo de série da Ketherin.
 - **Anti-slop na prática da We:** IA para pesquisa, referência e acabamento; roteiro, fala e gravação humanos. Confirma o aprendizado de 10/11 (reels de drone + IA + locução reprovados por soarem genéricos).
 - **Ideia = tema + ângulo + substância:** usar dados para achar o tema (análise de concorrentes e outliers), mas o ângulo vem da experiência real da We (obra, vendas, moradores). Ex.: tema "vale comprar na planta?" → ângulo "o que os compradores do Vicente que compraram na planta mais comentam na entrega" → substância com números e casos reais.

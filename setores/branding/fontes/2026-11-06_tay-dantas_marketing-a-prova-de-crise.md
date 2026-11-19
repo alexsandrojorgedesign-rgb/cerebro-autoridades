@@ -49,7 +49,7 @@ Formato: vídeo curto e roteirizado do canal da Vince/Vinci Society, que termina
 - "A porta tem o tamanho de uma pessoa; a casa não."
 - "Ninguém confia muito em logo; pessoas confiam em pessoas."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **A metáfora é literalmente imobiliária**, e a We pode usá-la na própria comunicação (terra, tijolo, morar no que é seu).
   - Atenção ao tom: não usar o confisco de 1990 como argumento de medo; usar "patrimônio que não derrete" com dados verdadeiros.
 - **Medir a dependência de mídia paga:** que porcentagem das vendas de Bioma e Vicente vem de anúncio vs. orgânico, indicação e Casa WE? Meta de crescer a parte própria. Converge com os ~30% orgânicos do [Alfredo](../../vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md).

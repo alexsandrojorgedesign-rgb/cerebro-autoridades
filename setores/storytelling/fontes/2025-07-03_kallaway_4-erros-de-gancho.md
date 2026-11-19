@@ -32,7 +32,7 @@ Versão anterior e mais curta da mesma tese de [A psicologia dos ganchos](2026-0
 - Gancho = "topic clarity and on-target curiosity." [0:00]
 - "Hooks are the 80 of the 80/20 in the content flow." [0:07]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Checklist rápido para revisar gancho de reel e anúncio:** o assunto aparece no 1º segundo? dá para entender de outro jeito? fala "você"? toca uma dor que o público já tem? há contraste?
 - Exemplos: "Se você paga aluguel há mais de 5 anos, faça esta conta" (você + dor + curiosidade); contraste declarado: "Todo mundo acha que precisa de 20% de entrada. No Vicente dá para começar com X" (só com condição real); contraste implícito: "O apartamento que cabe no orçamento de quem ainda paga aluguel."
 - Evitar o gancho de suspense vazio ("você não vai acreditar no que tem aqui") nos tours de decorado.

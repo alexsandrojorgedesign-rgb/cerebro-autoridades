@@ -130,7 +130,7 @@ tags: [storytelling, apresentacao, pitch, historia-de-origem, cultura, proposito
 - "Estatísticas não iniciam movimentos; histórias, sim." [p230]
 - "Agora, tenho 12 mil funcionários procurando uma história." (Wynn) [p181]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Regra dos 65% nas apresentações.** Os decks de lançamento (Bioma, Vicente, Toledo) e as apresentações a corretores e investidores (We Invest) devem ter dados embalados em histórias:
   - o morador que mudou de vida;
   - o terreno antes da obra;

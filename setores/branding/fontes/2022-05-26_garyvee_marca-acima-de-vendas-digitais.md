@@ -65,7 +65,7 @@ Formato: sessão de mentoria em grupo, com empresários fazendo perguntas. Abaix
 - "O gancho de direita fica na bio."
 - "Se você não entende, você não está delegando, está abdicando."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Não depender só de Meta e Google:** os algoritmos e o custo mudam. Investir também em ativos de marca que ficam: Casa WE, comunidade de moradores, marca We forte, indicação. Converge com a [Tay — terra e tijolo](2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) e o [Alfredo — 30% orgânico](../../vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md).
 - **Dar antes de pedir no conteúdo:**
   - guias de compra de imóvel, financiamento, decoração e bairro;

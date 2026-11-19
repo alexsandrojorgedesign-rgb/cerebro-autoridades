@@ -76,7 +76,7 @@ Trechos de [1–5], [77–79] e [87–93] min são propaganda da DWV e do curso 
 - "O maior resultado do posicionamento é ser lembrado por quem precisa do que você faz."
 - "Se você não pede para a pessoa fazer algo, ela não faz."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - Revisar os conjuntos de criativos de Bioma e Vicente: estão parecidos demais para o Andromeda?
 - Montar 3 a 5 criativos por empreendimento, um por etapa da jornada.
 - Testar formulário instantâneo com pergunta de entrada que filtra.

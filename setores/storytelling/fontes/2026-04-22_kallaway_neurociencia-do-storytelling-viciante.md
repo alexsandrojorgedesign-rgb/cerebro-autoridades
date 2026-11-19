@@ -44,7 +44,7 @@ tags: [storytelling, roteiro, gancho, retencao, dopamina, reels, re-hook, head-f
 - "There should never be a gap." [05:43] (entre um loop e outro)
 - "It's not what you say, it's when you say it." [19:12] (sobre o re-hook)
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Roteiro de reel e vídeo de obra/empreendimento** (Vicente, Bioma, Casa WE, Creare): abrir com stakes reais e pessoais para o comprador (aluguel subindo, família crescendo, prazo da tabela), não com "conheça o empreendimento". Ex.: "A Ana tinha 30 dias para sair do apartamento alugado…".
 - **Grande pergunta com contexto**, não teaser vazio: "passamos 3 meses tentando resolver a luz da sala do 29º pavimento; a resposta veio de onde ninguém esperava" (dá contexto para o público palpitar).
 - **Head fake ético** em conteúdo imobiliário: contrariar uma crença do público com dado verdadeiro (ex.: "todo mundo acha que o andar baixo é o pior negócio do prédio…"). A virada precisa de pista plantada e ser verificável; nada de clickbait sobre preço ou condição que não existe.

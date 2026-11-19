@@ -203,7 +203,7 @@ tags: [copywriting, big-idea, posicionamento, imagem-de-marca, titulo, anuncio-e
 - "O consumidor não é idiota; é a sua esposa."
 - "Repita seus bons anúncios até pararem de vender."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Um benefício por peça, com prova:**
   - Bioma: verde e luz para a família.
   - Vicente: sofisticação e serviço.

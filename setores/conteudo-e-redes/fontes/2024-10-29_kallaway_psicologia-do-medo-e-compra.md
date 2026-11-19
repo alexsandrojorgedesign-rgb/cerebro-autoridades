@@ -35,7 +35,7 @@ Contexto: diz ter levado seus canais pessoais de zero a 500 mil seguidores em 18
 - "Features don't sell, fear sells." [0:03]
 - "Views grows by shares, dollars grows by actions." [0:07]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 Ideias já cobertas em outras fontes (não reexplicadas aqui): o gancho que confirma a promessa e a prova logo depois está em [Psicologia dos ganchos](../../storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md); falar de dor/relevância para o "você" e o desinteresse em [4 erros de gancho](../../storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md); "dor + solução em vez de conteúdo de conexão" e recorte de público em [8 dicas impopulares](2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md). **Novo aqui** é o mapa de medo por trás da compra e a ordem medo, solução anunciada, amplificação, solução entregue.
 - **Mapear o medo do comprador de cada empreendimento (em reunião com o comercial):** Vicente (medo de pagar caro e não viver o padrão prometido, de não ter privacidade, de se arrepender); Bioma (medo de criar filhos presos a apartamento, de perder o tempo da infância); investidor WeInvest (medo de comprar errado, de ver o dinheiro parado). Usar essa lista como pauta de ganchos.
 - **Mostrar o medo por situação, não por frase:** cena de rotina (criança sem lugar para correr, deslocamento de casa ao trabalho) em vez de "você está perdendo qualidade de vida".

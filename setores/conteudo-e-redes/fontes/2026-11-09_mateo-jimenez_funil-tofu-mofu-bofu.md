@@ -29,7 +29,7 @@ tags: [funil, tofu, mofu, bofu, estrategia-de-conteudo, reels, instagram]
 ## Frases-chave
 - "Si no entiendes las 3 partes de tu funnel, no puedes crear contenido para cada etapa en la que se encuentran tus leads." (legenda do post)
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Proporção de pauta por perfil** (We, Casa WE, Bioma, Vicente, Creare): marcar cada peça do calendário como topo, meio ou fundo e conferir a mistura no mês. Para incorporadora, o "fundo" (tabela, condição, últimas unidades, visita ao decorado) costuma ir mais para o tráfego pago do que para o orgânico.
   - **Topo:** cidade, bairro, estilo de vida, arquitetura, bastidores de obra que não falam de venda.
   - **Meio:** depoimentos e cases de moradores, entregas, prova de obra no prazo, processo e equipe.

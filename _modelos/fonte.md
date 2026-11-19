@@ -23,8 +23,8 @@ tags: []
 ## Frases-chave
 <!-- No máximo 3 a 5 citações curtas. -->
 
-## Aplicação prática
-<!-- Como isso vira ação, de forma geral; exemplos de clientes (We, Creare, Nós, Casa do Jardineiro…) só quando ajudam. -->
+## Aplicação para a We
+<!-- Como isso vira ação em Bioma, Vicente, Casa WE, Toledo, clientes etc. -->
 
 ## Discordâncias e pontos fracos
 <!-- Onde a ideia não se aplica, conflitos com outras fontes, vieses (ex.: está vendendo curso). -->

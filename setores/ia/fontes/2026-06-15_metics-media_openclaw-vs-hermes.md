@@ -53,7 +53,7 @@ tags: [agentes, hermes, openclaw, vps, seguranca, skills, custo, decisao]
 - "OpenClaw bets on the community catalogue. Hermes bets on the agent improving itself." [01:42]
 - "Hermes ships you a self-improving agent. OpenClaw ships you a self-proposing one that you supervise." [03:28]
 
-## Aplicação prática (guia de decisão para um agente novo)
+## Aplicação para a We (guia de decisão para um agente novo)
 Situação atual do Alex: o **Hermes** já roda no PC (perfil "criacao", gerente via claude-criar) e numa **VPS Hostinger** (Docker + Telegram), com o cérebro no repo cerebroagent. Antes de criar um agente novo, responder:
 
 1. **O trabalho é repetitivo e previsível?** (briefing diário de leads, relatório de mídia, triagem do Chatwoot, pauta semanal) → **Hermes**: o Curator transforma em skill e o custo cai. É o caso da maioria dos agentes da We.

@@ -39,7 +39,7 @@ Cita no fim, sem ter testado a fundo: skill de Remotion (edição por código), 
 - "If there's nothing else that you use AI for when it comes to content, make sure you're analyzing your own channel." [0:08]
 - "Take data, build rubric, use rubric to generate and revise hooks." [0:20]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Contexto fixo já existe em parte:** a estrutura dele é a mesma do nosso cérebro de criação e das memórias (quem somos, voz, como trabalhamos). Vale ter, por marca (We, Vicente, Bioma, Casa WE, Creare), um "como a marca fala" curto que toda skill de conteúdo lê.
 - **Pulso diário de concorrentes:** um vigia (Hermes/Zernio ou Apify) que toda manhã lista os posts de incorporadoras e imobiliárias de referência com mais alcance que a média da conta, com o link. É o padrão "vigia" do guia de agentes aplicado a conteúdo; substitui a rolagem manual do benchmark.
 - **Análise do próprio perfil a cada 2–4 semanas:** puxar 30–60 dias de @weinc, Vicente e Bioma (Pulso/Zernio), separar vencedores e perdedores e procurar padrão de tema, gancho e formato antes de montar o calendário.

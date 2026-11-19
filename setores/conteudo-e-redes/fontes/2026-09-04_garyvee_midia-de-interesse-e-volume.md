@@ -66,7 +66,7 @@ Dois vídeos curtos resumidos juntos. O primeiro é um corte de conversa com uma
 - "Pela primeira vez, o criativo está criando o alcance."
 - "Conteúdo egoísta não recebe views."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Conteúdo pelo interesse do público, não "compre de mim":**
   - Para cada empreendimento, falar do que interessa à persona: arquitetura, decoração, família, gastronomia de Cascavel e Toledo, finanças e investimento.
   - Deixar a oferta para uma parte dos posts.

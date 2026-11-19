@@ -35,7 +35,7 @@ tags: [direcao-de-arte, big-idea, insight, conceito, ingredientes, recurso-visua
 - "Before we get to the ingredients, we need to understand why or what we're making." [0:01]
 - "There's usually like two to three standout flavors… You need to have some restraint." [0:14]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Briefing de peça com 3 linhas antes do layout:** insight, ideia (verbo) e os 2–3 ingredientes de destaque. Ataca o problema já apontado na Creare (feed repetitivo de foto + título + logo): variar o **ingrediente**, não só o layout.
 - **Ingredientes próprios por marca:** Vicente (fotografia de vida real, luz quente, tipografia fina), Bioma (natureza, folhas e luz; Neulis), Casa WE (fotos reais dos eventos), Nós (traço/grafismo, letra pequena). Escolher e repetir até virar assinatura; combina com "assinatura visual" (Kallaway) e "marca-mãe e ativo consistente" (branding).
 - **Recurso visual para campanha:** buscar um formato que aceite infinitas variações, como os cartões de embarque. Ex.: a chave ou a planta baixa como suporte da mensagem; "a sombra do apê" mostrando a vida que ele vai ter (eco do Lego).

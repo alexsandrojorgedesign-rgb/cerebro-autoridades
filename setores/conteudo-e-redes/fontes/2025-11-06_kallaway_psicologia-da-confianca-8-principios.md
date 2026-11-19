@@ -32,7 +32,7 @@ Ele anuncia oito princípios; na legenda aparecem sete bem separados (a contagem
 - "It's not that they get bored, it's that they lose trust that the rest of the video is actually going to help them." [0:03]
 - "Clarity is the ultimate psychology hack." [0:05]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 Já coberto em outras fontes (só link): promessa clara e prova logo em seguida em [Psicologia dos ganchos](../../storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md); atraso, confusão, "eu" em vez de "você" e falta de contraste em [4 erros de gancho](../../storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md); recorte de público em vez de viral em [8 dicas impopulares](2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) e [Público em alvo](2026-10-23_kallaway_publico-em-alvo-321.md). **Novo aqui:** a explicação de que o espectador sai por perda de confiança (não por tédio), a clareza como atalho de confiança, o espelhamento (vibe do estado final do público), a prova indireta e o desvio de um passo para fugir do detector de golpe.
 - **Teste da clareza no roteiro de reel:** frases curtas, vocabulário de conversa, cada termo técnico (VGV, matrícula, financiamento Caixa) explicado por comparação com algo do dia a dia, e um visual para cada ideia (planta, mapa, render) enquanto fala.
 - **Espelhamento do porta-voz:** Douglas e Dani devem parecer o comprador-alvo daqui a alguns anos (Vicente: cenário, roupa e linguagem de alto padrão; Bioma: natureza, família, leveza), sem personagem falso.

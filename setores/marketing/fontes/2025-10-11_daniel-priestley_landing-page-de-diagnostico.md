@@ -37,7 +37,7 @@ tags: [geracao-de-leads, landing-page, quiz, diagnostico, scorecard, qualificaca
 - "Everything is downstream from lead generation." [0:00]
 - CTA: "It only takes 3 minutes, it's completely free, and you get immediate recommendations." [0:03]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Diagnóstico em vez de formulário seco** nas campanhas: ex. "Você está pronto para sair do aluguel?" ou "Qual apartamento combina com a sua fase?" — mede 3 áreas (entrada/renda, momento da família, bairro e rotina) e entrega uma nota + 3 insights + próximo passo.
 - **As 5 perguntas de venda viram a qualificação do lead imobiliário:** situação (aluguel, primeiro imóvel, troca, investidor), objetivo nos próximos 90 dias/12 meses, obstáculo (entrada, financiamento, dúvida de bairro), solução preferida (pronto, na planta, investir) — e o campo aberto.
 - **Próximo passo por perfil:** qualificado → visita ao decorado com corretor; médio → evento/apresentação na Casa WE ou simulação; fora do perfil → conteúdo (guia de financiamento) e nutrição.

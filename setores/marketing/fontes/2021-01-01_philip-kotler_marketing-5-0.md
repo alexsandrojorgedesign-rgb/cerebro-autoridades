@@ -890,7 +890,7 @@ Passos:
 
 ---
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 
 - **Gerações e público:**
   - O comprador do Vicente tende a ser geração X ou baby boomer: decide pelo racional, valoriza confiança e atendimento humano.

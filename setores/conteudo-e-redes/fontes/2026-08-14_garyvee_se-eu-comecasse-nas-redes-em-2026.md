@@ -81,7 +81,7 @@ tags: [garyvee, comecar-do-zero, lives, comunidade, nicho, documentar, jab-jab-j
 - "Most people think the work is done once you post the content." [06:51]
 - "Macro patience, micro speed." [07:00]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Lives com poucos e bons:** uma live quinzenal no Instagram com Douglas (ou arquiteta/engenheiro) tirando dúvidas de compra: "como funciona a entrada no Bioma", "quando o Vicente fica pronto", "como reservar a Casa WE". Com 10 a 30 pessoas, dá para responder pelo nome, que é o argumento dele. Os melhores trechos viram cortes.
 - **Série de perguntas dos comentários (estilo #AskGaryVee):** a cada semana, juntar perguntas de comentários e directs dos perfis We, Bioma e Vicente e responder em um reel ("Você perguntou"). Mostra escuta e alimenta pauta de meio de funil.
 - **Responder todo comentário** nos perfis da We e dos empreendimentos e, nos de Douglas e Alex, enquanto o volume permitir. Processo: alguém da equipe dono da caixa por dia, com tom definido.

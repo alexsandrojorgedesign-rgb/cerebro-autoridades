@@ -34,7 +34,7 @@ tags: [instagram, trial-reels, serie, formato, ganchos, lista-de-email, landing-
 - "You're a scientist." [0:07] (sobre tratar flop como dado)
 - "Set up your infrastructure before you blow up online." [0:12]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Série como contêiner:** a comparação 13 mil x 57 mil seguidores com o mesmo conceito é o melhor argumento que temos para séries nomeadas (ex.: "O que faz a gente ficar" do Vicente, quadros recorrentes da Casa WE e da WeInvest). Cada reel bom vira episódio com nome e número, não peça avulsa.
 - **Gancho que nomeia uma pessoa:** "o tipo de família que…", "quem mora de aluguel e…", "o corretor que…". Faz o público se ver e mandar para alguém; casa com o tom de conversa.
 - **Método dos 5 em Trial Reels** para porta-voz (Douglas, corretores, arquitetas): numa sessão, mesmo cenário, gravar 3 a 5 versões da mesma ideia com ganchos diferentes e corpo falado de tópicos; publicar só como trial e escolher o vencedor para o feed e para anúncio.

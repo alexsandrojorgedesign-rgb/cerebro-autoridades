@@ -46,7 +46,7 @@ Contexto: diz basear-se em muitos dados de outliers e em falas públicas do CEO 
 - "Specificity drives dollars, broadness drives virality." [0:18]
 - "I want to use the algorithm as a hunting mechanism to find more of my ideal buyers." [0:04]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 Já temos a lógica do alvo (centro = cliente ideal, anéis de alcance e conversão) em [público em alvo e mix "3-2-1"](2026-10-23_kallaway_publico-em-alvo-321.md), e o filtro de tema e o CTA por palavra-chave em [8 dicas impopulares](2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md). O que este vídeo acrescenta:
 - **Dois jogos, e a We joga o de conversão:** a meta é lead e visita para Vicente, Bioma e WeInvest; não perseguir milhão de views. Avaliar reel pelo comprador que entrou na amostra (comentário "PLANTA", DM, visita), não pelo alcance.
 - **Filtro de duas perguntas antes de pautar:** "traz valor novo ao comprador?" e "ele vai achar que a We entende de mercado e de obra?". Reprova pauta de trend sem relação com imóvel.

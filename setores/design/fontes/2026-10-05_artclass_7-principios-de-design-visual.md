@@ -32,7 +32,7 @@ Exemplo guiado: um pôster de show com neon, cinco fontes e tudo em volume máxi
 - "When every word screams for attention at the same time, nothing actually gets it." [0:00]
 - "Good design is simply a matter of organization." [0:04]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - Checklist mínimo para revisar posts, tabelas de preço e convites: um ponto de entrada, uma cor de destaque, tudo numa grade, informações práticas agrupadas, respiro. Combina com os critérios de aprovação do guia de [direção de arte](../../../guias/direcao-de-arte.md).
 - **Teste dos 5 segundos** para anúncio e outdoor: mostrar a peça por 5 s a alguém de fora e perguntar o que é, onde e o que fazer.
 

@@ -49,7 +49,7 @@ Contexto: fala para agências, coaches e serviços high-ticket que vendem por an
 - "Ninguém confia em você." [0:12]
 - "Não é só o anúncio, é o processo de vendas." [0:27]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Regra 2 é a mais útil para a We:** quem vê anúncio do Vicente/Bioma clica no perfil antes do formulário. O perfil precisa ter prova (obra andando, entregas, rostos da equipe, depoimentos); o investimento em orgânico baixa o custo por lead. Monitorar o direct dos anúncios (vende-se por DM).
 - **Pós-lead como "setter":** ligar para todo lead que não respondeu, confirmar visitas ao decorado, religar para quem faltou e para quem não comprou com outra pessoa, e mandar conteúdo de valor (andamento de obra, simulação, "o que acontece se a obra atrasar") — inclusive o pior cenário, que gera confiança. Conversa com o painel de leads e o fluxo Chatwoot/Facilita.
 - **Retargeting depois do lead/visita** mostrando mais conteúdo (bastidor, obra, depoimentos), não menos.

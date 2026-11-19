@@ -27,7 +27,7 @@ tags: [marca-pessoal, autenticidade, vulnerabilidade, identidade, porta-voz]
 - "It's not people branding, it's person." [0:00]
 - "You should be your number one fan." [0:02]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Douglas e Dani como porta-vozes:** a marca pessoal de cada um tem uma voz só; a We aparece como contexto, não como coautora de cada post. Revisão de marca não deve "aparar" o jeito de falar até virar institucional.
 - **Mostrar os bastidores difíceis** (obra atrasando por chuva, decisão errada corrigida, início da empresa) gera mais conexão que só conquistas; combina com o "antes" da fórmula de história do mesmo autor.
 - Para as marcas de empresa (We, Vicente, Bioma) isso **não** vale do mesmo jeito: lá é marca de várias pessoas e precisa de manual.

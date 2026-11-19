@@ -420,7 +420,7 @@ L += ["", "[← Voltar ao início](../README.md)"]
 # README.md (raiz)
 rec = sorted(FX, key=lambda x:(x["inc"], x["data"]), reverse=True)[:8]
 L = ["# Cérebro de Autoridades", "",
- "Base de conhecimento **externo** do Alex, de uso **geral** (qualquer cliente ou projeto; a We é um dos exemplos): o que pessoas de referência dizem sobre marketing, conteúdo, storytelling, branding, tráfego, vendas, mercado imobiliário e IA, resumido em português com **aplicação prática** e **pontos fracos** de cada fonte.", "",
+ "Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoas de referência dizem sobre marketing, conteúdo, storytelling, branding, tráfego, vendas, mercado imobiliário e IA, resumido em português com **aplicação para a We** e **pontos fracos** de cada fonte.", "",
  "> O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\\Meu Drive\\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.", "",
  f"**{len(FX)} fontes · {len(P)} autoridades · {len(S)} setores · {len(G)} guias · {sum(npr.values())} princípios consolidados**", "",
  "## Como consultar", "",
@@ -443,7 +443,7 @@ L += ["", "[Ver todas →](INDICE.md)", "", "## Autoridades", "", "| Pessoa | Fo
 for slug,(n,why,sets) in sorted(P.items(), key=lambda x:x[1][0].lower()):
     L.append(f"| [{n}](autoridades/{slug}.md) | {why} | {', '.join(S[s][0] for s in sets[:4])} |")
 L += ["", "## Pasta META (Meta Ads, Facebook, Instagram, WhatsApp)", "",
- "O que a Meta ensina oficialmente (estrutura de campanha, públicos, leilão, criativos, formulários e WhatsApp, mensuração, políticas, certificações), resumido com exemplos aplicados. Ver [META/README.md](META/README.md).", "",
+ "O que a Meta ensina oficialmente (estrutura de campanha, públicos, leilão, criativos, formulários e WhatsApp, mensuração, políticas, certificações), resumido e aplicado à We. Ver [META/README.md](META/README.md).", "",
  "## Estrutura", "", "```",
  "cerebro-autoridades/",
  "├── guias/                      checklists por tarefa (comece por aqui)",
@@ -451,17 +451,14 @@ L += ["", "## Pasta META (Meta Ads, Facebook, Instagram, WhatsApp)", "",
  "├── setores/<setor>/fontes/     um resumo por conteúdo (AAAA-MM-DD_autor_titulo.md)",
  "├── autoridades/                uma ficha por pessoa",
  "├── META/                       documentação oficial da Meta resumida",
- "├── casos/                      o que nós testamos, com números (pesa mais que opinião)",
  "├── INDICE.md                   todas as fontes (recentes, por setor, por autoridade)",
  "└── _modelos/                   modelos de fonte e ficha + gerar_indices.py", "```", "",
  "## Como adicionar um conteúdo", "",
  "1. Assista ou leia. Para vídeo, `/watch <url>` no Claude Code.",
- "2. Copie `_modelos/fonte.md` para `setores/<setor-principal>/fontes/AAAA-MM-DD_autor_titulo.md` e preencha (o que foi dito, aplicação prática, pontos fracos).",
+ "2. Copie `_modelos/fonte.md` para `setores/<setor-principal>/fontes/AAAA-MM-DD_autor_titulo.md` e preencha (o que foi dito, aplicação para a We, pontos fracos).",
  "3. Crie ou atualize a ficha em `autoridades/`.",
  "4. Registre em `_modelos/gerar_indices.py` (listas `P`, `F` e, se a ideia já apareceu em outra fonte, `PRINC`) e rode `python -I _modelos/gerar_indices.py`.",
- "5. Se a fonte mudar um checklist, troque o item mais fraco do guia em `guias/` (máximo 10 itens; o resto em Complementos).",
- "6. Fonte que só repete o que já existe não vira arquivo novo: vira uma linha \"reforçado por\" na fonte ou no princípio.", "",
- "Testou algo e mediu? Registre em `casos/` a partir de `_modelos/caso.md`.", "",
+ "5. Se a fonte mudar um checklist, atualize o guia em `guias/`.", "",
  "Regras completas para agentes (Claude Code, Hermes): [CLAUDE.md](CLAUDE.md).",
  "", f"_Índices gerados em {_dt.date.today().isoformat()}._"]
 (R/"README.md").write_text("\n".join(L)+"\n", encoding="utf-8")

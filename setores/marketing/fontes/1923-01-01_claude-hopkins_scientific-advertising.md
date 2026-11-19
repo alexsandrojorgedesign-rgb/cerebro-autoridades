@@ -154,7 +154,7 @@ tags: [copywriting, resposta-direta, teste, headline, especificidade, oferta, am
 - "Quanto mais você conta, mais você vende."
 - "Pessoas podem ser atraídas, não empurradas."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Testar títulos e ganchos com método no Meta Ads:** mesmo criativo, ganchos diferentes ("pronto para morar" vs. "parcelas que cabem" vs. "a vista do 29º"). Registrar CPL e **custo por venda** de cada um numa tabela que vira o "manual de apelos" do empreendimento. Converge com [Michelly](../../mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) e [Dener](2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md).
 - **Especificidade em toda peça:** trocar "alto padrão", "localização privilegiada" e "acabamento de qualidade" por fatos e números (m², pé-direito, minutos até X, nome da marca do porcelanato, % de área verde, número de vagas, prazo de entrega).
   - **"Conte como é feito", como a cervejaria:** mostrar a obra e o processo que todo mundo faz, mas ninguém conta (fundação, impermeabilização, ensaios, vistorias).

@@ -36,7 +36,7 @@ tags: [estilos-de-design, referencias, pinterest, palavras-chave, wabi-sabi, gla
 | **Modern nostalgia** [0:18] | retrô 70–90 + acabamento moderno; meio-tom, grão, mockups de Polaroid/VHS | lifestyle, capa, anúncio social |
 | **Swiss punk** [0:19] | grade suíça "rebelde": sem serifa em choque de tamanhos, preto e branco + 1 cor, sobreposição, colagem | pôster, moda, editorial |
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Vocabulário de referência:** usar esses nomes ao buscar no Pinterest e ao escrever briefings e prompts de imagem. Para a We: **wabi-sabi** (Bioma, Casa WE, natureza e imperfeito), **light academia** em tom (Vicente, editorial claro), **literal object** (peças com cartão de embarque, recibo do aluguel pago, ingresso de evento da Casa WE — o mesmo recurso do caso EF Tours do Jason Murray), **modern nostalgia** (Polaroid em eventos).
 - **Não misturar:** um estilo por campanha, escolhido pela ideia, não pela moda.
 

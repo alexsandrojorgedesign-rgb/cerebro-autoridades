@@ -32,7 +32,7 @@ Contexto: diz ter feito campanhas para Google, Amazon e Meta em ~10 anos e ter t
 - "Copywriting is just communication with strategy." [0:03]
 - "Don't sell the drill, sell the hole." [0:08]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Novidade em relação aos clássicos:** o vídeo é sobretudo treino e rotina, não teoria. Os princípios de fundo já estão em [Hopkins](1923-01-01_claude-hopkins_scientific-advertising.md) (título que mostra o que interessa, benefício positivo, teste) e em [Ogilvy](1983-01-01_david-ogilvy_ogilvy-on-advertising.md) (um benefício por peça, linguagem de conversa, sem jargão). Aqui entram o ritual de prática e o swipe file.
 - **Swipe file da We:** guardar anúncios de lançamento que fizeram o time parar (incorporadoras de referência, e-commerce premium) e consultar antes de escrever roteiros de Vicente, Bioma e WeInvest.
 - **Série de 10 títulos:** para cada peça de anúncio, escrever 10 títulos e 5 variações do melhor antes de escolher; testar os dois melhores no Meta (o título é o que a Meta mostra primeiro).

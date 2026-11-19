@@ -53,7 +53,7 @@ tags: [marca-pessoal, prova, associacao, icp, ciclo-de-marca, momentos-de-marca,
 - "Branding é associar você a algo, de novo e de novo."
 - "Você é tão bom quanto sua última temporada."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Credibilidade antes de autopromoção:** a We tem prova concreta, com obras entregues, pavimentos subindo, chaves entregues e números. Documentar o **volume de trabalho** (obra, vistorias, entregas) é conteúdo que nenhum concorrente sem obra consegue copiar. Converge com Hopkins ("conte o processo").
 - **Associações escolhidas pelo comprador ideal de cada produto:**
   - Vicente: arquitetura, design, gastronomia, Country.

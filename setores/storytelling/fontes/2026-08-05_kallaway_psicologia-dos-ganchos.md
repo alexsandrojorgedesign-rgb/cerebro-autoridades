@@ -98,7 +98,7 @@ tags: [gancho, hook, interrupt-theory, texto-na-tela, power-words, gancho-visual
 - "Care equals trust." [29:46]
 - "Making a strong claim in the hook is not enough to get someone to lock in." [27:59]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 **Os três ganchos em cada peça.** No roteiro de reel, escrever em três colunas: texto na tela, fala e imagem de abertura, e checar se uma adivinha a outra. Erro típico nosso: drone bonito + texto institucional + locução que fala de outra coisa.
 
 **Fórmula de texto na tela adaptada (assunto + dor, desejo ou mudança), com exemplos:**

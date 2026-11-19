@@ -106,7 +106,7 @@ Contexto: Tay Dantas é ex-CEO da Boca Rosa, ex-sócia do G4 (cuidava das redes 
 - "O produto resolve uma dor concreta; a marca resolve uma dor pessoal ou social."
 - "Marca pessoal dá velocidade; marca de negócio dá escala."
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Pesquisa qualitativa por empreendimento:** 10 compradores leais, 10 leads que não compraram, 10 do perfil que nem consideraram a We.
   - Foco: quem querem ser e como querem ser vistos, não só renda e idade.
   - Para o Vicente, entender o que é "luxo" para o comprador do Country hoje: escassez, tradição relida ou praticidade.

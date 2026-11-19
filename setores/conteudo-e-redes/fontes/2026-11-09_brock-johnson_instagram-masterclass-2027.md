@@ -91,7 +91,7 @@ Largura (alcance, otimizar para shares), profundidade (confiança, otimizar para
 - "Count uploads, not followers." [2:00]
 - "Hashtags are not a reliable way to increase your reach on Instagram." (Adam Mosseri, citado) [2:35]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Linha "nome" dos perfis:** revisar @weinc, Vicente, Bioma, Casa WE, WeInvest, Creare, Casa do Jardineiro com termos que se buscam (ex.: "Apartamentos alto padrão Cascavel", "Floricultura Cascavel"), validados no Google Trends. Ajuste de 10 minutos com efeito em busca.
 - **Bio em 4 linhas** com CTA por palavra-chave para DM (casa com o fluxo de DM → WhatsApp da We no Zernio).
 - **Trocar sticker de link nos Stories por "responda a palavra X"** + automação (Zernio/ManyChat). Testar a fórmula STD em lançamentos e últimas unidades (Vicente, Bioma).

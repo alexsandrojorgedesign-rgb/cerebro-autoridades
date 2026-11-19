@@ -67,7 +67,7 @@ tags: [storytelling, cena, emocao, mostrar-nao-dizer, dialogo, pensamento, lugar
 - Sobre emoção: nomear "não é visual"; mostre como ela aparece no corpo e no rosto [04:58–05:08].
 - "It is actually the tool that I use the most." (diálogo) [06:25]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Mostrar a emoção na imagem, não no texto da legenda:** em depoimento e reel de entrega de chaves (Bioma, Vicente), o roteiro e a direção de cena pedem o gesto, não a palavra "emocionados". Exemplos de plano: a mão que demora na maçaneta, a criança que sai correndo pelo corredor vazio, o casal que senta no chão da sala sem móveis. Na edição, segurar esse plano 1 ou 2 segundos a mais.
 - **Diálogo vivo nos depoimentos:** na captação, pedir a frase dita e escolher a mais curta e marcante para abrir o reel ("ela olhou a vista e disse: 'é aqui'"). Descartar falas de tom corporativo ("o empreendimento superou nossas expectativas"), que é exatamente o exemplo de diálogo chato do vídeo.
 - **Pensamento cru, com curadoria:** no Bioma (primeiro imóvel), pensamentos como "pensei: será que o banco vai aprovar?" geram identificação. No Vicente, o tom pede elegância: pensamento de dúvida ou humor leve, nada neurótico demais.

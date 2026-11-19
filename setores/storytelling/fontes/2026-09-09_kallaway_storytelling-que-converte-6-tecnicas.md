@@ -31,7 +31,7 @@ Premissa: há uma diferença entre história que entretém e história que leva 
 - "People buy from you when they have an extremely clear understanding of exactly what you're saying." [0:05]
 - "Two ahas in the same video will accrue 10x trust." [0:10]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 Esta estrutura complementa a de retenção que já está no repositório (loop de 4 passos em [neurociência do storytelling](2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) e ganchos em [psicologia dos ganchos](2026-08-05_kallaway_psicologia-dos-ganchos.md), que lembram o "assunto, o que está em jogo"). A diferença é o foco: aqui o objetivo é compra, não watch time. O que é novo:
 - **Avatar framing por empreendimento:** cada roteiro nomeia o comprador e a dor na primeira frase ("para quem quer sair do aluguel e tem Caixa", "para quem já mora no Country e quer um apartamento sem manutenção"). Isso é o oposto de "conteúdo bonito de render".
 - **Ordem amplo para estreito em roteiros e carrosséis:** contexto do mercado (Cascavel, juros, obra), risco para o comprador, estratégia, tática (como financiar, como escolher andar/posição), exemplo (um cliente ou uma unidade) e princípios em 3 linhas no fecho. Serve para o carrossel de 6 a 10 cards e para o reel do Douglas e da Dani.

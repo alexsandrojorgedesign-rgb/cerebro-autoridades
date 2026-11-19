@@ -25,7 +25,7 @@ tags: [funil, tofu, trial-reels, reels, youtube, temas, curiosidade, identificac
 - **Saída do topo [00:45–00:55]:** tudo leva a **Stories e DMs** (MOFU), para nutrir; no fundo (BOFU), converter em clientes, no caso dele com uma comunidade no Skool (mostra painéis de 7k, 14k e 20k € de MRR de clientes).
 - **CTA:** comentar "TOFU" para receber a aula de 30 minutos com o sistema.
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Matriz de pauta de topo** para We, Bioma, Vicente e Casa WE, cruzando os 5 temas com os 2 ângulos. Exemplos:
   - **Problema / identificação:** "aluguel subindo todo ano e nada seu".
   - **Crença / curiosidade:** "planta na planta é sempre mais barato?".

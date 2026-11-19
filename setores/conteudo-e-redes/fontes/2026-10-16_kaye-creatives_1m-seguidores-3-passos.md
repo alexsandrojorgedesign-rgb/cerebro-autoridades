@@ -52,7 +52,7 @@ tags: [instagram, crescimento, nicho, outliers, trial-reels, compartilhamentos, 
 - Regra do outlier: abaixo de 500 mil views, não é referência [04:30].
 - "Shares tell the algorithm your content is valuable enough to send to a friend, and saves tell it that your content has long-term value." [09:18]
 
-## Aplicação prática (exemplos de clientes)
+## Aplicação para a We
 - **Pasta de outliers por cliente** (Instagram/Pinterest): salvar só reels de imobiliário, arquitetura e lifestyle que explodiram, inclusive de fora do Brasil e de fora do nicho, e anotar o formato. Encaixa no fluxo /criativo como etapa de referência.
 - **Adaptar formatos validados de fora do nicho** para imóvel, como ela faz com IA: trend de "correr em direção a…" com o Vicente; POV "andando pelo Bioma" com elementos de estilo de vida; cenas de filme com a casa. Sempre sem alterar a arquitetura (regra de IA da We).
 - **Rotina de Trial Reels:** reel da We, Casa WE ou Vicente que for bem nas primeiras 24 h → 2 ou 3 variações (gancho, texto, enquadramento) como trial. Segunda fonte (com o Mateo Jiménez) apontando Trial Reels como ferramenta barata.
