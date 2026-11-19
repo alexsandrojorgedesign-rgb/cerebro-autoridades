@@ -16,6 +16,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 | George Clements | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | [ficha](../../autoridades/george-clements.md) |
+| Daniel Priestley | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | [ficha](../../autoridades/daniel-priestley.md) |
 | Metics Media (Matt) | comparação prática OpenClaw x Hermes, instalação em VPS | [ficha](../../autoridades/metics-media.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 

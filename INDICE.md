@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-47 fontes de 29 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+48 fontes de 30 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -14,6 +14,7 @@
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
+| 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -62,6 +63,7 @@
 
 - 2026-10-14 · [Marketing e vendas para 2027 (EXTREMOS)](setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) · Dener Lippert, Alfredo Soares, Bruno Nardon · ◑ tradução automática
 - 2026-04-14 · [Marca notável na era da IA (The Entrepreneur's Studio)](setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) · Seth Godin · ● legenda original
+- 2025-10-11 · [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) · Daniel Priestley · ● completa
 - 2023-11-23 · [Marketing de influência que funciona (Jota Jota #142)](setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) · Alfredo Soares · ● legenda original
 - 2021 · [Marketing 5.0 (livro)](setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) · Philip Kotler, Hermawan Kartajaya, Iwan Setiawan · ● completa
 - 2010 · [Marketing 3.0 (livro)](setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) · Philip Kotler, Hermawan Kartajaya, Iwan Setiawan · ● completa
@@ -142,6 +144,7 @@
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | 2 |
 | [Chase Chappell](autoridades/chase-chappell.md) | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | 1 |
 | [Claude C. Hopkins](autoridades/claude-hopkins.md) | copy de resposta direta: testar, medir, ser específico | 1 |
+| [Daniel Priestley](autoridades/daniel-priestley.md) | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | 1 |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | 1 |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | 1 |

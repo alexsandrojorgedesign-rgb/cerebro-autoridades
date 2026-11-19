@@ -17,6 +17,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 | George Clements | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | [ficha](../../autoridades/george-clements.md) |
 | Chase Chappell | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | [ficha](../../autoridades/chase-chappell.md) |
+| Daniel Priestley | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | [ficha](../../autoridades/daniel-priestley.md) |
 
 ## Fontes resumidas
 
@@ -24,6 +25,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 |---|---|---|---|
 | 1923 | Scientific Advertising (livro) | Claude C. Hopkins | [resumo](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) |
 | 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
+| 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-06-26 | Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída | Chase Chappell | [resumo](../../setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) |

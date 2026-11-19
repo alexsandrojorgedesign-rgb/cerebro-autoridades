@@ -36,6 +36,7 @@ P = {
  "hyeser": ("Hyeser", "crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas)", ["conteudo-e-redes","marketing"]),
  "george-clements": ("George Clements", "Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV", ["trafego-pago","vendas","marketing","negocios-e-gestao"]),
  "chase-chappell": ("Chase Chappell", "criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares", ["trafego-pago","conteudo-e-redes","ia"]),
+ "daniel-priestley": ("Daniel Priestley", "geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam", ["marketing","vendas","trafego-pago","mercado-imobiliario","negocios-e-gestao"]),
  "mateo-jimenez": ("Mateo Jiménez", "funil de conteúdo TOFU/MOFU/BOFU com proporções", ["conteudo-e-redes","marketing"]),
  "teo-egana": ("Teo Egaña", "conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter", ["mercado-imobiliario","conteudo-e-redes","marketing","vendas"]),
  "ketherin-kaffka": ("Ketherin Kaffka", "perfil como programa de TV: séries recorrentes (monoflow)", ["conteudo-e-redes","branding","mercado-imobiliario"]),
@@ -167,6 +168,8 @@ F.append(("2026-10-07", "Meta Ads 2027: oferta × mercado, confiança, processo 
   "setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md", ["trafego-pago","vendas","marketing","negocios-e-gestao"]))
 F.append(("2026-06-26", "Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída", "Chase Chappell",
   "setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md", ["trafego-pago","conteudo-e-redes","ia"]))
+F.append(("2025-10-11", "Landing page de diagnóstico (scorecard) que gera e qualifica leads", "Daniel Priestley",
+  "setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md", ["marketing","vendas","trafego-pago","mercado-imobiliario"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
