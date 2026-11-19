@@ -17,7 +17,8 @@
 8c. **Volume sustentável:** 14 dias agendados como colchão; cada ideia em 3 formatos e cada post reagendado após ~90 e ~180 dias.
 8d. **Stories:** documentar (3 a 10 por dia) em dias de conexão; em dias de venda, 1 story só de texto com "me manda a palavra X" + automação de DM no lugar do sticker de link.
 9. **Métricas certas:** topo por alcance, compartilhamentos e salvamentos; meio por seguidores e mensagens; fundo por leads. Seguidor não é a métrica principal.
-10. **Toda peça leva a uma ação** (comentário, direct, WhatsApp, lista de espera).
+10. **Toda peça leva a uma ação** (comentário, direct, WhatsApp, lista de espera), em forma de presente ligado ao tema ("comente PLANTA e receba…") com automação de DM. → [Kallaway, 8 dicas](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md)
+10b. **Poucos formatos, repetidos:** 1–2 fórmulas por perfil como série de TV; quem enjoa é a equipe, não o público. Benchmark em contas de 10–250 mil seguidores com outliers; copiar só tema e palavras, nunca o vídeo. Recorte de público específico vale mais que viral para gerar lead.
 11. **Postar é o começo:** responder todo comentário, lives com o porta-voz e um reel por semana com as perguntas dos comentários; documentar o trabalho real em vez de inventar conteúdo. → [GaryVee, começar em 2026](../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md)
 12. **Volume com gosto:** IA nos gargalos (pesquisa, B-roll), humano no ângulo e no roteiro; gravar em lote.
 

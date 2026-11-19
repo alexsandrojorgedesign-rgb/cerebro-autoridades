@@ -26,9 +26,12 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 
 - Gancho falha por 4 erros: atraso (assunto tarde), confusão (frase difícil), irrelevância (falar "eu" em vez de "você", sem dor), desinteresse (sem contraste entre o que o público crê e a sua alternativa). ([fonte](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md))
 
+- 8 dicas impopulares: 1–2 formatos repetidos como série de TV, IA na entrada e não na saída, a média do nicho sempre sobe, dor + solução em vez de "conexão", estudar contas de 10–250 mil, CTA-presente em todo post, recorte de público em vez de viral, copiar só tema e palavras. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2026-10-22 | Give Me 24 Minutes, I'll Give You 10,000 Hours of Content Strategy | [resumo](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) |
 | 2025-07-03 | Give me 15 mins, and I'll make your hooks impossible to skip | [resumo](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2026-04-22 | The Neuroscience of Addictive Storytelling | [resumo](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo | [resumo](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
