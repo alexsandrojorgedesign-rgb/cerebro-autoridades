@@ -31,7 +31,7 @@ tags: [tipografia, legibilidade, comprimento-de-linha, entrelinha, hierarquia, c
 ## Frases-chave
 - "Typography controls your eyes." [0:00]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Sites e LPs (weinc, weinvest, linkbio):** texto corrido com 50–75 caracteres por linha, entrelinha ~1,5–1,6, `text-wrap: pretty` em títulos e parágrafos, evitar justificado na web.
 - **Modo escuro e peças em fundo escuro** (Vicente, identidade preta da We): não usar peso fino em texto pequeno branco sobre preto; subir o peso ou o tamanho.
 - **Público 40+** (comprador de alto padrão): corpo maior e contraste real em tabelas de preço, manuais e decks.

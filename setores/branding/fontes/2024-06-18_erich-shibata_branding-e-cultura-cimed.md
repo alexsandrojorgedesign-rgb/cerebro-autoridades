@@ -97,7 +97,7 @@ Contexto: Erich Shibata é diretor de branding e criação da Cimed, veio de 15 
 - "O logo é 5 a 10% do projeto de marca; o que faz lembrar é o todo."
 - "Dá 365 tiros por ano; erra 360 e acerta 5 golaços."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Marca-mãe forte e marcas dos empreendimentos ligadas a ela:** Bioma, Vicente, Toledo e Casa WE sempre "by We" com um elemento fixo (faixa, selo, cor). Em vez de dividir verba e atenção em marcas que o público não liga à We, a We dá prestígio a cada lançamento. Converge com o manual do Ecossistema WE.
 - **Um ativo próprio repetido com obsessão:** cor, tipografia ou símbolo da We aplicados sempre do mesmo jeito (stand, obra, tapume, uniforme, assinatura, carro). Consistência acima de "cada campanha com uma cara". Ver [Ogilvy](../../marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) e [Ana Couto](2024-01-22_ana-couto_o-poder-do-branding.md).
 - **Toda mídia de massa com CTA concreto:** outdoor, rádio, TV local ou patrocínio sempre com "visite o decorado neste fim de semana", "condição até dia X" ou "fale no WhatsApp". **Medir em 48–72h** os leads e as visitas que vieram depois de cada ação.

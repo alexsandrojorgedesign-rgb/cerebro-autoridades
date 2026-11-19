@@ -35,7 +35,7 @@ Contexto: comercial de banco com 3 histórias, ~70 pessoas, um dia; terminou 2 h
 - "Every time you relocate, you lose time on setup, prep, wrap, logistics." [0:01]
 - "Everything was done in prep, so the shoot day went pretty low cortisol." [0:06]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Gravações de reels, manifesto e bastidores:** uma locação por dia (ex.: decorado + área comum do mesmo empreendimento); visita técnica com celular gravando os planos antes da diária.
 - **Documento por departamento**, mesmo em produção pequena: decupagem/storyboard, referência de arte por ambiente, figurino e "bíblia" de personagem para modelos e moradores. A aprovação do cliente (Douglas, Creare) vem antes do set, não durante.
 - **Antes e depois na linguagem:** o "antes" (aluguel, obra) com câmera e luz menos polidas e sem trilha; o "depois" (apartamento pronto, vida no Bioma) limpo e com música — casa com a estrutura de história de Chris Do.

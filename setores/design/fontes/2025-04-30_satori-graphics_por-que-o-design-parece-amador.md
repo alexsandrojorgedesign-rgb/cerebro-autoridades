@@ -31,7 +31,7 @@ tags: [design-grafico, sistema-visual, emocao, pre-mortem, organizacao-de-arquiv
 - "A beginner might say, 'This looks good.' But a pro will say, 'This feels right.'" [0:05]
 - "If it falls apart and looks inconsistent, it's not a system. It's just a style." [0:07]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Uma emoção por marca/peça:** Vicente (acolhimento sofisticado, calma), Bioma (respiro, natureza), Casa WE (encontro), Nós (apetite, noite). Auditar cada layout contra essa emoção ajuda a evitar o visual genérico de IA e dá critério ao briefing.
 - **Teste dos três formatos** para cada identidade (post, story, tabela/deck, placa de stand): resolve o feed repetitivo da Creare, que repete o mesmo layout em vez de ter um **sistema** com regras que variam.
 - **Teste do estranho + readme nos editáveis** (VectorCraft/PhotoCraft, pastas _EDITAVEIS no Drive): camadas e pastas nomeadas, fontes e códigos de cor anotados, para Rodrigo, gráficas ou freelas retomarem sem perguntar.

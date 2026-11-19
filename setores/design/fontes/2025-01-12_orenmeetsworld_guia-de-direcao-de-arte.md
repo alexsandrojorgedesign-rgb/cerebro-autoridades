@@ -37,7 +37,7 @@ tags: [direcao-de-arte, fundo-branco, ecommerce, referencias, swipe-file, curva-
 - "Anything happens in a white studio… how do you make these interesting?" [0:01]
 - "You have to think about where your consumer is at." [0:06]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Fotos de produto/ambiente sem cenário especial:** pedir sempre uma "atividade" ou um adereço único (livro, bicicleta, mesa posta) nas peças de Vicente e Casa WE, em vez de foto neutra; condiz com foto como protagonista, sem shapes decorativos.
 - **Curva de adoção por marca:** o Vicente (alto padrão, Country) pode usar tendências de luxo já estabelecidas sem medo de parecer "atrasado"; WeInvest e Nós podem arriscar mais nos formatos. Ajuda a decidir quando copiar um formato viral e quando evitá-lo (reels genéricos com cara de IA).
 - **Swipe file por marca:** montar pastas de referência para cada marca (e a Creare), revisadas todo mês, e anotar "o que posso tirar disto" por peça; reforça o hábito de variar o sistema visual quando o feed estiver repetitivo.

@@ -90,7 +90,7 @@ Complementa o livro [A Vaca Roxa](2003-01-01_seth-godin_a-vaca-roxa.md), já res
 - "A Nike tem marca; a Hyatt tem logo."
 - "Autenticidade é armadilha; o cliente quer consistência."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Prova social de vizinhos, como na caldeira:** lista ou mapa de **moradores e compradores da We dispostos a dar referência** (com autorização), usada pelo corretor na visita. Depoimentos de quem já mora em empreendimento We, perto do novo lançamento.
 - **Cumprir promessa quando é difícil:** pós-venda e assistência técnica com resposta rápida e humana, sem "deixe recado". Um problema bem resolvido gera mais confiança que campanha. Medir o tempo de resposta.
 - **Remarcabilidade embutida no produto e na experiência:** o que, na visita, no decorado ou na entrega, faz o cliente **contar no dia seguinte**? Algo que dê status e pertencimento (evento de moradores, jantar Casa WE, ritual de chaves). Ver [A Vaca Roxa](2003-01-01_seth-godin_a-vaca-roxa.md).

@@ -116,7 +116,7 @@ Contexto: Alfredo Soares é cofundador do G4, ex-VTEX (vendeu a XTech), autor de
 - "O cliente é o melhor consultor do negócio, mas pergunta idiota gera resposta ruim."
 - "O CAC mais barato é o do Instagram do dono."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Agenda conectada anual da We:**
   - Recorrentes: obra do mês, Casa WE, jantares.
   - Sazonais: lançamentos, entregas de chaves, aniversário da We, Black Friday imobiliária, feiras.

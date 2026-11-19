@@ -35,7 +35,7 @@ tags: [logo, identidade-visual, conceito, briefing, monograma, teste, motion, ve
 - "You're not trying to be weird here. You're trying to be ownable." [0:19]
 - "If I cannot explain the idea in one sentence, the logo is probably just too complicated." [0:14]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Logos de empreendimento e verticais** (Vicente, Bioma, WeInvest, Nós, Casa WE): rodar o teste das 20 marcas com logos de incorporadoras e empreendimentos de Cascavel e região; muita casa, folha e "residencial" em serifa parecida = lacuna de propriedade.
 - **Versões com função:** logotipo + monograma/selo, testados em avatar do Instagram, placa de obra, adesivo de carro e painel LED no tamanho real.
 - **Entrega organizada:** o kit de identidade (pasta OFICIAL no drive) deve dizer qual arquivo vai para site, avatar, gráfica e assinatura de e-mail, com exemplo de uso — já é o padrão dos kits We e WeInvest; manter.

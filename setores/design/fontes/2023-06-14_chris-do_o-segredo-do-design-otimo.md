@@ -29,7 +29,7 @@ tags: [critica, criterios, design, maestria, briefing, cliente, direcao-de-arte]
 - "The way to achieve excellence is to do less but to do better." [0:02]
 - "What does it mean to teach? Your students can look at the work and make similar decisions without you being there." [0:05]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Lista de 5 critérios para aprovar arte** (por marca), usada pela equipe e pelos agentes antes de mandar para aprovação. Exemplo para posts de empreendimento: (1) a foto é protagonista e sangrada; (2) 2–3 ingredientes de destaque, sem shapes; (3) hierarquia clara do título; (4) tipografia e cores do manual; (5) logo discreto no lugar padrão. Transforma as correções do Alex (que hoje estão nas memórias) em régua compartilhada.
 - **Traduzir palavras do briefing:** quando o pedido vier como "mais clean", "mais premium", "mais vivo", perguntar o que isso muda (menos elementos? mais respiro? foto mais escura?) e registrar a resposta como critério.
 - Combina com o guia de [direção de arte](../../../guias/direcao-de-arte.md): ingredientes definem a peça; os critérios julgam a peça.

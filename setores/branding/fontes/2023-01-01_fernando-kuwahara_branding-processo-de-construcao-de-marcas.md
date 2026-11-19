@@ -36,7 +36,7 @@ tags: [branding, brand-equity, identidade, imagem, posicionamento, prisma-de-kap
 - "Uma promessa de marca vazia é pior do que não haver promessa nenhuma." (Aaker, citado) [p.22]
 - "Criar uma marca é comportar-se desde o início como uma marca estabelecida, rica em significados." (Kapferer, citado) [p.26]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Arquitetura do ecossistema:** a We funciona como **marca de endosso** ("Vicente by We", Bioma, Casa WE, WeInvest, Nós) — cada empreendimento com promessa própria e o endosso dando confiança. Útil para decidir quanto da We aparece em cada peça e manual.
 - **Prisma de Kapferer como roteiro de plataforma de marca** para cada empreendimento novo: físico, personalidade, cultura, relação, reflexo e mentalização, escritos antes do layout. O "reflexo" ajuda na direção de arte: quem aparece nas fotos é o modelo de identificação, não necessariamente o comprador médio.
 - **Identidade central × expandida:** o central da We (o que nunca muda) fica no manual do Ecossistema; cada vertical adapta só o expandido.

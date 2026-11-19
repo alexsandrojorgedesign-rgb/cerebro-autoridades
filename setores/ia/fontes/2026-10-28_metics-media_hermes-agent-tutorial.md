@@ -93,7 +93,7 @@ Mesmo canal e apresentador do comparativo [OpenClaw x Hermes](2026-06-15_metics-
 - "I described an outcome once and now it comes to me." [18:29]
 - "I told it plainly the way you would tell a new hire as you're training them." [19:52]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 
 **O que o Alex já tem (bate com o tutorial):** Hermes em **VPS Hostinger com Docker** e **Telegram** (agente "Alex", @alexhermes2026_bot), memórias e skills versionadas no repo **cerebroagent**, e um segundo Hermes no PC (perfil "criacao") como gerente que delega ao Claude Code via claude-criar. Ou seja, os passos 1 a 3 estão feitos e a arquitetura já vai além do tutorial (dois agentes, cérebro em Git, delegação).
 

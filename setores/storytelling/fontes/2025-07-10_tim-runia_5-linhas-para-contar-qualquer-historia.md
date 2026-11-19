@@ -61,7 +61,7 @@ tags: [storytelling, estrutura, roteiro, edicao, planejamento, filmmaking, cinco
 - Sobre as 5 linhas: são "o fio da vida", o núcleo emocional da história [03:00–03:06].
 - "These five lines aren't your whole video. They are some sort of launchpad." [05:56]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Regra de produção:** nenhum reel, depoimento ou manifesto vai para gravação sem as 5 linhas escritas no briefing. O editor recebe as 5 linhas junto com o material bruto e confere cada corte contra elas (é o "voltar às linhas quando o projeto sobrecarrega"). Ajuda a evitar o vídeo bonito de drone e decorado sem história.
 - **O desejo é do cliente, não da We.** Exemplos de 5 linhas:
   - **Bioma (primeiro imóvel):** casal de 28 anos paga aluguel num apartamento pequeno no centro / quer um lugar seu antes do primeiro filho / achava que não teria entrada nem aprovação / descobre na simulação que a condição de pagamento cabe no orçamento / hoje acompanha a obra do apartamento deles. (Condições reais só com validação do comercial.)

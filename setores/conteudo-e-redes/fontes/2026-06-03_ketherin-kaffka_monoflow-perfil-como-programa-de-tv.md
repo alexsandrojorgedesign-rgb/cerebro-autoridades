@@ -25,7 +25,7 @@ tags: [series, programa-de-tv, monoflow, formato-recorrente, branded-content, co
 - **Extra: NJR Eyewear [01:25–01:35].** A marca de óculos do Neymar com a série "Os escolhidos do Neymar Jr." e esquetes ("Alô!").
 - **CTA:** comentar para receber mais referências e o link da mentoria.
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **"Open House" é o modelo direto para a We:** uma série fixa de imóveis com os corretores e a equipe como personagens, mesmo formato e abertura a cada episódio (para o Vicente, o Bioma ou imóveis de terceiros). Combina com "pessoas na frente da marca" e com as wow stories do Gallo.
 - **Série sem logo (modelo Bilt):** um formato de entretenimento sobre morar em Cascavel/Toledo (jovens no primeiro apê, famílias, vizinhos de condomínio) em que a We aparece pouco. É topo de funil puro e constrói marca.
 - **Assinatura visual (modelo Jean Black):** cada perfil com uma linguagem reconhecível (cor, enquadramento, trilha, abertura). Isso já aparece nos reels do Vicente e da Casa WE; vale formalizar como "formato da série".

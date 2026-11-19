@@ -106,7 +106,7 @@ Formato: o Alfredo atua como "advisor" do sócio. Há propaganda do curso de PLG
 - "Identidade é quem tu é." Primeiro identidade, depois formato.
 - "Seguidor não é mais métrica."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Perfis dos sócios e porta-vozes da We** (Douglas e outros): definir identidade em uma expressão, no estilo do "nerd rico", e os padrões do dia a dia que viram stories sem roteiro (obra, reunião, visita ao stand, família).
 - **Funil por formato fixo no @weincorporadora e nos empreendimentos:**
   - Topo: notícia de Cascavel e Toledo, bastidor de obra.

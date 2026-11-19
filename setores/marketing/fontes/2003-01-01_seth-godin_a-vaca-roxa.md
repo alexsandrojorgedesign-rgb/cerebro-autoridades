@@ -126,7 +126,7 @@ tags: [vaca-roxa, notavel, diferenciacao, early-adopters, sneezers, ideiavirus, 
 - "Ser chato é sempre a estratégia mais arriscada."
 - "Produto para todo mundo é produto para ninguém."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **O que, em cada empreendimento, faria alguém ligar para um amigo para contar?** Nem só a lista de itens de lazer, que todo concorrente tem (vaca marrom).
   - Vicente: o que é único na arquitetura, na experiência ou no serviço?
   - Bioma: a mata e a luz?

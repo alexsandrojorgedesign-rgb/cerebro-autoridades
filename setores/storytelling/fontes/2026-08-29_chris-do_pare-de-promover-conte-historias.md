@@ -41,7 +41,7 @@ Formato: masterclass ao vivo (evento na Europa), Chris Do responde perguntas da 
 - "Human beings have an imagination gap." [0:08]
 - "When you serve too many people, you serve no one." [0:30]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Prova antes da compra:** imóvel na planta tem a maior lacuna de imaginação que existe. Conteúdo de prova: obra avançando, entregas (Casa WE pronta), depoimentos escritos e em vídeo de quem já recebeu a chave, eventos com clientes reais. Reforça a regra interna de não usar reels de "drone + IA + locução" como prova.
 - **Antes e depois do morador, não do prédio:** "morávamos de aluguel com dois filhos num apê sem sacada…" → a família no Bioma. Personagem (comprador), desejo, obstáculo (entrada, financiamento, medo de obra atrasar), transformação. O antes dá peso ao render.
 - **Linguagem do cliente:** pautas e anúncios com as frases que o comprador usa no WhatsApp ("tenho medo de a obra atrasar", "não sei se consigo financiar"), não termos de mercado.

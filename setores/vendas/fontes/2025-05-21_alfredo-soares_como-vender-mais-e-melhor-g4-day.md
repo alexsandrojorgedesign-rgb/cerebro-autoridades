@@ -102,7 +102,7 @@ Formato: aula de palco no G4 Day, em evento itinerante do G4 pelo Brasil.
 - "Não é o vendedor que tem que vender, é a empresa que tem que ser vendedora."
 - "Mantenha a agenda com seu cliente. Não terceirize essa relação."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Meta de lucro e margem por empreendimento**, não só VGV vendido. Ritual de olhar a margem de contribuição de cada campanha e negociação.
 - **Distribuição de leads por perfil**, não em fila:
   - corretor que melhor converte lead do Vicente vs. do Bioma;

@@ -40,7 +40,7 @@ tags: [direcao-de-arte, portfolio, big-idea, campanha-360, pontos-de-contato, sp
 - "Employers won't hire what they can't see." [0:01]
 - "You get started by getting started." [0:06]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Apresentar peças como mini-projetos:** nos decks de proposta e relatórios para a diretoria, cada campanha (Vicente, Bioma, Casa WE, WeInvest, Nós, Creare) com nome da ideia, uma key visual, uma frase do porquê e de 4 a 6 peças que mostrem a mesma ideia em canais diferentes. Complementa o guia [direção de arte](../../../guias/direcao-de-arte.md).
 - **Testar uma ideia-mãe por campanha** antes de produzir peças soltas: ajuda no problema do feed repetitivo da Creare, em que as peças variam pouco porque falta conceito acima do layout.
 - **Ligar ponto de contato à ideia:** em embalagem, brinde e sinalização (copo, plaquinha, guarda-chuva), repetir só cor, tipografia e clima, sem a mensagem principal, como ele descreve; combina com a preferência por foto protagonista e sem enfeite.

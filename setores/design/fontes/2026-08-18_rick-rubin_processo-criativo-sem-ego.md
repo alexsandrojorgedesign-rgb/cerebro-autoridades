@@ -33,7 +33,7 @@ tags: [processo-criativo, autenticidade, ia, iteracao, versoes, ego, colaboracao
 - "The real question is, how much more can I give to the thing I'm making?" [0:06]
 - "A big part of it is just not screwing up what's good." [0:12]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Versões sempre salvas:** manter v1, v2, v3 de cada peça (como já fazemos em AGUARDANDO) e, na revisão, comparar com a primeira; às vezes o ajuste piorou.
 - **Não copiar o "que está funcionando" para outros:** referência orienta, mas a peça final precisa ser da marca (casa com o anti-slop do Kallaway e a lacuna de propriedade do Satori).
 - **IA na entrada, perspectiva humana na saída:** IA dá a resposta média; o ângulo e o gosto da equipe é que diferenciam.

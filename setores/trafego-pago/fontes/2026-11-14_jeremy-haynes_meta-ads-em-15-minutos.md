@@ -31,7 +31,7 @@ Contexto: 13 anos de agência, diz faturar ~US$ 1,4 milhão/mês e ter levado de
 - "Messaging controls everything nowadays on Meta." [0:03]
 - "I don't want to be right. I just want to make money." [0:11]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Funil pelo time comercial:** corretores que respondem devagar ou não qualificam pedem funil que educa antes (conteúdo, evento, visita ao decorado) e formulário com perguntas; não adianta lotar o WhatsApp de leads frios.
 - **Mensagem = público:** escrever na língua do comprador certo (casal do primeiro apê com Caixa × médico no Country × investidor); a palavra errada traz o público errado. Mapear problemas, circunstâncias e resultados por perfil.
 - **Pixel e CRM:** devolver para a Meta (API de Conversões, Facilita) só leads qualificados e visitas; acompanhar a proporção qualificado/não qualificado por campanha — reforça o item de mensuração do guia de anúncios.

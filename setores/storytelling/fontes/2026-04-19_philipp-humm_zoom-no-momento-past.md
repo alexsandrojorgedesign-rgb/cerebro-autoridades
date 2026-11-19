@@ -67,7 +67,7 @@ tags: [storytelling, roteiro, cena, dialogo, pensamento, detalhe, oratoria, work
 - Sobre a fala decisiva: crie expectativa antes e pause depois para ela assentar [12:20].
 - Sobre pensamentos: o público quer os pensamentos "crus e sem filtro", não a versão polida [15:58].
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Depoimentos e cases de morador** (Bioma, Vicente, Casa WE, Creare): roteirizar e editar com PAST. Abrir no lugar e na ação ("estou na sacada do 29º, a chave ainda na mão…"), usar a fala real de quem estava junto ("minha filha disse: 'esse é o meu quarto?'") e o pensamento do momento ("pensei: a gente conseguiu"). Evita o depoimento genérico do tipo "estamos muito felizes".
 - **Entrevistas de captação:** perguntar "o que você pensou naquela hora?" e "o que exatamente ele falou?" em vez de "como você se sentiu?". Isso gera material de fala e pensamento para cortar no reel.
 - **Legenda e carrossel:** a primeira linha começa em lugar + ação no presente, sem contexto de abertura. Combina com o "stakes cedo" do [Kallaway](2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md).

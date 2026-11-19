@@ -34,7 +34,7 @@ Continuação de [Os 5 níveis da marca pessoal](2026-07-22_matt-gray_5-niveis-d
 - "Every single post needs a contextual lead magnet." [0:04]
 - "Views don't pay rent." [0:03]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Ritual de áudio para o Douglas:** caminhada ou trajeto respondendo 10 perguntas (por que a We existe, histórias de obra, erros, opiniões sobre o mercado) → transcrição → "doc de voz" que alimenta roteiros e legendas sem soar IA. Casa com a memória de voz do Douglas que já usamos e com o clone de voz/Soul.
 - **Isca por tema em cada post:** post sobre financiamento → simulador/guia; sobre planta → PDF da planta; sobre investimento (WeInvest) → planilha de rentabilidade. Captura nome e WhatsApp.
 - **Workshop/evento que ensina antes de vender:** Casa WE ou live "Como comprar o primeiro apartamento em Cascavel" — 40 min de conteúdo útil e 15 min de condição exclusiva para quem participou.

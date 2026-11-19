@@ -34,7 +34,7 @@ Contexto: 2 milhões de seguidores, três negócios de sete dígitos com conteú
 - "The consistency and redundancy of the format is the feature, not the bug." [0:02]
 - "Be ruthlessly data-driven on the topics, and ruthlessly creative on the take." [0:22]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Formato fixo por perfil:** escolher 1–2 fórmulas para Vicente, Bioma e Casa WE e repetir; quem enjoa somos nós. Conversa com a crítica de que a Creare precisa variar layout: a variação deve vir do conteúdo/tema, com 1–2 sistemas visuais fortes, não de um layout novo a cada post.
 - **IA na entrada:** pesquisa, pautas, análise de outliers com IA; roteiro, gravação e edição com gente. Reforça a regra interna de que IA não muda a arquitetura e as reprovações de reels "drone + IA + locução".
 - **CTA-presente em todo post:** palavra-chave nos comentários/DM → material (planta, simulação, guia de financiamento, tabela) via automação → WhatsApp. É a mesma ideia de Brock Johnson (automação de DM) e Matt Gray (isca contextual).

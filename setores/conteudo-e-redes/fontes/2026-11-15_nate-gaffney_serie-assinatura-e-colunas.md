@@ -36,7 +36,7 @@ Continuação de [800 mil seguidores em 78 dias](2026-10-18_nate-gaffney_800k-se
 - "A column is simply a repeatable category for ideas." [0:03]
 - Dizer em voz alta "the quiet part" que todos vivem e ninguém fala. [0:05]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Colunas para os perfis dos empreendimentos** em vez de só pilares (obra, lazer, planta): ex. para Vicente/Bioma — "o tipo de morador que…" (identidade), "o que ninguém te conta sobre mudar de casa" (parte não dita), "contradições de quem compra imóvel" (humor), "quanto do seu dia…" (rotina). Cruzar colunas gera pauta sem depender de "ideia do dia".
 - **Abertura fixa da série** com público declarado ("Se você está pensando em sair do aluguel em Cascavel, esta série é para você"); vale para a série do Vicente "O que faz a gente ficar" e para quadros da Casa WE e WeInvest.
 - **Testar cada episódio em várias versões de trial** antes de ir para o feed, como no método dos 5.

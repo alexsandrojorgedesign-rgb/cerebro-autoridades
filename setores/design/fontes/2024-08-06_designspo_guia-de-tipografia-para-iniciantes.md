@@ -38,7 +38,7 @@ tags: [tipografia, serifa, sem-serifa, display, script, peso, entrelinha, espaca
 ## Frases-chave
 - "Different fonts are like different tones of voice." [0:00]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Caráter por marca:** serifada ou sem serifa elegante para alto padrão (Vicente), sem serifa leve para Bioma (Neulis) e para a We; script só em detalhe (convites da Casa WE), nunca em texto.
 - **Ajuste fino nos títulos grandes** de posts e outdoors: entrelinha perto de 100% e letras levemente mais fechadas; em legenda e texto pequeno, o contrário. Kerning manual em logos e títulos de campanha.
 - **Sistema tipográfico no manual de cada marca** (títulos 1–3, texto, botão, rótulo) com tamanho, peso, entrelinha e espaçamento definidos; nos sites, usar rem.

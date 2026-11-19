@@ -42,7 +42,7 @@ Este vídeo é o irmão mais antigo do [guia de logo para 2027](2026-10-21_sator
 - "Color should enhance, not actually rescue a concept." [0:12]
 - "Your edge is thinking, not just using tools." [0:03]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Teste de escala e de uma cor como etapa fixa:** todo logo de empreendimento (Vicente, Bioma, WeInvest, Casa WE, Nós) deve passar por uma sequência de reduções e por uma versão chapada em preto e em branco antes de aprovar; vale para avatar, placa de obra e painel LED visto de longe.
 - **Forma pela natureza da marca:** Bioma (natureza, folhas) tende a curvas e orgânico; Vicente e WeInvest, mais construção e solidez, a geometria reta. Ver se o logo atual segue essa lógica ou se contraria de propósito.
 - **Calibrar simplicidade à confiança:** WeInvest fala com investidor e corretor (dinheiro), então pede o logo mais simples e transparente; Casa WE e Nós podem ter mais personalidade.

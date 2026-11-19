@@ -47,7 +47,7 @@ Fecho: nenhuma das cinco é "ser mais alto ou mais polido", e sim mais honesto, 
 - "Nobody's grading you." (sobre os takes ruins) [0:06]
 - High authority and high affinity: "the personal brands that grow the fastest have both." [0:13]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Rotina de gravação do Douglas e da Dani (reels falando para a câmera):** 30 s de aquecimento físico, 1 a 2 minutos de take de descarte e foto de um comprador-tipo ao lado da lente (por exemplo, o casal do primeiro apê ou o investidor de Toledo). Complementa o treino de postura, mãos e "um pensamento, uma pessoa" de [Philipp Humm, linguagem corporal](../../storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md): Humm cuida do corpo, Kallaway da voz, do ritmo e do estado de espírito. Para vídeo vertical, "olhar a lente" substitui o contato visual com a plateia.
 - **Roteiro linha a linha e prompter** para quem trava: o roteiro vai com frases de 6 a 10 palavras, uma por take, e a palavra de ênfase marcada. Combina com o guia [roteiro de vídeo e reels](../../../guias/roteiro-de-video-e-reels.md).
 - **Texto escrito por IA ou pela equipe sempre passa pela boca do porta-voz antes de gravar:** reler em voz alta e reescrever o que não soa como ele fala. É a versão de fala da regra de [IA na entrada, não na saída](../../conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md).

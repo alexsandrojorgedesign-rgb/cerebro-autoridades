@@ -35,7 +35,7 @@ tags: [storytelling, abertura, gancho, metafora, palestra, oratoria]
 3. A consequência (tarde demais).
 4. Virada explícita: "estamos numa situação semelhante", e só então o tema.
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - Usado em 11/11/2026 na abertura do workshop de IA do Alex: Titanic → "o nosso navio já bateu no iceberg" (a forma de trabalhar mudou) → "a IA não é o iceberg, é o bote" → três botes (terminal, agentes 24h, GBrain) → fechamento "os botes estão aqui, e ainda tem lugar".
 - Em palestra para corretores ou lançamento: abrir com uma cena concreta, nunca com "hoje vou apresentar o empreendimento".
 - Cuidado com metáfora de medo em público interno: deixar claro que a virada é sobre o jeito de trabalhar, não sobre demissão.

@@ -29,7 +29,7 @@ tags: [copywriting, copy-vs-conteudo, beneficios, diferenciacao, cta-unico, cana
 ## Frases-chave
 - "The best copywriters are not the best writers, they're the best marketers." [0:03]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Separar copy de conteúdo no calendário:** post de pauta (conteúdo) pode ter um CTA-presente; anúncio, legenda de oferta e página são copy, com uma ação só (falar no WhatsApp, agendar visita) e medida.
 - **Benefício do morador, não planta técnica:** "o elevador privativo" vira "você sai do carro e está em casa"; a ficha técnica fica para depois do clique.
 - **Diferença que o concorrente não copia:** localização, arquitetura, prazo cumprido, histórico de entrega — não "o melhor de Cascavel".

@@ -53,7 +53,7 @@ Quem fala com um avatar só satura o público ao escalar. Abrir avatares por pro
 - "Your spend is leveled across all of your ad creatives, and this is how you know you did it right." [0:17]
 - Criativo "ruim" que fica: "it still has a place in your ad account." [0:14]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Conjunto do Vicente/Bioma com criativos por etapa:** topo (dado ou problema do morar em Cascavel, história da We), meio (antes/depois obra × render, "3 motivos", planta), solução (comparativo com aluguel ou com outro bairro, depoimento de comprador), produto (condição do mês, últimas unidades), fundo (convite direto para visita ao decorado). Tudo no mesmo conjunto, sem desligar o que tem CPL mais alto se ele cobre uma etapa.
 - **Checar a distribuição de verba:** se 80% da verba vai para 1–2 anúncios, faltam formatos diferentes — não variações do vencedor.
 - **Três fontes adaptadas:** "UGC" no imóvel = moradores, compradores, corretores e arquitetas gravando no celular; "própria" = Douglas e equipe, bastidor de obra; IA = variações estáticas rápidas, **sem alterar a arquitetura** (regra interna da We).

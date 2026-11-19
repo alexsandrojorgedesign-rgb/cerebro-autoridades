@@ -104,7 +104,7 @@ Contexto: Ana Couto é designer e antropóloga, fundadora da agência Ana Couto,
 - "Quem diz que o cliente é todo mundo não sabe quem é o cliente."
 - "Só performance é anabolizante."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Diagnóstico do gap de percepção no Ecossistema WE:**
   - Perguntar à diretoria e aos corretores: "se a We fosse um carro ou um animal, qual seria?"
   - Fazer a mesma pergunta a compradores e leads.

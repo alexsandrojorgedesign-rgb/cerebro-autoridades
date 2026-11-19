@@ -156,7 +156,7 @@ As estruturas abaixo são paráfrases dos recursos apresentados pelo livro, não
 
 Estas frases são formulações deste resumo, não citações literais do autor.
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 
 **Interpretação nossa:** as propostas abaixo adaptam o livro ao trabalho da We. Não são recomendações feitas por Gallo a essas marcas nem afirmações sobre resultados já obtidos.
 

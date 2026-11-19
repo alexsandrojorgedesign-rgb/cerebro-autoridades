@@ -102,7 +102,7 @@ Atenção: o "Douglas" deste vídeo é o Douglas Viegas (Ninja), não o Douglas 
 - "Você não fala de disciplina para vender disciplina; você mostra."
 - "Parceiro constrói junto; fornecedor ganha dinheiro com você."
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Douglas Popenga e sócios da We:** listar a identidade (traços) e os **momentos reais do dia a dia** que mostram cada um (obra, visita ao cliente, família, Cascavel). Séries numeradas e repetidas no lugar de posts soltos. Ver também o [vídeo do nerd rico](2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).
 - **Ir a podcasts e eventos da região como convidado** para gerar conteúdo de graça: associações, rádio, podcasts de Cascavel e Toledo, eventos do agro e de empresários.
 - **Permuta com fornecedores e parceiros:** produtora, fotógrafo, decoração, móveis planejados e paisagismo (como a Casa do Jardineiro) trocando serviço por aparecer em conteúdo, decorado e eventos da Casa WE.

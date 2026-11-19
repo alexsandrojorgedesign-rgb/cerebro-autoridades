@@ -184,7 +184,7 @@ Linha do projeto segundo o próprio framework [F] ([approach](https://www.elepha
 
 ---
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 
 ### Aplicável ao **Vicente by We** (alto padrão, Cascavel)
 - **Manifesto de uma palavra + vocabulário controlado.** Definir a palavra-conceito do Vicente e montar um "In a few words" (40 a 60 palavras) que vire guia para Instagram, anúncios e corretores. [I] Isso conversa com a skill `vicente-copywriter-we-inc`, que pode ganhar essa lista.

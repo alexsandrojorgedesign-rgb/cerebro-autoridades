@@ -840,7 +840,7 @@ Detalhamento:
 
 ---
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 
 - **Missão, visão e valores falados para quatro públicos** (caps. 3 a 6), não só para o comprador:
   - Comprador: a promessa de cada empreendimento.

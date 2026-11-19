@@ -91,7 +91,7 @@ tags: [agentes, claude-code, contexto, skills, mcp, memoria, sistema-operacional
 - Analogia: um Volvo com contexto, skills e ferramentas bem regulados ganha de um Lamborghini [16:53].
 - A primeira versão de uma skill nunca é boa; as dele estão na v5 a v10 [95:01].
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **O Alex já roda essa arquitetura** (CLAUDE.md global, memória em arquivos, cérebro de criação no Drive, skills /criativo e /programar, Hermes 24h, MCPs de Higgsfield, Zernio e Meta). O vídeo serve mais como checklist de lacunas do que como novidade:
   - **Apify** (raspar Instagram e TikTok de concorrentes e de referências imobiliárias) e **Firecrawl** (ler sites de concorrentes, CRO das LPs do Bioma e do Vicente) ainda não aparecem no fluxo.
   - **Chrome DevTools/Playwright** para o agente conferir os sites que publica (linkbio, terceiros, painéis) antes de entregar.

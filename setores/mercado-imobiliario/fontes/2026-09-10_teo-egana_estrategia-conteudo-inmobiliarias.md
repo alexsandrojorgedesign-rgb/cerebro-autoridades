@@ -25,7 +25,7 @@ tags: [imobiliaria, conteudo, top-of-mind, series, bairros, newsletter, remarket
 - **Newsletter [01:30–02:30].** Levar a audiência para uma newsletter contando imóveis e casos ("emails, casos"), ou avisando de preços. Ela serve para **armazenar dados** e permite **remarketing** e **lista de espera** para lançamentos, gerando dinheiro. "Quem faz isso vende muito mais."
 - **CTA:** comentar "CASA" para ele aplicar o método de forma personalizada (venda de serviço).
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Série de bairros e Cascavel/Toledo:** Country, Centro, região do Bioma, restaurantes AAA de Toledo (já mapeados). Episódios curtos com o mesmo formato, para o perfil da We e para os perfis pessoais. É conteúdo de topo que não fala de venda.
 - **"Quanto você paga de aluguel?"**: versão local com moradores ou pessoas na rua, comparando aluguel com a parcela do Bioma (essencial) ou mostrando a casa por dentro. Atenção à autorização de imagem e à regra de publicidade de preço.
 - **Lousa para o complexo:** fluxo de pagamento, financiamento na planta, alugar x comprar, valorização. Formato barato para as semanas sem captação (encaixa no aprendizado de 10/11 de trocar reels genéricos por peças fortes).

@@ -27,7 +27,7 @@ tags: [publico, icp, alcance, conversao, mix-de-conteudo, nicho]
   - **Evitar o azul-escuro:** amplo demais. Exemplo dele: surfar numa notícia como "o novo [lançamento] da Selena Gomez", que está longe demais do seu mercado e traz gente que nunca vai comprar.
 - Ele chama a distribuição de **conteúdo "três, dois, um"**. Pelo gráfico, a leitura provável é proporção entre os anéis (mais conteúdo perto do centro, um pouco de alcance, uma aposta caótica), mas a fala exata não está visível.
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Desenhar o alvo de cada empreendimento:**
   - Vicente: centro = família de alta renda do Country; laranja = quem pensa em trocar casa por apartamento; azul-claro = arquitetura, decoração e lifestyle em Cascavel.
   - Bioma: centro = casal do primeiro imóvel; laranja = quem paga aluguel; azul-claro = finanças pessoais e cidade.

@@ -1,28 +1,31 @@
 # Guia: apresentações, decks e pitch
 
-**Use quando:** for montar deck de lançamento, apresentação para corretores, investidores ou parceiros (We Invest), proposta comercial ou palestra.
+**Use quando:** for montar deck de lançamento ou de vendas, apresentação para clientes, parceiros, corretores ou investidores, proposta comercial ou palestra.
 
 ## Checklist rápido
-1. **Manchete antes do detalhe:** a ideia central em até 10 palavras (ou 140 caracteres) no começo.
-2. **Pelo menos 65% em histórias,** com os dados embalados nelas (morador, terreno antes da obra, decisão de projeto).
-3. **Comece pelo universal** antes do tema difícil (o que todo mundo vive), para ganhar confiança.
-4. **Regra dos três:** 3 ideias, 3 motivos, 3 atos.
-5. **Herói e vilão:** o problema (vilão) e a solução (herói); estrutura de Guber: desafio inesperado → luta → chamado à ação.
-6. **Imagem em vez de texto:** slides com foto e pouca palavra; analogia para o técnico ("A é como B").
-7. **Linguagem simples:** palavras curtas, nível de leitura baixo; jargão confunde.
-8. **Específico e com prova:** números, fatos e depoimentos reais; nada de "o melhor", "alto padrão" sem prova. → [Hopkins](../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md)
-9. **Quebre uma expectativa** com algo concreto (objeto, dado, demonstração).
-10. **Histórias de outros clientes** pesam mais em venda complexa (como imóvel).
-11. **Pitch de 60 segundos** ensaiado antes da versão longa.
-12. **Corpo na apresentação ao vivo:** peito levemente erguido; mãos com uma "casa" (ao lado do corpo ou juntas no umbigo); gestos lentos acima da cintura (palmas abertas, convite, pitada de sal no ponto principal, comparação, contagem); "um pensamento, uma pessoa" no olhar; rosto relaxado. Treinar um ajuste por vez. → [Philipp Humm](../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md)
+1. **Manchete antes do detalhe:** a ideia central em até 10 palavras (ou 140 caracteres), logo no começo. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+2. **Pelo menos 65% em histórias:** os dados vão embalados nelas (ex.: o cliente, o antes e depois, uma decisão de projeto). → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+3. **Comece pelo universal:** o que todo mundo vive vem antes do tema difícil, para ganhar confiança. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+4. **Regra dos três:** 3 ideias, 3 motivos, 3 atos. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+5. **Herói e vilão:** o problema é o vilão e a solução é o herói, em desafio inesperado → luta → chamado à ação. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+6. **Imagem e palavra simples:** slide com foto e pouco texto, palavras curtas e analogia para o técnico ("A é como B"). → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+7. **Específico e com prova:** números, fatos e histórias de outros clientes; nada de "o melhor" ou "alto padrão" sem prova. → [Hopkins](../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md)
+8. **Quebre uma expectativa:** algo concreto (objeto, dado, demonstração) que surpreenda e faça sentido. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+9. **Pitch de 60 segundos primeiro:** ensaie a versão curta antes da longa. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+10. **Corpo ao vivo:** postura aberta, mãos com uma "casa", gestos lentos acima da cintura e "um pensamento, uma pessoa" no olhar. → [Philipp Humm](../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md)
+
+## Complementos
+- **Linguagem:** nível de leitura baixo; jargão confunde. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
+- **Venda complexa** (imóvel, obra, serviço caro): histórias de outros clientes pesam mais que argumento próprio. → [Hopkins](../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md)
+- **Corpo, em detalhe:** peito levemente erguido; "casa" das mãos ao lado do corpo ou juntas no umbigo; gestos de palmas abertas, convite, pitada de sal no ponto principal, comparação e contagem; rosto relaxado; treinar um ajuste por vez. → [Philipp Humm](../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md)
 
 ## Leia nesta ordem
-1. [Carmine Gallo: Storytelling](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) (resumo por partes e checklist do livro)
-2. [Carmine Gallo: leitura complementar por capítulo](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md)
-3. [Hopkins: Scientific Advertising](../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) e [Ogilvy](../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) (copy e prova)
+1. [Carmine Gallo: Storytelling](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) (resumo por partes e checklist) e [leitura complementar por capítulo](../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md)
+2. [Hopkins: Scientific Advertising](../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) e [Ogilvy](../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) (copy e prova)
+3. [Philipp Humm: linguagem corporal](../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md)
 4. [Guia de roteiro](roteiro-de-video-e-reels.md) (estruturas de história)
 5. [Princípios de storytelling](../setores/storytelling/README.md#princípios-consolidados)
 
 ## Cuidados
-- Os "65%" vêm de uma contagem do próprio Gallo numa palestra; use como referência, não regra rígida.
-- Em deck para investidor e parceiro, a história não substitui números auditáveis (VGV, prazos, comissões).
+- Os "65%" vêm de uma contagem do próprio Gallo numa palestra: referência, não regra rígida.
+- Para investidor e parceiro, a história não substitui números auditáveis (receita ou VGV, prazos, comissões).

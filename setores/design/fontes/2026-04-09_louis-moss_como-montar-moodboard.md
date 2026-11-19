@@ -35,7 +35,7 @@ tags: [direcao-de-arte, moodboard, referencia, apresentacao-ao-cliente, curadori
 - "A mood board isn't a collection of things that you like. It is a creative argument." [0:01]
 - "Most people reference by attraction… that's just collecting." [0:10]
 
-## Aplicação para a We
+## Aplicação prática (exemplos de clientes)
 - **Dois quadros por projeto:** interno (Pinterest à vontade, mas cada ref com a anotação "cor / luz / composição / textura") e o de cliente (poucas imagens, harmônicas). Reforça a regra já adotada de que **referência do Pinterest não vai para o cliente**: quando for preciso mostrar direção (Vicente, Bioma, Casa WE), usar o quadro limpo com **fotos e renders da própria We**, ou refs recoloridas/tratadas, com legendas curtas.
 - **Legenda "o que estou referenciando"** em decks de direção e propostas (Creare, WeInvest): evita que o cliente reaja a um detalhe que não era o ponto, e ajuda a justificar custo de locação, fotógrafo ou drone.
 - **Teste dos 10 segundos** como filtro antes de enviar qualquer quadro ou apresentação de linha visual.
