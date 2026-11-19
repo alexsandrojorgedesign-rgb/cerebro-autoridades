@@ -17,6 +17,10 @@
 10. **Não depender só de mídia:** audiência própria, marca e indicação baixam o custo de aquisição. O lead clica no perfil para checar antes de converter: perfil com prova (obra, equipe, depoimentos) baixa o custo por lead. → [George Clements](../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md)
 11. **Retargeting depois do lead:** quem agendou ou visitou deve ver mais conteúdo, não menos.
 12. **Medir valor vendido, não só taxa de conversão:** fechar muito no produto mais barato pode não pagar o CAC.
+13. **Funil escolhido pelo time comercial:** se os corretores não educam o lead, o funil educa antes (conteúdo, evento, decorado, formulário com perguntas). → [Jeremy Haynes](../setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md)
+14. **Mensagem é segmentação:** o que o anúncio diz decide quem a Meta encontra; escrever problemas, circunstâncias e resultados de um perfil por vez, na língua dele. Começar pelo título da página/formulário e repetir a mesma mensagem em roteiro, texto e página.
+15. **Pixel com leads bons:** devolver só qualificados e visitas pelo CRM; manter 70% ou mais de qualificados nos últimos ~15 dias; se a mensagem está certa e o público vem errado, trocar o evento de otimização.
+16. **Antes de mexer, achar o gargalo:** CPM → CTR → custo por lead → atendimento → agendamento → visita → venda; atacar o pior elo. Escala de 10–30% ao dia; quando o custo subir sem mais resultado, voltar a verba e testar nova mensagem.
 
 ## Leia nesta ordem
 1. [Pasta META](../META/README.md) (documentação oficial resumida, 11 arquivos)

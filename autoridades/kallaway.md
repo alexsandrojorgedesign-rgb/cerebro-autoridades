@@ -29,10 +29,18 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 - 8 dicas impopulares: 1–2 formatos repetidos como série de TV, IA na entrada e não na saída, a média do nicho sempre sobe, dor + solução em vez de "conexão", estudar contas de 10–250 mil, CTA-presente em todo post, recorte de público em vez de viral, copiar só tema e palavras. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md))
 
 - IA para pesquisa de conteúdo: pasta fixa com arquivos de contexto (como eu falo, como trabalho, quem sou + claude.md) e 5 skills (análise de canal, público em alvo, pulso diário de outliers dos concorrentes, detector de "estouro" de criador, máquina de ganchos com régua tirada dos vencedores). ([fonte](../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md))
+- Algoritmo testa cada vídeo num grupo pequeno; para conversão, "recrute os 200 certos" (tema filtrado, mix amplo/estreito, CTA por comentário); para viral, o oposto. Especificidade gera dinheiro, amplitude gera views. ([fonte](../setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md))
+- História que vende parte da dor de um comprador específico, vai do amplo ao estreito, tem dois "aha" cedo e CTA logo depois, e mostra a transformação com prova. ([fonte](../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md))
+- Toda compra tem um medo no fundo: mostre-o por situação, anuncie cedo que há solução, amplie e entregue. ([fonte](../setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md))
+- O público sai por perda de confiança, não por tédio; confiança vem de clareza, espelhamento, personalização, prova, familiaridade e de falar "um passo ao lado" do desejo. ([fonte](../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md))
 
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2026-09-16 | I Reversed Engineered Social Media Algorithms | [resumo](../setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md) |
+| 2026-09-09 | How to Become A Master Storyteller (It'll Blow Up Your Business) | [resumo](../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) |
+| 2025-11-06 | If You Don't Understand Psychology, You Don't Understand Social Media | [resumo](../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |
+| 2024-10-29 | How to use psychology to hack viewers brains (& make more money) | [resumo](../setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md) |
 | 2026-07-08 | 5 Claude Skills To Grow Faster Than 99% of People on Social Media | [resumo](../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) |
 | 2026-10-22 | Give Me 24 Minutes, I'll Give You 10,000 Hours of Content Strategy | [resumo](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) |
 | 2025-07-03 | Give me 15 mins, and I'll make your hooks impossible to skip | [resumo](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
