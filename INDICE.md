@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-45 fontes de 27 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+46 fontes de 28 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -12,6 +12,7 @@
 | 2026-11-19 | [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) | Brock Johnson | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
+| 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -101,6 +102,10 @@
 - 2026-08-05 · [Posicionamento do Nardon: o nerd rico](setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) · Alfredo Soares, Bruno Nardon · ● legenda original
 - 2026-06-03 · [Reel: perfil como programa de TV (monoflow)](setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) · Ketherin Kaffka · ◐ parcial (sem áudio)
 
+### [Tráfego Pago](setores/trafego-pago/README.md)
+
+- 2026-10-07 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
+
 ### [Vendas](setores/vendas/README.md)
 
 - 2025-05-21 · [Como vender mais e melhor (G4 Day)](setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) · Alfredo Soares · ● legenda original
@@ -138,6 +143,7 @@
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | 1 |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | 1 |
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 4 |
+| [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | 1 |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | 1 |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 4 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |

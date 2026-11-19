@@ -15,6 +15,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | Philip Kotler | base conceitual do marketing; série Marketing X.0 | [ficha](../../autoridades/philip-kotler.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
+| George Clements | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | [ficha](../../autoridades/george-clements.md) |
 | Metics Media (Matt) | comparação prática OpenClaw x Hermes, instalação em VPS | [ficha](../../autoridades/metics-media.md) |
 | Bruno Nardon | marca conforme o critério de valor do cliente | [ficha](../../autoridades/bruno-nardon.md) |
 
@@ -38,6 +39,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | 2026-06-15 | OpenClaw vs Hermes Agent: qual escolher | Metics Media | [resumo](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
+| 2026-10-07 | Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV | George Clements | [resumo](../../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-28 | Hermes Agent do zero: VPS, Telegram, vigias e memória | Metics Media | [resumo](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) |
 

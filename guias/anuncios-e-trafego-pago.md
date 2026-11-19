@@ -3,6 +3,7 @@
 **Use quando:** for estruturar campanha no Meta Ads, criar criativos de performance, montar formulário ou clique para WhatsApp, ou analisar resultado.
 
 ## Checklist rápido
+0. **Oferta antes do anúncio:** oferta fraca piora CPM, CTR, comparecimento e fechamento ao mesmo tempo; condição nova (lançamento, parcelamento direto, época) rende mais que mexer em criativo. → [George Clements](../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md)
 1. **Estrutura e objetivo** certos (Leads com formulário instantâneo, mensagens no WhatsApp ou conversão em LP). → [META/01](../META/01-estrutura-de-campanha.md)
 2. **Público:** amplo com bons sinais e exclusões; desenhe o público em alvo (centro = cliente ideal). → [META/02](../META/02-publicos-e-segmentacao.md), [Kallaway](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md)
 3. **Criativo é a principal alavanca:** criativos realmente diferentes entre si (Andromeda), muitos testes, gancho nos 3 primeiros segundos, CTA claro. → [META/05](../META/05-criativos-boas-praticas.md), [Michelly](../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md)
@@ -11,8 +12,10 @@
 6. **Formulário e WhatsApp** com perguntas de qualificação e resposta rápida. → [META/06](../META/06-cadastros-e-mensagens.md), [META/09](../META/09-whatsapp-business-e-instagram.md)
 7. **Mensuração:** pixel, API de Conversões e retorno do CRM. → [META/07](../META/07-mensuracao.md)
 8. **Políticas:** moradia, atributos pessoais, preço e promessas. → [META/08](../META/08-politicas-de-anuncios.md)
-9. **O gargalo costuma estar depois do lead:** atendimento lento e falta de follow-up desperdiçam a mídia. → [Dener](../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md)
-10. **Não depender só de mídia:** audiência própria, marca e indicação baixam o custo de aquisição.
+9. **O gargalo costuma estar depois do lead:** atendimento lento e falta de follow-up desperdiçam a mídia. Rotina mínima: ligar para todo lead que não respondeu, confirmar visita, religar faltas e perdidos (com outra pessoa), monitorar o direct dos anúncios, mandar conteúdo útil e o "pior cenário" depois do agendamento. → [Dener](../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md), [George Clements](../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md)
+10. **Não depender só de mídia:** audiência própria, marca e indicação baixam o custo de aquisição. O lead clica no perfil para checar antes de converter: perfil com prova (obra, equipe, depoimentos) baixa o custo por lead. → [George Clements](../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md)
+11. **Retargeting depois do lead:** quem agendou ou visitou deve ver mais conteúdo, não menos.
+12. **Medir valor vendido, não só taxa de conversão:** fechar muito no produto mais barato pode não pagar o CAC.
 
 ## Leia nesta ordem
 1. [Pasta META](../META/README.md) (documentação oficial resumida, 11 arquivos)

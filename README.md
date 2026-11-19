@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**45 fontes · 27 autoridades · 10 setores · 8 guias · 42 princípios consolidados**
+**46 fontes · 28 autoridades · 10 setores · 8 guias · 42 princípios consolidados**
 
 ## Como consultar
 
@@ -33,16 +33,16 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 8 / 33 | 3 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 8 / 34 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 3 / 10 | 3 |
 | [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 3 | — |
 | [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 7 / 24 | 10 |
 | [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 15 / 38 | 12 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 0 / 9 | 4 |
-| [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 15 | 4 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 1 / 10 | 4 |
+| [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 16 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 5 | — |
 | [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 8 / 12 | 6 |
-| [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 18 | — |
+| [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 19 | — |
 
 ## Entraram por último
 
@@ -50,10 +50,10 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 - 2026-11-19 · [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) · Brock Johnson · ◐ parcial (sem áudio)
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
 - 2026-11-19 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
+- 2026-11-19 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
 - 2026-11-11 · [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-10 · [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) · Mateo Jiménez · ◐ parcial (sem áudio)
 - 2026-11-10 · [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) · Gary Vaynerchuk · ⚠️ fraca
-- 2026-11-10 · [6 vantagens para crescer na era do AI slop](setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) · Kallaway · ● completa
 
 [Ver todas →](INDICE.md)
 
@@ -73,6 +73,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | Marketing, Vendas, Negócios e Gestão, Tráfego Pago |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | Branding, Marketing, Vendas |
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | Conteúdo e Redes Sociais, Marketing, Mercado Imobiliário, Branding |
+| [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | Tráfego Pago, Vendas, Marketing, Negócios e Gestão |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | Conteúdo e Redes Sociais, Marketing |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | Storytelling, Conteúdo e Redes Sociais, Tráfego Pago, Marketing |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | Conteúdo e Redes Sociais, Branding, Mercado Imobiliário |
