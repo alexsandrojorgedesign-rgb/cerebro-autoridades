@@ -15,6 +15,12 @@
 10. **Tipografia:** no máximo 2 famílias; texto corrido com 50–75 caracteres por linha e entrelinha ~1,5; nada de fonte fina pequena clara sobre fundo escuro; sem órfãs. → [ArtClass, tipografia](../setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md)
 11. **Logo e selos:** contexto e categoria antes do desenho; conceito em uma frase; testar no uso real e no menor tamanho (avatar, placa de obra); teste das 20 marcas da categoria lado a lado. → [Satori Graphics](../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md)
 12. **Buscar referência pelo nome do estilo** (wabi-sabi, literal object, modern nostalgia…) e escolher um estilo por campanha. → [Kittl](../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md)
+13. **Moodboard é argumento:** cada referência com uma linha do que se tira dela (cor, luz, composição, textura); quadro do cliente enxuto e harmônico, principais maiores, legendado; passa no teste dos 10 segundos. A referência orienta a equipe; a peça final é nossa. → [Louis Moss](../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md)
+14. **Uma emoção por peça ou marca** e auditar cor, tipo, imagem e espaço contra ela; o sistema tem que funcionar em 3 formatos diferentes (post, deck, placa ou stand), senão é só estilo. → [Satori](../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md)
+15. **Campanha = 1 ideia com nome + key visual + 4–6 pontos de contato**, cada um com uma nota de como se liga à ideia; em brinde e embalagem, repetir só cor, tipo e clima. → [Jason Murray, portfólio](../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md)
+16. **Foto em cenário simples:** sempre uma ação ou um adereço único; a ousadia depende de onde o público está na curva de adoção (Vicente, luxo estabelecido = menos risco). → [orenmeetsworld](../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md)
+17. **Swipe file mensal por marca** (anúncios e posts de referência) com "o que posso tirar disto". → [orenmeetsworld](../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md)
+18. **Antes de enviar:** pré-mortem (tela pequena, fundos diferentes, impressão grande) e arquivos editáveis que um estranho entenda (camadas nomeadas, leia-me com fontes, cores e exportação). → [Satori](../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md)
 
 ## Ingredientes de referência por marca (preencher e manter)
 - **Vicente:** fotografia de vida real, luz quente, tipografia fina.
@@ -29,8 +35,9 @@
 4. [ArtClass: 7 princípios](../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) e [tipografia](../setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md)
 5. [Satori Graphics: guia de logo](../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md)
 6. [Kittl: estilos e palavras de busca](../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md)
-7. [Princípios de design](../setores/design/README.md#princípios-consolidados)
-8. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
+7. [Louis Moss: moodboard](../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md), [Satori: por que parece amador](../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md), [Jason Murray: portfólio e campanha](../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md), [orenmeetsworld: foto e vídeo de marca](../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md)
+8. [Princípios de design](../setores/design/README.md#princípios-consolidados)
+9. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
 
 ## Cuidados
 - O cardápio de ingredientes é infinito; o erro comum é usar muitos. Contenção é parte do método.

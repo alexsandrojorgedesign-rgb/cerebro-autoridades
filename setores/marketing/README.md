@@ -20,6 +20,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
 | Jason Murray | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | [ficha](../../autoridades/jason-murray.md) |
+| Fernando F. Kuwahara | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | [ficha](../../autoridades/fernando-kuwahara.md) |
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
@@ -46,13 +47,18 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | Gary Vaynerchuk | [resumo](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |
+| 2023-01-01 | Branding: o processo de construção de marcas (Aaker, Keller, Kapferer) | Fernando F. Kuwahara | [resumo](../../setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
+| 2025-04-30 | Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos) | Satori Graphics | [resumo](../../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
+| 2026-04-09 | Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s) | Louis Moss | [resumo](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
+| 2026-07-16 | Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato) | Jason Murray | [resumo](../../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-07-22 | Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |

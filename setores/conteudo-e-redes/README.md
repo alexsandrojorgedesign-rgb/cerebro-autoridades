@@ -16,6 +16,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
+| orenmeetsworld | direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção | [ficha](../../autoridades/orenmeetsworld.md) |
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
@@ -42,8 +43,10 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2019 | Storytelling — leitura complementar: mapa dos 37 capítulos e páginas | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | Gary Vaynerchuk | [resumo](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |
+| 2023-01-01 | Branding: o processo de construção de marcas (Aaker, Keller, Kapferer) | Fernando F. Kuwahara | [resumo](../../setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
 | 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
 | 2025-05-02 | 15 estilos de design e palavras de busca | Kittl | [resumo](../../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |

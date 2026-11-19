@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**62 fontes · 36 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
+**67 fontes · 39 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
 
 ## Como consultar
 
@@ -34,16 +34,16 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 39 | 3 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 44 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 6 / 9 | 3 |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 10 / 31 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 49 | 13 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 14 | 4 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 10 / 14 | 3 |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 36 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 51 | 13 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 15 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
 | [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 11 / 17 | 6 |
-| [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 22 | — |
+| [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 23 | — |
 
 ## Entraram por último
 
@@ -77,6 +77,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | Marketing, Branding, Conteúdo e Redes Sociais, Tráfego Pago |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | Marketing, Vendas, Negócios e Gestão, Tráfego Pago |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | Branding, Marketing, Vendas |
+| [Fernando F. Kuwahara](autoridades/fernando-kuwahara.md) | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | Branding, Marketing |
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | Conteúdo e Redes Sociais, Marketing, Mercado Imobiliário, Branding |
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | Tráfego Pago, Vendas, Marketing, Negócios e Gestão |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | Conteúdo e Redes Sociais, Marketing |
@@ -84,12 +85,14 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | Storytelling, Conteúdo e Redes Sociais, Tráfego Pago, Marketing |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | Conteúdo e Redes Sociais, Branding, Mercado Imobiliário |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | Design, Branding |
+| [Louis Moss](autoridades/louis-moss.md) | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | Design, Branding |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | Branding, Design |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | Conteúdo e Redes Sociais, Marketing |
 | [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | Branding, Conteúdo e Redes Sociais, Negócios e Gestão, Marketing |
 | [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | Inteligência Artificial, Negócios e Gestão |
 | [Michelly Müller](autoridades/michelly-muller.md) | marketing imobiliário prático, Instagram e Meta Ads para corretores | Mercado Imobiliário, Conteúdo e Redes Sociais, Tráfego Pago, Branding |
 | [Nate Gaffney](autoridades/nate-gaffney.md) | Trial Reels com método dos 5 e ideia vencedora virando série (de 10 mil a 800 mil em 78 dias) | Conteúdo e Redes Sociais, Storytelling, Marketing |
+| [orenmeetsworld](autoridades/orenmeetsworld.md) | direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção | Design, Conteúdo e Redes Sociais |
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | Marketing, Branding, Negócios e Gestão, Inteligência Artificial |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | Storytelling, Conteúdo e Redes Sociais, Vendas |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | Inteligência Artificial, Negócios e Gestão, Marketing, Tráfego Pago |

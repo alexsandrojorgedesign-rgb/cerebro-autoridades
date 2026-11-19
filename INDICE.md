@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-62 fontes de 36 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+67 fontes de 39 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -23,12 +23,17 @@
 | 2026-11-19 | [Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)](setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) | Chris Do | Branding | video | ● completa |
 | 2026-11-19 | [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) | Matt Gray | Branding | video | ● completa |
 | 2026-11-19 | [Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)](setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) | Matt Gray | Branding | video | ◑ tradução automática |
+| 2026-11-19 | [Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato)](setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) | Kallaway | Inteligência Artificial | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
+| 2026-11-19 | [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) | Louis Moss | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
 | 2026-11-19 | [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) | Kittl | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) | orenmeetsworld | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
+| 2026-11-19 | [Branding: o processo de construção de marcas (Aaker, Keller, Kapferer)](setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) | Fernando F. Kuwahara | Branding | livro | ● legenda original |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -98,7 +103,11 @@
 - 2026-10-18 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
 - 2026-10-05 · [7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)](setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) · ArtClass · ◐ parcial (sem áudio)
 - 2026-09-15 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
+- 2026-07-16 · [Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato)](setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
+- 2026-04-09 · [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) · Louis Moss · ◐ parcial (sem áudio)
 - 2025-05-02 · [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) · Kittl · ◐ parcial (sem áudio)
+- 2025-04-30 · [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) · Satori Graphics · ◐ parcial (sem áudio)
+- 2025-01-12 · [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) · orenmeetsworld · ◐ parcial (sem áudio)
 - 2023-06-14 · [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) · Chris Do · ● completa
 
 ### [Branding](setores/branding/README.md)
@@ -111,6 +120,7 @@
 - 2025-05-28 · [Branding que vende: marcas sexys (ROI Hunters #296)](setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) · Tay Dantas · ● legenda original
 - 2024-06-18 · [Branding & Cultura na Cimed (ROI Hunters #240)](setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) · Erich Shibata · ● legenda original
 - 2024-01-22 · [O poder do branding (Como Você Fez Isso?)](setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) · Ana Couto · ◑ tradução automática
+- 2023-01-01 · [Branding: o processo de construção de marcas (Aaker, Keller, Kapferer)](setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) · Fernando F. Kuwahara · ● legenda original
 - 2022-05-26 · [Marca acima de venda digital (Inside 4Ds)](setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) · Gary Vaynerchuk · ● legenda original
 - 2019-12-31 · [O que é branding (The Futur)](setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) · Marty Neumeier · ● completa
 
@@ -181,23 +191,26 @@
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | 1 |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | 1 |
+| [Fernando F. Kuwahara](autoridades/fernando-kuwahara.md) | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | 1 |
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 4 |
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | 1 |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | 1 |
-| [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | 1 |
+| [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | 2 |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 7 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | 1 |
+| [Louis Moss](autoridades/louis-moss.md) | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | 2 |
 | [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | 2 |
 | [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | 2 |
 | [Michelly Müller](autoridades/michelly-muller.md) | marketing imobiliário prático, Instagram e Meta Ads para corretores | 1 |
 | [Nate Gaffney](autoridades/nate-gaffney.md) | Trial Reels com método dos 5 e ideia vencedora virando série (de 10 mil a 800 mil em 78 dias) | 2 |
+| [orenmeetsworld](autoridades/orenmeetsworld.md) | direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção | 1 |
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | 2 |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 4 |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | 1 |
-| [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | 1 |
+| [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | 2 |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | 2 |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | 2 |
 | [Teo Egaña](autoridades/teo-egana.md) | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | 1 |

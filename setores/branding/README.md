@@ -22,6 +22,8 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Jason Murray | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | [ficha](../../autoridades/jason-murray.md) |
 | Satori Graphics | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | [ficha](../../autoridades/satori-graphics.md) |
 | Kittl | glossário de estilos de design com palavras de busca | [ficha](../../autoridades/kittl.md) |
+| Louis Moss | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | [ficha](../../autoridades/louis-moss.md) |
+| Fernando F. Kuwahara | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | [ficha](../../autoridades/fernando-kuwahara.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
 | Matt Gray | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | [ficha](../../autoridades/matt-gray.md) |
@@ -40,15 +42,20 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2019 | Storytelling — leitura complementar: mapa dos 37 capítulos e páginas | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
 | 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |
 | 2022-05-26 | Marca acima de venda digital (Inside 4Ds) | Gary Vaynerchuk | [resumo](../../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md) |
+| 2023-01-01 | Branding: o processo de construção de marcas (Aaker, Keller, Kapferer) | Fernando F. Kuwahara | [resumo](../../setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
+| 2025-04-30 | Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos) | Satori Graphics | [resumo](../../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) |
 | 2025-05-02 | 15 estilos de design e palavras de busca | Kittl | [resumo](../../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
+| 2026-04-09 | Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s) | Louis Moss | [resumo](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-06-03 | Reel: perfil como programa de TV (monoflow) | Ketherin Kaffka | [resumo](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) |
+| 2026-07-16 | Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato) | Jason Murray | [resumo](../../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) |
 | 2026-07-22 | Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) |
 | 2026-07-30 | Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
