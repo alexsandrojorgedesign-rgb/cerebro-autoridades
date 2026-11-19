@@ -27,6 +27,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Hyeser | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | [ficha](../../autoridades/hyeser.md) |
 | George Clements | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | [ficha](../../autoridades/george-clements.md) |
 | Daniel Priestley | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | [ficha](../../autoridades/daniel-priestley.md) |
+| Matt Gray | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | [ficha](../../autoridades/matt-gray.md) |
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
 | Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
 | Carima (kaye.creatives) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | [ficha](../../autoridades/kaye-creatives.md) |
@@ -51,6 +52,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
+| 2026-07-22 | Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-14 | Se eu começasse nas redes em 2026 (lives, nicho, pós-post) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |

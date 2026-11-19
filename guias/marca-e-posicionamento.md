@@ -13,6 +13,7 @@
 8. **Clientes falando por você** valem mais que você falando de si.
 9. **Assinatura visual** difícil de copiar, ainda mais com IA deixando tudo igual. → [Kallaway](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
 10. **Patrocínio e evento só com verba e gente para ativar.**
+11. **Marca pessoal de porta-voz (Douglas, Dani):** método 4-3-2-1 — 4 categorias fixas, 3 frases-assinatura repetidas até virarem dele, 2 formatos, 1 plataforma principal — mais uma lista própria (WhatsApp/e-mail). Operar como empresa de mídia: 1 ideia longa vira ~30 peças e a marca passa no "teste dos 30 dias" (segue saindo sem o porta-voz). → [Matt Gray](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md)
 
 ## Leia nesta ordem
 1. [Princípios de branding](../setores/branding/README.md#princípios-consolidados) (10 princípios com fontes)
@@ -20,7 +21,7 @@
 3. [Ana Couto: o poder do branding](../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md)
 4. [Marty Neumeier: o que é branding](../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md)
 5. [Erich Shibata: Cimed](../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md)
-6. Marca pessoal: [Hormozi](../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md), [Alfredo/Ninja](../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md)
+6. Marca pessoal: [Matt Gray: 5 níveis](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md), [Hormozi](../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md), [Alfredo/Ninja](../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md)
 7. [Seth Godin: marca notável na era da IA](../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) e [GaryVee: marca acima de venda digital](../setores/branding/fontes/2022-05-26_garyvee_marca-acima-de-vendas-digitais.md)
 
 ## Cuidados

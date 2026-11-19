@@ -37,6 +37,7 @@ P = {
  "george-clements": ("George Clements", "Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV", ["trafego-pago","vendas","marketing","negocios-e-gestao"]),
  "chase-chappell": ("Chase Chappell", "criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares", ["trafego-pago","conteudo-e-redes","ia"]),
  "daniel-priestley": ("Daniel Priestley", "geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam", ["marketing","vendas","trafego-pago","mercado-imobiliario","negocios-e-gestao"]),
+ "matt-gray": ("Matt Gray", "marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail", ["branding","conteudo-e-redes","negocios-e-gestao","marketing"]),
  "mateo-jimenez": ("Mateo Jiménez", "funil de conteúdo TOFU/MOFU/BOFU com proporções", ["conteudo-e-redes","marketing"]),
  "teo-egana": ("Teo Egaña", "conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter", ["mercado-imobiliario","conteudo-e-redes","marketing","vendas"]),
  "ketherin-kaffka": ("Ketherin Kaffka", "perfil como programa de TV: séries recorrentes (monoflow)", ["conteudo-e-redes","branding","mercado-imobiliario"]),
@@ -174,6 +175,8 @@ F.append(("2025-07-03", "Os 4 erros que matam um gancho: atraso, confusão, irre
   "setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md", ["storytelling","conteudo-e-redes","trafego-pago"]))
 F.append(("2026-11-13", "Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)", "Philipp Humm",
   "setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md", ["storytelling","vendas","conteudo-e-redes"]))
+F.append(("2026-07-22", "Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)", "Matt Gray",
+  "setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md", ["branding","conteudo-e-redes","negocios-e-gestao","marketing"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
