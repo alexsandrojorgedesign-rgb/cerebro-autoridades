@@ -30,6 +30,7 @@ Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e neg
 | 2026-07-08 | 5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos) | Kallaway | [resumo](../../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-07-30 | Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
+| 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2026-10-16 | 1M seguidores em 6 meses: 3 passos | Carima (kaye.creatives) | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) |
 | 2026-10-22 | 8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) |

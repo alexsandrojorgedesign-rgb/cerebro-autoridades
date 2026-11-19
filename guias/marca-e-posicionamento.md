@@ -10,7 +10,8 @@
 5. **Marca-mãe e ativo visual consistente** (cor, selo, assinatura) repetido sempre igual.
 6. **Pessoas na frente:** fundador, equipe e clientes; identidade se mostra com momentos reais, não se declara.
 7. **História de origem** curta e sempre igual, até virar folclore. → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
-8. **Clientes falando por você** valem mais que você falando de si.
+8. **Clientes falando por você** valem mais que você falando de si. Prova vem antes da compra (lacuna de imaginação): depoimento escrito e em vídeo, entrega, obra. → [Chris Do](../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md)
+8b. **Nicho por "A ou B":** perfil, fase, faixa de renda, região e problema na língua do cliente até sobrar um cliente ideal; para validar, peça à IA para perguntar antes de sugerir e checar o tamanho do mercado. → [Chris Do](../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md)
 9. **Assinatura visual** difícil de copiar, ainda mais com IA deixando tudo igual. → [Kallaway](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
 10. **Patrocínio e evento só com verba e gente para ativar.**
 11. **Marca pessoal de porta-voz (Douglas, Dani):** método 4-3-2-1 — 4 categorias fixas, 3 frases-assinatura repetidas até virarem dele, 2 formatos, 1 plataforma principal — mais uma lista própria (WhatsApp/e-mail). Operar como empresa de mídia: 1 ideia longa vira ~30 peças e a marca passa no "teste dos 30 dias" (segue saindo sem o porta-voz). Voz real primeiro: áudio do porta-voz respondendo 10 perguntas → transcrição → "doc de voz" que a IA formata, sem inventar a fala. → [Matt Gray, 5 níveis](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md), [7 passos](../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md)

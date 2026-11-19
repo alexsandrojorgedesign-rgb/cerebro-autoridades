@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-54 fontes de 31 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+55 fontes de 32 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -15,6 +15,7 @@
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
+| 2026-11-19 | [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) | Chris Do | Storytelling | video | ● completa |
 | 2026-11-19 | [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) | Matt Gray | Branding | video | ● completa |
 | 2026-11-19 | [Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)](setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) | Matt Gray | Branding | video | ◑ tradução automática |
 | 2026-11-19 | [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) | Kallaway | Inteligência Artificial | video | ◐ parcial (sem áudio) |
@@ -134,6 +135,7 @@
 
 - 2026-11-13 · [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-11 · [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) · Philipp Humm · ◐ parcial (sem áudio)
+- 2026-08-29 · [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) · Chris Do · ● completa
 - 2026-08-05 · [Psicologia dos ganchos: texto, fala, imagem e lock-in](setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) · Kallaway · ● completa
 - 2026-04-22 · [A neurociência do storytelling viciante](setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) · Kallaway · ● legenda original
 - 2026-04-19 · [Zoom no momento: método PAST](setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) · Philipp Humm · ● legenda original
@@ -155,6 +157,7 @@
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | 1 |
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | 2 |
 | [Chase Chappell](autoridades/chase-chappell.md) | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | 1 |
+| [Chris Do](autoridades/chris-do.md) | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | 1 |
 | [Claude C. Hopkins](autoridades/claude-hopkins.md) | copy de resposta direta: testar, medir, ser específico | 1 |
 | [Daniel Priestley](autoridades/daniel-priestley.md) | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | 1 |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |

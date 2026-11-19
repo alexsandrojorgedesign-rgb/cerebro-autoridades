@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**54 fontes · 31 autoridades · 10 setores · 8 guias · 43 princípios consolidados**
+**55 fontes · 32 autoridades · 10 setores · 8 guias · 43 princípios consolidados**
 
 ## Como consultar
 
@@ -33,15 +33,15 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 37 | 3 |
-| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 14 | 3 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 38 | 3 |
+| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
 | [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 3 | — |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 9 / 26 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 45 | 13 |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 9 / 27 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 46 | 13 |
 | [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 13 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
-| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 10 / 15 | 6 |
+| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 11 / 16 | 6 |
 | [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 21 | — |
 
 ## Entraram por último
@@ -53,7 +53,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
 - 2026-11-19 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
 - 2026-11-19 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
-- 2026-11-19 · [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) · Matt Gray · ● completa
+- 2026-11-19 · [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) · Chris Do · ● completa
 
 [Ver todas →](INDICE.md)
 
@@ -69,6 +69,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | Conteúdo e Redes Sociais, Inteligência Artificial, Marketing |
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | Storytelling, Branding, Vendas, Negócios e Gestão |
 | [Chase Chappell](autoridades/chase-chappell.md) | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | Tráfego Pago, Conteúdo e Redes Sociais, Inteligência Artificial |
+| [Chris Do](autoridades/chris-do.md) | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | Storytelling, Branding, Conteúdo e Redes Sociais, Marketing |
 | [Claude C. Hopkins](autoridades/claude-hopkins.md) | copy de resposta direta: testar, medir, ser específico | Marketing, Tráfego Pago, Vendas, Conteúdo e Redes Sociais |
 | [Daniel Priestley](autoridades/daniel-priestley.md) | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | Marketing, Vendas, Tráfego Pago, Mercado Imobiliário |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | Marketing, Branding, Conteúdo e Redes Sociais, Tráfego Pago |

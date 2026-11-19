@@ -28,6 +28,7 @@ Queda em 1–2 s = capa/visual; sai após alguns segundos = gancho; penhasco no 
 - **Loop de 4 passos** (Kallaway): o que está em jogo → grande pergunta → virada → novo gancho.
 - **Pixar em 7 passos** (Gallo/Malala): Era uma vez… Todo dia… Até que um dia… Por causa disso… Por causa disso… Até que finalmente… Desde então…
 - **Três atos** (Gallo/Amy Purdy): empatia até a virada → obstáculos → clímax e transformação.
+- **Antes e depois** (Chris Do): personagem quer algo → obstáculo (muitas vezes medo ou mentalidade) → ganha o que precisava → transformado; mostre o "antes" para o "depois" pesar. Imóvel: a vida da família antes, depois a família no apê. → [Chris Do](../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md)
 - **Peter Guber** (para venda): desafio inesperado → a luta → chamado à ação.
 
 ## Leia nesta ordem
