@@ -109,6 +109,9 @@ F.append(("2026-04-22", "A neurociência do storytelling viciante", "Kallaway",
 F.append(("2016", "Storytelling (The Storyteller's Secret, livro)", "Carmine Gallo",
   "setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md",
   ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes"]))
+F.append(("2026-11-11", "Roube esta abertura do CEO do Telegram (metáfora do Titanic)", "Philipp Humm",
+  "setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md",
+  ["storytelling","conteudo-e-redes","vendas"]))
 F.append(("2026-04-19", "Zoom no momento: método PAST", "Philipp Humm",
   "setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md",
   ["storytelling","conteudo-e-redes","vendas"]))
