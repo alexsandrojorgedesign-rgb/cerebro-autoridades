@@ -44,6 +44,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
 | 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
+| 2025-07-03 | Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse | Kallaway | [resumo](../../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2025-07-10 | As 5 linhas para contar qualquer história | Tim Runia | [resumo](../../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
@@ -71,6 +72,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2026-11-09 | Reel: funil de conteúdo TOFU, MOFU, BOFU | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) |
 | 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 | 2026-11-11 | Roube esta abertura do CEO do Telegram (metáfora do Titanic) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) |
+| 2026-11-13 | Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) |
 | 2026-11-15 | Série de assinatura e colunas de ideias (967 mil seguidores) | Nate Gaffney | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) |
 
 ## Princípios consolidados

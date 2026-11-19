@@ -4,6 +4,7 @@
 
 ## Checklist rápido
 1. **Gancho com os 4 S** (primeiras 1 ou 2 frases): **assunto** claro, **o que está em jogo** para quem assiste, **poucas palavras e simples** (Kallaway chama de *Speed* ou *Simple*), frase **super clara**. Texto na tela, fala e imagem dizendo a mesma coisa. → [Kallaway, psicologia dos ganchos](../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md), [6 vantagens](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
+1b. **Revisão do gancho pelos 4 erros:** atraso (o assunto aparece no 1º segundo?), confusão (dá para entender de outro jeito? voz ativa, palavras simples), irrelevância (fala "você" e toca uma dor que o público já tem?), desinteresse (há contraste entre o que ele acredita e a sua alternativa, declarado ou implícito?). → [Kallaway, 4 erros](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md)
 2. **Zona de lock-in (5 a 10 s seguintes):** confirme a promessa do gancho e traga a prova (número, resultado, depoimento) antes de qualquer contexto.
 3. **O que está em jogo:** personagem por quem torcer + consequência + urgência ("por que agora"). → [Kallaway, storytelling](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md)
 4. **Grande pergunta com contexto:** dê ao público informação suficiente para ele tentar adivinhar; nada de teaser vazio ("aconteceu uma coisa louca").
@@ -11,7 +12,7 @@
 6. **Novo gancho antes de fechar o anterior** ("foi aí que…", "mas aí…"), sem intervalo onde a atenção cai.
 7. **Cena, não resumo (PAST):** comece em **lugar** + **ação** no presente, use a **fala** exata das pessoas e os **pensamentos** do momento; mostre a emoção no corpo (o gesto vira plano de câmera) em vez de nomeá-la; fala viva, nunca corporativa. → [Philipp Humm, PAST](../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md), [versão 2025](../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md)
 8. **Detalhe concreto e específico** (número, nome, objeto), sem descrição genérica. → [Carmine Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md)
-9. **Cadência:** frases curtas, ênfase só nas 2 ou 3 palavras importantes; treinar o porta-voz com "copy speech".
+9. **Cadência:** frases curtas, ênfase só nas 2 ou 3 palavras importantes; treinar o porta-voz com "copy speech". Corpo do porta-voz: peito levemente erguido, mãos em posição neutra entre gestos, gestos acima da cintura (contar nos dedos, comparar lado a lado), rosto relaxado, cada frase terminada olhando a lente. → [Philipp Humm, linguagem corporal](../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md)
 10. **Assinatura visual do perfil** respeitada (personagem, cenário, imagens, layout, tipografia, movimento).
 11. **Humano no que diferencia:** IA para pesquisa e acabamento; roteiro, fala e gravação humanos.
 12. **Final com ação** (comentar, direct, WhatsApp) ou com novo gancho, se for série. Se o gráfico de retenção despenca no CTA final, termine no alto e passe o CTA para legenda ou comentário fixado; nunca "siga" nem "curta" em reel do feed. → [Brock Johnson](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)

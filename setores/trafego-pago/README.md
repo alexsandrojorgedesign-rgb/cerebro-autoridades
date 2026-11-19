@@ -25,6 +25,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 |---|---|---|---|
 | 1923 | Scientific Advertising (livro) | Claude C. Hopkins | [resumo](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) |
 | 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
+| 2025-07-03 | Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse | Kallaway | [resumo](../../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |

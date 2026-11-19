@@ -24,9 +24,12 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 
 - Gancho que congela o scroll responde "do que é e o que eu ganho" com texto na tela, fala e imagem alinhados; nos 5 a 10 s seguintes (zona de lock-in) a promessa é confirmada e a prova pesa mais. ([fonte](../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md))
 
+- Gancho falha por 4 erros: atraso (assunto tarde), confusão (frase difícil), irrelevância (falar "eu" em vez de "você", sem dor), desinteresse (sem contraste entre o que o público crê e a sua alternativa). ([fonte](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2025-07-03 | Give me 15 mins, and I'll make your hooks impossible to skip | [resumo](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2026-04-22 | The Neuroscience of Addictive Storytelling | [resumo](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo | [resumo](../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |
 | 2026-10-29 | You Will Hate This, But It'll Grow Your Social Media 10x Faster | [resumo](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |

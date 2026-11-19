@@ -14,6 +14,7 @@
 9. **Quebre uma expectativa** com algo concreto (objeto, dado, demonstração).
 10. **Histórias de outros clientes** pesam mais em venda complexa (como imóvel).
 11. **Pitch de 60 segundos** ensaiado antes da versão longa.
+12. **Corpo na apresentação ao vivo:** peito levemente erguido; mãos com uma "casa" (ao lado do corpo ou juntas no umbigo); gestos lentos acima da cintura (palmas abertas, convite, pitada de sal no ponto principal, comparação, contagem); "um pensamento, uma pessoa" no olhar; rosto relaxado. Treinar um ajuste por vez. → [Philipp Humm](../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md)
 
 ## Leia nesta ordem
 1. [Carmine Gallo: Storytelling](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) (resumo por partes e checklist do livro)

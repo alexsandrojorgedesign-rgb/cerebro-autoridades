@@ -22,6 +22,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2016 | Storytelling (The Storyteller's Secret, livro) | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) |
 | 2019 | Storytelling — leitura complementar: mapa dos 37 capítulos e páginas | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
 | 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
+| 2025-07-03 | Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse | Kallaway | [resumo](../../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2025-07-10 | As 5 linhas para contar qualquer história | Tim Runia | [resumo](../../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
@@ -30,6 +31,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
 | 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 | 2026-11-11 | Roube esta abertura do CEO do Telegram (metáfora do Titanic) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) |
+| 2026-11-13 | Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) |
 | 2026-11-15 | Série de assinatura e colunas de ideias (967 mil seguidores) | Nate Gaffney | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) |
 
 ## Princípios consolidados

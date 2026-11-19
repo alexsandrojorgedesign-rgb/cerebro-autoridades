@@ -42,6 +42,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 | 2026-11-11 | Roube esta abertura do CEO do Telegram (metáfora do Titanic) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) |
+| 2026-11-13 | Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) |
 
 ## Princípios consolidados
 
