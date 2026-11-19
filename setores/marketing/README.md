@@ -22,6 +22,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
+| Brock Johnson | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | [ficha](../../autoridades/brock-johnson.md) |
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
 | Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
 | Carima (kaye.creatives) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | [ficha](../../autoridades/kaye-creatives.md) |
@@ -59,6 +60,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-11-06 | Marketing à prova de crise (The Code Vinci) | Tay Dantas | [resumo](../../setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) |
 | 2026-11-09 | Estudo de caso: Elephant Skin (portfólio, copy e lançamento) | Pesquisa própria (Elephant Skin) | [resumo](../../setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md) |
 | 2026-11-09 | Reel: funil de conteúdo TOFU, MOFU, BOFU | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) |
+| 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 
 ## Princípios consolidados
 

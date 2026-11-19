@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-41 fontes de 24 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+42 fontes de 25 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -8,6 +8,7 @@
 
 | Incluída | Fonte | Autoridade | Setor | Tipo | Evidência |
 |---|---|---|---|---|---|
+| 2026-11-19 | [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) | Brock Johnson | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -82,6 +83,7 @@
 ### [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md)
 
 - 2026-11-09 · [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) · Mateo Jiménez · ◐ parcial (sem áudio)
+- 2026-11-09 · [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) · Brock Johnson · ◐ parcial (sem áudio)
 - 2026-11-05 · [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) · Gary Vaynerchuk · ⚠️ fraca
 - 2026-10-29 · [6 vantagens para crescer na era do AI slop](setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) · Kallaway · ● completa
 - 2026-10-23 · [Corte Open Residency: público em alvo e mix 3-2-1](setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) · Kallaway · ◐ parcial (sem áudio)
@@ -121,6 +123,7 @@
 | [Alex Hormozi](autoridades/alex-hormozi.md) | marca pessoal: prova, associação, momentos de marca | 1 |
 | [Alfredo Soares](autoridades/alfredo-soares.md) | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | 5 |
 | [Ana Couto](autoridades/ana-couto.md) | branding como gestão de valor, método, gap de percepção, CBO | 1 |
+| [Brock Johnson](autoridades/brock-johnson.md) | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | 1 |
 | [Bruno Nardon](autoridades/bruno-nardon.md) | marca conforme o critério de valor do cliente | 2 |
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | 1 |
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | 2 |

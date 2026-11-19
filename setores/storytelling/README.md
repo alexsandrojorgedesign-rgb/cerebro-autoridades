@@ -11,6 +11,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Philipp Humm | zoom no momento com PAST: lugar, ação, fala, pensamentos | [ficha](../../autoridades/philipp-humm.md) |
+| Brock Johnson | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | [ficha](../../autoridades/brock-johnson.md) |
 | Tim Runia | estrutura de história em 5 linhas antes de roteirizar e filmar | [ficha](../../autoridades/tim-runia.md) |
 
 ## Fontes resumidas
@@ -25,6 +26,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-08-05 | Psicologia dos ganchos: texto, fala, imagem e lock-in | Kallaway | [resumo](../../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |
 | 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
+| 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 | 2026-11-11 | Roube esta abertura do CEO do Telegram (metáfora do Titanic) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) |
 
 ## Princípios consolidados

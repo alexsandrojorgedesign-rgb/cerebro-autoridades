@@ -10,7 +10,10 @@
 5. **Falar do interesse do público, não de si.** → [GaryVee, mídia de interesse](../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md)
 6. **Série recorrente:** formato, personagens e abertura fixos (perfil como programa de TV). → [Ketherin Kaffka](../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md)
 7. **Referências:** pasta de outliers (só o que explodiu), inclusive de fora do nicho; adaptar a estrutura, não copiar. → [Kaye](../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md)
-8. **Teste antes de escalar:** reel que vai bem em 24 h ganha 2 ou 3 variações como Trial Reel; o que vencer vira anúncio.
+8. **Teste antes de escalar:** reel que vai bem em 24 h ganha 2 ou 3 variações como Trial Reel; o que vencer vira anúncio. Ordem: trial antes do feed (vídeo já publicado trava como duplicado); até ~5 trials por dia. → [Brock Johnson](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)
+8b. **Perfil:** linha "nome" com termos que as pessoas buscam (validar no Google Trends), bio em 4 linhas (nicho, clareza, credibilidade, CTA por palavra-chave). → [Brock Johnson](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)
+8c. **Volume sustentável:** 14 dias agendados como colchão; cada ideia em 3 formatos e cada post reagendado após ~90 e ~180 dias.
+8d. **Stories:** documentar (3 a 10 por dia) em dias de conexão; em dias de venda, 1 story só de texto com "me manda a palavra X" + automação de DM no lugar do sticker de link.
 9. **Métricas certas:** topo por alcance, compartilhamentos e salvamentos; meio por seguidores e mensagens; fundo por leads. Seguidor não é a métrica principal.
 10. **Toda peça leva a uma ação** (comentário, direct, WhatsApp, lista de espera).
 11. **Postar é o começo:** responder todo comentário, lives com o porta-voz e um reel por semana com as perguntas dos comentários; documentar o trabalho real em vez de inventar conteúdo. → [GaryVee, começar em 2026](../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md)
@@ -27,4 +30,6 @@
 
 ## Contrapontos
 - **Copiar formato x fugir do "cluster":** Kaye e Teo Egaña mandam adaptar o que viralizou; Kallaway alerta que copiar sem ângulo próprio deixa tudo igual. Regra: dados para o tema e o formato, ângulo, substância e visual próprios.
+- **Lives:** GaryVee dá muito peso; Brock Johnson chama de "a coisa menos importante" no Instagram.
+- **Volume:** Brock posta 5–10 vezes por dia (criador educativo); para marca de imóvel, use como "mais que hoje, com reciclagem", não como meta.
 - Proporções de funil e "chances de viralizar" são regras de bolso dos autores, sem dado.

@@ -14,7 +14,12 @@
 9. **Cadência:** frases curtas, ênfase só nas 2 ou 3 palavras importantes; treinar o porta-voz com "copy speech".
 10. **Assinatura visual do perfil** respeitada (personagem, cenário, imagens, layout, tipografia, movimento).
 11. **Humano no que diferencia:** IA para pesquisa e acabamento; roteiro, fala e gravação humanos.
-12. **Final com ação** (comentar, direct, WhatsApp) ou com novo gancho, se for série.
+12. **Final com ação** (comentar, direct, WhatsApp) ou com novo gancho, se for série. Se o gráfico de retenção despenca no CTA final, termine no alto e passe o CTA para legenda ou comentário fixado; nunca "siga" nem "curta" em reel do feed. → [Brock Johnson](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)
+13. **Visual que se explica sem texto:** no máximo 3 elementos na tela, tema visível no 1º frame, local variado entre reels, bem iluminado; algo muda a cada ~2 s; re-hook entre 4 e 7 s.
+14. **Produção nos extremos:** ou bem produzido de verdade, ou cru de celular; o meio-termo (efeitos, IA misturada, roteiro de ChatGPT) é o que menos performa.
+
+## Diagnóstico pelo gráfico de retenção (Insights do reel)
+Queda em 1–2 s = capa/visual; sai após alguns segundos = gancho; penhasco no meio = redundância, entrega cedo ou setup longo (use open loop, lista numerada, re-hook); declínio constante = vídeo todo lento; queda no fim = recap/CTA. Meta: mais de 50% no fim. → [Brock Johnson, 5 gráficos](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)
 
 ## Estruturas prontas
 - **5 linhas** (Tim Runia), escritas no briefing antes de gravar e conferidas na edição: situação → desejo → conflito → mudança → resultado; expandir para 10 ou 20 linhas sem mudar o núcleo. A montagem pode começar pelo conflito. → [Tim Runia](../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md)
