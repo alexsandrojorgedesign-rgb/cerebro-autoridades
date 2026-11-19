@@ -32,6 +32,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | 2026-06-26 | Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída | Chase Chappell | [resumo](../../setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-08-05 | Psicologia dos ganchos: texto, fala, imagem e lock-in | Kallaway | [resumo](../../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |
+| 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
 | 2026-10-07 | Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV | George Clements | [resumo](../../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-23 | Corte Open Residency: público em alvo e mix 3-2-1 | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-23_kallaway_publico-em-alvo-321.md) |

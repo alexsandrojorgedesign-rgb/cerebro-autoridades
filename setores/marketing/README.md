@@ -19,6 +19,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
+| Jason Murray | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | [ficha](../../autoridades/jason-murray.md) |
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
@@ -60,6 +61,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
+| 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
 | 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-07 | Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV | George Clements | [resumo](../../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) |
 | 2026-10-08 | A ordem certa para crescer no Instagram (fases até 10 mil) | Hyeser | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) |

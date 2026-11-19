@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-56 fontes de 32 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+57 fontes de 33 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -15,6 +15,7 @@
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
+| 2026-11-19 | [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) | Chris Do | Storytelling | video | ● completa |
 | 2026-11-19 | [Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)](setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) | Chris Do | Branding | video | ● completa |
 | 2026-11-19 | [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) | Matt Gray | Branding | video | ● completa |
@@ -85,6 +86,10 @@
 - 2026-07-22 · [Agentes de IA: o curso completo (Open Residency)](setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) · Remi · ● legenda original
 - 2026-07-08 · [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) · Kallaway · ◐ parcial (sem áudio)
 - 2026-06-15 · [OpenClaw vs Hermes Agent: qual escolher](setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) · Metics Media · ● completa
+
+### [Design](setores/design/README.md)
+
+- 2026-09-15 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
 
 ### [Branding](setores/branding/README.md)
 
@@ -168,6 +173,7 @@
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 4 |
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | 1 |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | 1 |
+| [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | 1 |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 7 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |

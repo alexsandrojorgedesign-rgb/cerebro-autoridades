@@ -2,7 +2,7 @@
 
 Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz.
 
-**Guias relacionados:** [Marca e posicionamento](../../guias/marca-e-posicionamento.md) · [Apresentações e pitch](../../guias/apresentacoes-decks-e-pitch.md) · [← início](../../README.md)
+**Guias relacionados:** [Marca e posicionamento](../../guias/marca-e-posicionamento.md) · [Direção de arte](../../guias/direcao-de-arte.md) · [Apresentações e pitch](../../guias/apresentacoes-decks-e-pitch.md) · [← início](../../README.md)
 
 ## Autoridades de referência
 
@@ -19,6 +19,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Marty Neumeier | marca é a sensação do cliente, não o logo | [ficha](../../autoridades/marty-neumeier.md) |
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
+| Jason Murray | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | [ficha](../../autoridades/jason-murray.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
 | Matt Gray | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | [ficha](../../autoridades/matt-gray.md) |
@@ -52,6 +53,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-08-26 | Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde) | Chris Do | [resumo](../../setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) |
 | 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
+| 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
 | 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |

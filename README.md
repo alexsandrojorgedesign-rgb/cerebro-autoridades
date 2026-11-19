@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**56 fontes · 32 autoridades · 10 setores · 8 guias · 43 princípios consolidados**
+**57 fontes · 33 autoridades · 10 setores · 9 guias · 43 princípios consolidados**
 
 ## Como consultar
 
@@ -27,18 +27,19 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Marca e posicionamento](guias/marca-e-posicionamento.md) | posicionamento, manual, arquitetura de marcas, marca pessoal |
 | [Anúncios e tráfego pago (Meta)](guias/anuncios-e-trafego-pago.md) | campanha, criativos de performance, formulário, WhatsApp, mensuração |
 | [Vendas e atendimento](guias/vendas-e-atendimento.md) | material para corretores, follow-up, CRM, argumentário |
+| [Direção de arte](guias/direcao-de-arte.md) | visual de campanha, feed ou peça, briefing para designer ou IA, revisar arte sem cara |
 | [Criar ou escolher um agente de IA](guias/agentes-de-ia.md) | decidir Hermes x OpenClaw x skill, permissões, onde rodar |
 
 ## Setores
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 38 | 3 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 39 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 3 | — |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 10 / 28 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 47 | 13 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 13 | 4 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 1 / 4 | — |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 10 / 29 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 48 | 13 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 14 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
 | [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 11 / 17 | 6 |
@@ -53,7 +54,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
 - 2026-11-19 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
 - 2026-11-19 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
-- 2026-11-19 · [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) · Chris Do · ● completa
+- 2026-11-19 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
 
 [Ver todas →](INDICE.md)
 
@@ -78,6 +79,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | Conteúdo e Redes Sociais, Marketing, Mercado Imobiliário, Branding |
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | Tráfego Pago, Vendas, Marketing, Negócios e Gestão |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | Conteúdo e Redes Sociais, Marketing |
+| [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | Design, Branding, Marketing |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | Storytelling, Conteúdo e Redes Sociais, Tráfego Pago, Marketing |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | Conteúdo e Redes Sociais, Branding, Mercado Imobiliário |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | Branding, Design |

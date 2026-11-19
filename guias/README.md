@@ -11,6 +11,7 @@ Comece por aqui quando for **fazer** algo. Cada guia tem um checklist rápido, a
 | [Marca e posicionamento](marca-e-posicionamento.md) | posicionamento, manual, arquitetura de marcas, marca pessoal |
 | [Anúncios e tráfego pago (Meta)](anuncios-e-trafego-pago.md) | campanha, criativos de performance, formulário, WhatsApp, mensuração |
 | [Vendas e atendimento](vendas-e-atendimento.md) | material para corretores, follow-up, CRM, argumentário |
+| [Direção de arte](direcao-de-arte.md) | visual de campanha, feed ou peça, briefing para designer ou IA, revisar arte sem cara |
 | [Criar ou escolher um agente de IA](agentes-de-ia.md) | decidir Hermes x OpenClaw x skill, permissões, onde rodar |
 
 [← Voltar ao início](../README.md)

@@ -65,6 +65,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
+| 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
 | 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-08 | A ordem certa para crescer no Instagram (fases até 10 mil) | Hyeser | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |

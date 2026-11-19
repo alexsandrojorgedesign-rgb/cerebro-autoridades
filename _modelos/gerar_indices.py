@@ -27,6 +27,7 @@ P = {
  "marty-neumeier": ("Marty Neumeier", "marca é a sensação do cliente, não o logo", ["branding","design"]),
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
  "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume, dar antes de pedir, marca acima de performance", ["conteudo-e-redes","marketing","mercado-imobiliario","branding"]),
+ "jason-murray": ("Jason Murray", "direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual", ["design","branding","marketing"]),
  "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing","ia"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing"]),
@@ -188,6 +189,8 @@ F.append(("2026-08-29", "Pare de promover, conte histórias (antes e depois, pro
   "setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md", ["storytelling","branding","conteudo-e-redes","marketing","ia"]))
 F.append(("2026-08-26", "Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)", "Chris Do",
   "setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md", ["branding","storytelling","conteudo-e-redes"]))
+F.append(("2026-09-15", "Ingredientes de direção de arte (insight, ideia, sensação × solução visual)", "Jason Murray",
+  "setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md", ["design","branding","marketing","trafego-pago","conteudo-e-redes"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -246,12 +249,12 @@ PRINC = {
   "- **Conteúdo por etapa do funil com formatos fixos** (topo/meio/fundo), cada post com objetivo; o topo é a maior fatia (Mateo sugere ~60–70% topo, 20–30% meio, 10–20% fundo). Fontes: [Mateo Jiménez](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md), [Michelly](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md), [Alfredo/Nardon](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md).","- **Todo conteúdo precisa levar a uma ação** (CTA para comentário, direct ou WhatsApp), de preferência um presente ligado ao tema do post (\"comente X e receba…\") com automação de DM, nunca \"compre\" nem \"siga\". Fontes: [Michelly](../../%s), [Dener](../../%s), [Kallaway — native embed](../../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md), [Brock Johnson — automação de DM](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md), [Matt Gray — isca contextual](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md)." % (M, D),
   "- **IA na entrada, humano na saída:** pesquisa, pauta e análise com IA; ângulo, roteiro, voz, gravação e edição com gente, senão o conteúdo fica genérico. Fontes: [Kallaway — IA na entrada](../../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md), [Kallaway — anti-slop](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md), [Matt Gray — voz real gravada](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md), [Brock Johnson — AI slop](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md), [Kallaway — skills só de pesquisa e régua de ganchos](../../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md)."],
 }
-GT = {"roteiro-de-video-e-reels":"Roteiro de vídeo e reels","estrategia-de-conteudo-nas-redes":"Estratégia de conteúdo","conteudo-para-imobiliario":"Conteúdo imobiliário","apresentacoes-decks-e-pitch":"Apresentações e pitch","marca-e-posicionamento":"Marca e posicionamento","anuncios-e-trafego-pago":"Anúncios e tráfego","vendas-e-atendimento":"Vendas e atendimento","agentes-de-ia":"Agentes de IA"}
+GT = {"roteiro-de-video-e-reels":"Roteiro de vídeo e reels","estrategia-de-conteudo-nas-redes":"Estratégia de conteúdo","conteudo-para-imobiliario":"Conteúdo imobiliário","apresentacoes-decks-e-pitch":"Apresentações e pitch","marca-e-posicionamento":"Marca e posicionamento","anuncios-e-trafego-pago":"Anúncios e tráfego","vendas-e-atendimento":"Vendas e atendimento","agentes-de-ia":"Agentes de IA","direcao-de-arte":"Direção de arte"}
 GS = {  # guias relacionados a cada setor
  "marketing": ["anuncios-e-trafego-pago","marca-e-posicionamento","estrategia-de-conteudo-nas-redes"],
  "ia": ["agentes-de-ia"],
- "design": ["marca-e-posicionamento","roteiro-de-video-e-reels"],
- "branding": ["marca-e-posicionamento","apresentacoes-decks-e-pitch"],
+ "design": ["direcao-de-arte","marca-e-posicionamento","roteiro-de-video-e-reels"],
+ "branding": ["marca-e-posicionamento","direcao-de-arte","apresentacoes-decks-e-pitch"],
  "conteudo-e-redes": ["estrategia-de-conteudo-nas-redes","roteiro-de-video-e-reels","conteudo-para-imobiliario"],
  "trafego-pago": ["anuncios-e-trafego-pago"],
  "vendas": ["vendas-e-atendimento","apresentacoes-decks-e-pitch"],
@@ -285,6 +288,7 @@ G = [  # guias por tarefa: (arquivo, título, use quando)
  ("marca-e-posicionamento.md", "Marca e posicionamento", "posicionamento, manual, arquitetura de marcas, marca pessoal"),
  ("anuncios-e-trafego-pago.md", "Anúncios e tráfego pago (Meta)", "campanha, criativos de performance, formulário, WhatsApp, mensuração"),
  ("vendas-e-atendimento.md", "Vendas e atendimento", "material para corretores, follow-up, CRM, argumentário"),
+ ("direcao-de-arte.md", "Direção de arte", "visual de campanha, feed ou peça, briefing para designer ou IA, revisar arte sem cara"),
  ("agentes-de-ia.md", "Criar ou escolher um agente de IA", "decidir Hermes x OpenClaw x skill, permissões, onde rodar"),
 ]
 
