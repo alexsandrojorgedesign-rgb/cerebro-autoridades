@@ -1,7 +1,7 @@
 ---
 nome: Kallaway (Kane Kallaway)
 slug: kallaway
-setores: [storytelling, conteudo-e-redes, marketing]
+setores: [storytelling, conteudo-e-redes, marketing, ia]
 empresa_ou_projeto: canal Kallaway (YouTube); fundador da Sandcastles.ai; Short Form System (curso de conteúdo)
 links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 ---
@@ -28,9 +28,12 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 
 - 8 dicas impopulares: 1–2 formatos repetidos como série de TV, IA na entrada e não na saída, a média do nicho sempre sobe, dor + solução em vez de "conexão", estudar contas de 10–250 mil, CTA-presente em todo post, recorte de público em vez de viral, copiar só tema e palavras. ([fonte](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md))
 
+- IA para pesquisa de conteúdo: pasta fixa com arquivos de contexto (como eu falo, como trabalho, quem sou + claude.md) e 5 skills (análise de canal, público em alvo, pulso diário de outliers dos concorrentes, detector de "estouro" de criador, máquina de ganchos com régua tirada dos vencedores). ([fonte](../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2026-07-08 | 5 Claude Skills To Grow Faster Than 99% of People on Social Media | [resumo](../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) |
 | 2026-10-22 | Give Me 24 Minutes, I'll Give You 10,000 Hours of Content Strategy | [resumo](../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) |
 | 2025-07-03 | Give me 15 mins, and I'll make your hooks impossible to skip | [resumo](../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2026-04-22 | The Neuroscience of Addictive Storytelling | [resumo](../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |

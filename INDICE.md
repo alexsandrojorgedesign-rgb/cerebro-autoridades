@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-53 fontes de 31 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+54 fontes de 31 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -17,6 +17,7 @@
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
 | 2026-11-19 | [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) | Matt Gray | Branding | video | ● completa |
 | 2026-11-19 | [Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)](setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) | Matt Gray | Branding | video | ◑ tradução automática |
+| 2026-11-19 | [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) | Kallaway | Inteligência Artificial | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
@@ -80,6 +81,7 @@
 
 - 2026-10-28 · [Hermes Agent do zero: VPS, Telegram, vigias e memória](setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) · Metics Media · ● completa
 - 2026-07-22 · [Agentes de IA: o curso completo (Open Residency)](setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) · Remi · ● legenda original
+- 2026-07-08 · [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) · Kallaway · ◐ parcial (sem áudio)
 - 2026-06-15 · [OpenClaw vs Hermes Agent: qual escolher](setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) · Metics Media · ● completa
 
 ### [Branding](setores/branding/README.md)
@@ -161,7 +163,7 @@
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 4 |
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | 1 |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | 1 |
-| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 6 |
+| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 7 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | 2 |

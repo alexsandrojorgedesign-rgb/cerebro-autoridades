@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**53 fontes · 31 autoridades · 10 setores · 8 guias · 43 princípios consolidados**
+**54 fontes · 31 autoridades · 10 setores · 8 guias · 43 princípios consolidados**
 
 ## Como consultar
 
@@ -34,14 +34,14 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
 | [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 37 | 3 |
-| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 3 / 13 | 3 |
+| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 14 | 3 |
 | [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 3 | — |
 | [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 9 / 26 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 44 | 13 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 45 | 13 |
 | [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 13 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
-| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 10 / 14 | 6 |
+| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 10 / 15 | 6 |
 | [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 21 | — |
 
 ## Entraram por último

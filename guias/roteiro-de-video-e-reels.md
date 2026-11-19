@@ -18,6 +18,7 @@
 12. **Final com ação** (comentar, direct, WhatsApp) ou com novo gancho, se for série. Se o gráfico de retenção despenca no CTA final, termine no alto e passe o CTA para legenda ou comentário fixado; nunca "siga" nem "curta" em reel do feed. → [Brock Johnson](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)
 13. **Visual que se explica sem texto:** no máximo 3 elementos na tela, tema visível no 1º frame, local variado entre reels, bem iluminado; algo muda a cada ~2 s; re-hook entre 4 e 7 s.
 14. **Produção nos extremos:** ou bem produzido de verdade, ou cru de celular; o meio-termo (efeitos, IA misturada, roteiro de ChatGPT) é o que menos performa.
+15. **Régua de ganchos:** junte os ganchos dos seus vencedores + princípios de gancho numa régua de 15–20 regras; use para dar nota ao gancho antes de gravar e pedir alternativas (a escolha final é humana). → [Kallaway, 5 skills](../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md)
 
 ## Diagnóstico pelo gráfico de retenção (Insights do reel)
 Queda em 1–2 s = capa/visual; sai após alguns segundos = gancho; penhasco no meio = redundância, entrega cedo ou setup longo (use open loop, lista numerada, re-hook); declínio constante = vídeo todo lento; queda no fim = recap/CTA. Meta: mais de 50% no fim. → [Brock Johnson, 5 gráficos](../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md)

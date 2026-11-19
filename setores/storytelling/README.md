@@ -26,6 +26,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2025-07-10 | As 5 linhas para contar qualquer história | Tim Runia | [resumo](../../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
+| 2026-07-08 | 5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos) | Kallaway | [resumo](../../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) |
 | 2026-08-05 | Psicologia dos ganchos: texto, fala, imagem e lock-in | Kallaway | [resumo](../../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |
 | 2026-10-18 | 800 mil seguidores em 78 dias: método dos 5, série e estrutura | Nate Gaffney | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) |
 | 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
