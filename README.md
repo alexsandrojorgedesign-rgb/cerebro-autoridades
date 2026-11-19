@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**70 fontes · 42 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
+**71 fontes · 43 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
 
 ## Como consultar
 
@@ -36,8 +36,8 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 |---|---|---|---|
 | [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 46 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 13 / 17 | 3 |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 38 | 10 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 14 / 18 | 3 |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 39 | 10 |
 | [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 53 | 13 |
 | [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 16 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
@@ -76,6 +76,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Daniel Priestley](autoridades/daniel-priestley.md) | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | Marketing, Vendas, Tráfego Pago, Mercado Imobiliário |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | Marketing, Branding, Conteúdo e Redes Sociais, Tráfego Pago |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | Marketing, Vendas, Negócios e Gestão, Tráfego Pago |
+| [DesignSpo](autoridades/designspo.md) | tipografia para iniciantes: famílias, ajustes e sistema tipográfico | Design |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | Branding, Marketing, Vendas |
 | [Fernando F. Kuwahara](autoridades/fernando-kuwahara.md) | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | Branding, Marketing |
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | Conteúdo e Redes Sociais, Marketing, Mercado Imobiliário, Branding |

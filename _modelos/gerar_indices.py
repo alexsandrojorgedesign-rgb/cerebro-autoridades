@@ -37,6 +37,7 @@ P = {
  "rick-rubin": ("Rick Rubin", "processo criativo: fazer o que é seu, guardar versões, sem ego", ["design","branding"]),
  "luciana-silveira": ("Luciana Martha Silveira", "teoria da cor (UTFPR): física, percepção e cultura; contraste simultâneo; esquemas de paleta", ["design","branding"]),
  "nur-niaz": ("Nur Niaz", "direção de comercial: preparação resolve o set; editor no set; antes e depois na lente e na trilha", ["design","conteudo-e-redes"]),
+ "designspo": ("DesignSpo", "tipografia para iniciantes: famílias, ajustes e sistema tipográfico", ["design"]),
  "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing","ia"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing","design"]),
@@ -226,6 +227,8 @@ F.append(("2015-01-01", "Introdução à teoria da cor (livro, 2ª ed., UTFPR)",
   "setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md", ["design","branding","marketing"]))
 F.append(("2026-10-26", "Dirigir um comercial: preparação, set e pós", "Nur Niaz",
   "setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md", ["design","conteudo-e-redes","trafego-pago","marketing"]))
+F.append(("2024-08-06", "Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema)", "DesignSpo",
+  "setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md", ["design","branding"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"

@@ -18,6 +18,7 @@ Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativ
 | Rick Rubin | processo criativo: fazer o que é seu, guardar versões, sem ego | [ficha](../../autoridades/rick-rubin.md) |
 | Luciana Martha Silveira | teoria da cor (UTFPR): física, percepção e cultura; contraste simultâneo; esquemas de paleta | [ficha](../../autoridades/luciana-silveira.md) |
 | Nur Niaz | direção de comercial: preparação resolve o set; editor no set; antes e depois na lente e na trilha | [ficha](../../autoridades/nur-niaz.md) |
+| DesignSpo | tipografia para iniciantes: famílias, ajustes e sistema tipográfico | [ficha](../../autoridades/designspo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
 | Tim Runia | estrutura de história em 5 linhas antes de roteirizar e filmar | [ficha](../../autoridades/tim-runia.md) |
 
@@ -29,6 +30,7 @@ Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativ
 | 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |
 | 2023-01-01 | Branding: o processo de construção de marcas (Aaker, Keller, Kapferer) | Fernando F. Kuwahara | [resumo](../../setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) |
 | 2023-06-14 | O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago) | Chris Do | [resumo](../../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) |
+| 2024-08-06 | Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema) | DesignSpo | [resumo](../../setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md) |
 | 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
 | 2025-04-30 | Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos) | Satori Graphics | [resumo](../../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) |
 | 2025-05-02 | 15 estilos de design e palavras de busca | Kittl | [resumo](../../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) |

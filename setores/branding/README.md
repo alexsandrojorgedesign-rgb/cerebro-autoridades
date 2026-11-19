@@ -49,6 +49,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2024-08-06 | Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema) | DesignSpo | [resumo](../../setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md) |
 | 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
 | 2025-04-30 | Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos) | Satori Graphics | [resumo](../../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) |
 | 2025-05-02 | 15 estilos de design e palavras de busca | Kittl | [resumo](../../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) |

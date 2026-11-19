@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-70 fontes de 42 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+71 fontes de 43 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -34,6 +34,7 @@
 | 2026-11-19 | [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) | Kittl | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) | orenmeetsworld | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema)](setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md) | DesignSpo | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
 | 2026-11-19 | [Branding: o processo de construção de marcas (Aaker, Keller, Kapferer)](setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) | Fernando F. Kuwahara | Branding | livro | ● legenda original |
 | 2026-11-19 | [Introdução à teoria da cor (livro, 2ª ed., UTFPR)](setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md) | Luciana Martha Silveira | Design | livro | ● legenda original |
@@ -113,6 +114,7 @@
 - 2025-05-02 · [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) · Kittl · ◐ parcial (sem áudio)
 - 2025-04-30 · [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2025-01-12 · [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) · orenmeetsworld · ◐ parcial (sem áudio)
+- 2024-08-06 · [Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema)](setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md) · DesignSpo · ◐ parcial (sem áudio)
 - 2023-06-14 · [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) · Chris Do · ● completa
 - 2015-01-01 · [Introdução à teoria da cor (livro, 2ª ed., UTFPR)](setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md) · Luciana Martha Silveira · ● legenda original
 
@@ -196,6 +198,7 @@
 | [Daniel Priestley](autoridades/daniel-priestley.md) | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | 1 |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | 1 |
+| [DesignSpo](autoridades/designspo.md) | tipografia para iniciantes: famílias, ajustes e sistema tipográfico | 1 |
 | [Erich Shibata](autoridades/erich-shibata.md) | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | 1 |
 | [Fernando F. Kuwahara](autoridades/fernando-kuwahara.md) | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | 1 |
 | [Gary Vaynerchuk](autoridades/gary-vaynerchuk.md) | mídia de interesse, volume, dar antes de pedir, marca acima de performance | 4 |
