@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-78 fontes de 44 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+80 fontes de 45 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -37,6 +37,7 @@
 | 2026-11-19 | [Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo)](setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) | Kallaway | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
+| 2026-11-19 | [Copywriting para iniciantes (AIDA, PAS, benefícios, 10 títulos, swipe file)](setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md) | Adam Erhart | Marketing | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) | Kittl | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) | orenmeetsworld | Design | video | ◐ parcial (sem áudio) |
@@ -44,6 +45,7 @@
 | 2026-11-19 | [Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema)](setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md) | DesignSpo | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
 | 2026-11-19 | [Branding: o processo de construção de marcas (Aaker, Keller, Kapferer)](setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) | Fernando F. Kuwahara | Branding | livro | ● legenda original |
+| 2026-11-19 | [O que é copywriting (copy × conteúdo, benefício, diferença, um CTA)](setores/marketing/fontes/2022-12-01_adam-erhart_o-que-e-copywriting.md) | Adam Erhart | Marketing | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Introdução à teoria da cor (livro, 2ª ed., UTFPR)](setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md) | Luciana Martha Silveira | Design | livro | ● legenda original |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
@@ -94,7 +96,9 @@
 - 2026-10-14 · [Marketing e vendas para 2027 (EXTREMOS)](setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) · Dener Lippert, Alfredo Soares, Bruno Nardon · ◑ tradução automática
 - 2026-04-14 · [Marca notável na era da IA (The Entrepreneur's Studio)](setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) · Seth Godin · ● legenda original
 - 2025-10-11 · [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) · Daniel Priestley · ● completa
+- 2025-06-05 · [Copywriting para iniciantes (AIDA, PAS, benefícios, 10 títulos, swipe file)](setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md) · Adam Erhart · ◐ parcial (sem áudio)
 - 2023-11-23 · [Marketing de influência que funciona (Jota Jota #142)](setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) · Alfredo Soares · ● legenda original
+- 2022-12-01 · [O que é copywriting (copy × conteúdo, benefício, diferença, um CTA)](setores/marketing/fontes/2022-12-01_adam-erhart_o-que-e-copywriting.md) · Adam Erhart · ◐ parcial (sem áudio)
 - 2021 · [Marketing 5.0 (livro)](setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) · Philip Kotler, Hermawan Kartajaya, Iwan Setiawan · ● completa
 - 2010 · [Marketing 3.0 (livro)](setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) · Philip Kotler, Hermawan Kartajaya, Iwan Setiawan · ● completa
 - 2003 · [A Vaca Roxa (livro, via resumo Bookey)](setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md) · Seth Godin · ◐ resumo de terceiros
@@ -198,6 +202,7 @@
 
 | Autoridade | Foco | Fontes |
 |---|---|---|
+| [Adam Erhart](autoridades/adam-erhart.md) | copy para iniciantes: AIDA, PAS, benefício antes de característica, tom de conversa, 10 títulos por peça, um CTA | 2 |
 | [Alex Hormozi](autoridades/alex-hormozi.md) | marca pessoal: prova, associação, momentos de marca | 1 |
 | [Alfredo Soares](autoridades/alfredo-soares.md) | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | 5 |
 | [Ana Couto](autoridades/ana-couto.md) | branding como gestão de valor, método, gap de percepção, CBO | 1 |

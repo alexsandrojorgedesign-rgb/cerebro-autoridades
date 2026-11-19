@@ -14,6 +14,7 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 | David Ogilvy | copy que vende + imagem de marca e grande ideia | [ficha](../../autoridades/david-ogilvy.md) |
 | Jeremy Haynes | Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo | [ficha](../../autoridades/jeremy-haynes.md) |
+| Adam Erhart | copy para iniciantes: AIDA, PAS, benefício antes de característica, tom de conversa, 10 títulos por peça, um CTA | [ficha](../../autoridades/adam-erhart.md) |
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Remi (Open Residency) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | [ficha](../../autoridades/remi.md) |
 | George Clements | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | [ficha](../../autoridades/george-clements.md) |
@@ -26,7 +27,9 @@ Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulá
 |---|---|---|---|
 | 1923 | Scientific Advertising (livro) | Claude C. Hopkins | [resumo](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md) |
 | 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
+| 2022-12-01 | O que é copywriting (copy × conteúdo, benefício, diferença, um CTA) | Adam Erhart | [resumo](../../setores/marketing/fontes/2022-12-01_adam-erhart_o-que-e-copywriting.md) |
 | 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
+| 2025-06-05 | Copywriting para iniciantes (AIDA, PAS, benefícios, 10 títulos, swipe file) | Adam Erhart | [resumo](../../setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md) |
 | 2025-07-03 | Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse | Kallaway | [resumo](../../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |

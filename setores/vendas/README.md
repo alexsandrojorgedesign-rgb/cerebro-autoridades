@@ -36,6 +36,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2024-10-29 | Psicologia do medo e da compra | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md) |
 | 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
+| 2025-06-05 | Copywriting para iniciantes (AIDA, PAS, benefícios, 10 títulos, swipe file) | Adam Erhart | [resumo](../../setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md) |
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
 | 2025-11-06 | Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |

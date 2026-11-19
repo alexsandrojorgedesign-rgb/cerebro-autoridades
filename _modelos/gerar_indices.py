@@ -39,6 +39,7 @@ P = {
  "nur-niaz": ("Nur Niaz", "direção de comercial: preparação resolve o set; editor no set; antes e depois na lente e na trilha", ["design","conteudo-e-redes"]),
  "designspo": ("DesignSpo", "tipografia para iniciantes: famílias, ajustes e sistema tipográfico", ["design"]),
  "jeremy-haynes": ("Jeremy Haynes", "Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo", ["trafego-pago","vendas","marketing"]),
+ "adam-erhart": ("Adam Erhart", "copy para iniciantes: AIDA, PAS, benefício antes de característica, tom de conversa, 10 títulos por peça, um CTA", ["marketing","trafego-pago"]),
  "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing","ia"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing","design"]),
@@ -244,6 +245,10 @@ F.append(("2026-05-11", "Regras de design de logo (escala, uma cor, forma pela n
   "setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md", ["design","branding"]))
 F.append(("2026-03-18", "Fala na câmera em 3 blocos (ansiedade, ritmo, especialista simpático)", "Kallaway",
   "setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md", ["storytelling","conteudo-e-redes","vendas","branding"]))
+F.append(("2025-06-05", "Copywriting para iniciantes (AIDA, PAS, benefícios, 10 títulos, swipe file)", "Adam Erhart",
+  "setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md", ["marketing","trafego-pago","vendas","conteudo-e-redes"]))
+F.append(("2022-12-01", "O que é copywriting (copy × conteúdo, benefício, diferença, um CTA)", "Adam Erhart",
+  "setores/marketing/fontes/2022-12-01_adam-erhart_o-que-e-copywriting.md", ["marketing","conteudo-e-redes","trafego-pago"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -252,7 +257,7 @@ D = "setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-e
 PRINC = {
  "marketing": [
   "- **Clientes falando de você valem mais que você falando de você:** dê algo notável para contar (status, pertencimento, história) e cumpra a promessa, principalmente quando é difícil. Fontes: [Godin — era da IA](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md), [Godin — Vaca Roxa](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md), [Tay — outros falam por você](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md), [Hormozi — ciclo de marca](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md).",
-  "- **Copy específica e com prova:** fatos, números e processo convencem; generalidade (\"alto padrão\", \"melhor\") é ignorada; depoimento real e demonstração valem mais que celebridade. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Chris Do — lacuna de imaginação](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md).",
+  "- **Copy específica e com prova:** fatos, números e processo convencem; generalidade (\"alto padrão\", \"melhor\") é ignorada; depoimento real e demonstração valem mais que celebridade. Fontes: [Hopkins](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Chris Do — lacuna de imaginação](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md), [Adam Erhart — benefício, tom de conversa e um CTA](../../setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md).",
   "- **Repetir o que funciona e manter consistência:** campanha e tom vencedores rodam até os números caírem, não até a equipe enjoar. Fontes: [Hopkins — individualidade](../../setores/marketing/fontes/1923-01-01_claude-hopkins_scientific-advertising.md), [Ogilvy — grande ideia e P&G](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md), [Ana Couto — consistência](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md).",
  ],
  "branding": [

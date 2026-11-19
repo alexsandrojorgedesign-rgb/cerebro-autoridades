@@ -21,6 +21,7 @@
 14. **Mensagem é segmentação:** o que o anúncio diz decide quem a Meta encontra; escrever problemas, circunstâncias e resultados de um perfil por vez, na língua dele. Começar pelo título da página/formulário e repetir a mesma mensagem em roteiro, texto e página.
 15. **Pixel com leads bons:** devolver só qualificados e visitas pelo CRM; manter 70% ou mais de qualificados nos últimos ~15 dias; se a mensagem está certa e o público vem errado, trocar o evento de otimização.
 16. **Antes de mexer, achar o gargalo:** CPM → CTR → custo por lead → atendimento → agendamento → visita → venda; atacar o pior elo. Escala de 10–30% ao dia; quando o custo subir sem mais resultado, voltar a verba e testar nova mensagem.
+17. **Copy de anúncio:** benefício do morador antes da característica ("2 suítes, 62 m²" vira a manhã na varanda); diferença que o concorrente não copia, nunca "o melhor"; um CTA só; 10 títulos e 5 variações do melhor antes de escolher, testar os 2 melhores; ler em voz alta e reescrever o que soar corporativo; swipe file de anúncios de referência. → [Adam Erhart, copy para iniciantes](../setores/marketing/fontes/2025-06-05_adam-erhart_copywriting-para-iniciantes.md), [o que é copy](../setores/marketing/fontes/2022-12-01_adam-erhart_o-que-e-copywriting.md)
 
 ## Leia nesta ordem
 1. [Pasta META](../META/README.md) (documentação oficial resumida, 11 arquivos)
