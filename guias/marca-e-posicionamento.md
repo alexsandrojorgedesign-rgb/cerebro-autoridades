@@ -13,7 +13,7 @@
 8. **Clientes falando por você** valem mais que você falando de si.
 9. **Assinatura visual** difícil de copiar, ainda mais com IA deixando tudo igual. → [Kallaway](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
 10. **Patrocínio e evento só com verba e gente para ativar.**
-11. **Marca pessoal de porta-voz (Douglas, Dani):** método 4-3-2-1 — 4 categorias fixas, 3 frases-assinatura repetidas até virarem dele, 2 formatos, 1 plataforma principal — mais uma lista própria (WhatsApp/e-mail). Operar como empresa de mídia: 1 ideia longa vira ~30 peças e a marca passa no "teste dos 30 dias" (segue saindo sem o porta-voz). → [Matt Gray](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md)
+11. **Marca pessoal de porta-voz (Douglas, Dani):** método 4-3-2-1 — 4 categorias fixas, 3 frases-assinatura repetidas até virarem dele, 2 formatos, 1 plataforma principal — mais uma lista própria (WhatsApp/e-mail). Operar como empresa de mídia: 1 ideia longa vira ~30 peças e a marca passa no "teste dos 30 dias" (segue saindo sem o porta-voz). Voz real primeiro: áudio do porta-voz respondendo 10 perguntas → transcrição → "doc de voz" que a IA formata, sem inventar a fala. → [Matt Gray, 5 níveis](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md), [7 passos](../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md)
 
 ## Leia nesta ordem
 1. [Princípios de branding](../setores/branding/README.md#princípios-consolidados) (10 princípios com fontes)

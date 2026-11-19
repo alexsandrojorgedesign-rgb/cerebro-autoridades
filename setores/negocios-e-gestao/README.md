@@ -41,6 +41,7 @@ Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de neg
 | 2026-06-15 | OpenClaw vs Hermes Agent: qual escolher | Metics Media | [resumo](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
 | 2026-07-22 | Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) |
+| 2026-07-30 | Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-10-07 | Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV | George Clements | [resumo](../../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |

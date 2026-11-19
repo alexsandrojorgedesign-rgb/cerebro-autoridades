@@ -177,6 +177,8 @@ F.append(("2026-11-13", "Linguagem corporal em 5 ajustes (postura, mãos, gestos
   "setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md", ["storytelling","vendas","conteudo-e-redes"]))
 F.append(("2026-07-22", "Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)", "Matt Gray",
   "setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md", ["branding","conteudo-e-redes","negocios-e-gestao","marketing"]))
+F.append(("2026-07-30", "Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)", "Matt Gray",
+  "setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md", ["branding","ia","vendas","negocios-e-gestao","conteudo-e-redes"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"

@@ -17,7 +17,10 @@ links: ["https://youtu.be/lRe3iKyAXQA"]
 ## Ideias centrais
 - 5 níveis: sonhador → experimentador → "prisão bonita" → CEO de empresa de mídia → marca icônica; método 4-3-2-1 (4 categorias, 3 frases-assinatura, 2 formatos, 1 plataforma); teste dos 30 dias; cascata de conteúdo (1 ideia → ~30 peças), funil para e-mail e sequência de 9 dias. ([fonte](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md))
 
+- Sistema de 7 passos com skills de IA: ritual de áudio (10 perguntas → doc de voz), cascata, isca contextual em todo post, workshop 40 min ensino + 15 min oferta, documento de oferta, ligação 20/20/20, placar do CEO + metas trimestrais + reunião semanal. ([fonte](../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md))
+
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2026-07-30 | If I Wanted to Build a Personal Brand, I'd Do This | [resumo](../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
 | 2026-07-22 | If You Only Watch One Personal Brand Video, Make It This | [resumo](../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) |

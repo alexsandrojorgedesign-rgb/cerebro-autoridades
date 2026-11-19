@@ -27,6 +27,7 @@ Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e neg
 | 2026-06-15 | OpenClaw vs Hermes Agent: qual escolher | Metics Media | [resumo](../../setores/ia/fontes/2026-06-15_metics-media_openclaw-vs-hermes.md) |
 | 2026-06-26 | Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída | Chase Chappell | [resumo](../../setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) |
 | 2026-07-22 | Agentes de IA: o curso completo (Open Residency) | Remi | [resumo](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md) |
+| 2026-07-30 | Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
 | 2026-10-16 | 1M seguidores em 6 meses: 3 passos | Carima (kaye.creatives) | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) |
 | 2026-10-28 | Hermes Agent do zero: VPS, Telegram, vigias e memória | Metics Media | [resumo](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md) |

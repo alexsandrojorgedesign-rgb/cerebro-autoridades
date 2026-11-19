@@ -10,6 +10,10 @@
 5. **Conte casos, não liste diferenciais:** histórias de outros clientes convencem mais em venda complexa; conte em cena (lugar, ação, fala, pensamento). → [Gallo](../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md), [Humm](../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md)
 6. **Estrutura de venda (Guber):** desafio inesperado → a luta → chamado à ação.
 7. **Específico e com prova:** números, prazos de obra cumpridos, depoimentos.
+8. **Rotina pós-lead:** ligar para todo lead que não respondeu, confirmar visita, religar faltas e perdidos com outra pessoa, mandar conteúdo útil e o "pior cenário" antes da visita. → [George Clements](../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md)
+9. **Atendimento 20/20/20:** descoberta primeiro (situação, objetivo, prazo, quem decide), depois apresentação, depois objeções com respostas prontas (preço, cônjuge, "vou pensar"). → [Matt Gray](../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md)
+10. **Qualificar antes de atender:** situação atual, objetivo, obstáculo e solução preferida (revela orçamento) já no formulário ou diagnóstico. → [Daniel Priestley](../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md)
+11. **Medir valor vendido por corretor,** não só taxa de conversão.
 
 ## Leia nesta ordem
 1. [Princípios de vendas](../setores/vendas/README.md#princípios-consolidados)

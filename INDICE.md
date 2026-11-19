@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-51 fontes de 31 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+52 fontes de 31 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -14,6 +14,7 @@
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
+| 2026-11-19 | [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) | Matt Gray | Branding | video | ● completa |
 | 2026-11-19 | [Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)](setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) | Matt Gray | Branding | video | ◑ tradução automática |
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
@@ -84,6 +85,7 @@
 
 - 2026-11-06 · [Marketing à prova de crise (The Code Vinci)](setores/branding/fontes/2026-11-06_tay-dantas_marketing-a-prova-de-crise.md) · Tay Dantas · ◑ tradução automática
 - 2026-10-23 · [Como construir uma marca pessoal em 2027](setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) · Alex Hormozi · ● legenda original
+- 2026-07-30 · [Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20)](setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) · Matt Gray · ● completa
 - 2026-07-22 · [Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia)](setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) · Matt Gray · ◑ tradução automática
 - 2025-05-28 · [Branding que vende: marcas sexys (ROI Hunters #296)](setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) · Tay Dantas · ● legenda original
 - 2024-06-18 · [Branding & Cultura na Cimed (ROI Hunters #240)](setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) · Erich Shibata · ● legenda original
@@ -161,7 +163,7 @@
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | 2 |
-| [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | 1 |
+| [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | 2 |
 | [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | 2 |
 | [Michelly Müller](autoridades/michelly-muller.md) | marketing imobiliário prático, Instagram e Meta Ads para corretores | 1 |
 | [Nate Gaffney](autoridades/nate-gaffney.md) | Trial Reels com método dos 5 e ideia vencedora virando série (de 10 mil a 800 mil em 78 dias) | 2 |
