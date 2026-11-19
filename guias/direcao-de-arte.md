@@ -22,6 +22,15 @@
 17. **Swipe file mensal por marca** (anúncios e posts de referência) com "o que posso tirar disto". → [orenmeetsworld](../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md)
 18. **Antes de enviar:** pré-mortem (tela pequena, fundos diferentes, impressão grande) e arquivos editáveis que um estranho entenda (camadas nomeadas, leia-me com fontes, cores e exportação). → [Satori](../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md)
 
+## Cor (checklist)
+- **A cor nunca está sozinha** (contraste simultâneo): teste a cor de título, selo ou faixa sobre a foto real e no fundo de aplicação; ela muda a foto vizinha e vice-versa.
+- **Paleta por esquema:** neutros, monocromático ou análogos (até ~90° no círculo) para calma; complementares ou tríade para contraste controlado. Quebre a monotonia com valor, textura e luz, não com mais matizes.
+- **Sombras e escuros em tom rompido** (cor misturada com a complementar) em vez de preto puro: mais rico e natural, combina com cor chapada sem degradê.
+- **Tela não é impressão:** RGB ≠ CMYK/Pantone; aprovar prova no material final (tons terra como Ocre e Vinho variam muito) e pedir referência física ao fornecedor.
+- **Texto com contraste de valor** (claro × escuro), nunca só de matiz; complementares puros vibram em texto. Não diferenciar status só por vermelho × verde (daltonismo) — ex.: planta de vendidos.
+- **Simbolismo é ponto de partida, não regra:** o verde do Bioma e o verde de aviso significam coisas diferentes; validar no contexto.
+→ [Luciana Silveira, Introdução à teoria da cor](../setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md)
+
 ## Ingredientes de referência por marca (preencher e manter)
 - **Vicente:** fotografia de vida real, luz quente, tipografia fina.
 - **Bioma:** natureza, folhas e luz filtrada; Neulis.
@@ -35,7 +44,8 @@
 4. [ArtClass: 7 princípios](../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) e [tipografia](../setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md)
 5. [Satori Graphics: guia de logo](../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md)
 6. [Kittl: estilos e palavras de busca](../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md)
-7. [Louis Moss: moodboard](../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md), [Satori: por que parece amador](../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md), [Jason Murray: portfólio e campanha](../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md), [orenmeetsworld: foto e vídeo de marca](../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md)
+7. [Luciana Silveira: teoria da cor](../setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md)
+7b. [Louis Moss: moodboard](../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md), [Satori: por que parece amador](../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md), [Jason Murray: portfólio e campanha](../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md), [orenmeetsworld: foto e vídeo de marca](../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md)
 8. [Princípios de design](../setores/design/README.md#princípios-consolidados)
 9. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
 

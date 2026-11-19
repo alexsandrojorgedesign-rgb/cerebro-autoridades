@@ -25,6 +25,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | Louis Moss | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | [ficha](../../autoridades/louis-moss.md) |
 | Fernando F. Kuwahara | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | [ficha](../../autoridades/fernando-kuwahara.md) |
 | Rick Rubin | processo criativo: fazer o que é seu, guardar versões, sem ego | [ficha](../../autoridades/rick-rubin.md) |
+| Luciana Martha Silveira | teoria da cor (UTFPR): física, percepção e cultura; contraste simultâneo; esquemas de paleta | [ficha](../../autoridades/luciana-silveira.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
 | Matt Gray | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | [ficha](../../autoridades/matt-gray.md) |
@@ -39,6 +40,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 1983 | Ogilvy on Advertising (livro, via resumo Bookey) | David Ogilvy | [resumo](../../setores/marketing/fontes/1983-01-01_david-ogilvy_ogilvy-on-advertising.md) |
 | 2003 | A Vaca Roxa (livro, via resumo Bookey) | Seth Godin | [resumo](../../setores/marketing/fontes/2003-01-01_seth-godin_a-vaca-roxa.md) |
 | 2010 | Marketing 3.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2010-01-01_philip-kotler_marketing-3-0.md) |
+| 2015-01-01 | Introdução à teoria da cor (livro, 2ª ed., UTFPR) | Luciana Martha Silveira | [resumo](../../setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md) |
 | 2016 | Storytelling (The Storyteller's Secret, livro) | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md) |
 | 2019 | Storytelling — leitura complementar: mapa dos 37 capítulos e páginas | Carmine Gallo | [resumo](../../setores/storytelling/fontes/2019-01-01_carmine-gallo_storytelling.md) |
 | 2019-12-31 | O que é branding (The Futur) | Marty Neumeier | [resumo](../../setores/branding/fontes/2019-12-31_marty-neumeier_o-que-e-branding.md) |

@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**68 fontes · 40 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
+**70 fontes · 42 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
 
 ## Como consultar
 
@@ -34,12 +34,12 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 44 | 3 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 46 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 11 / 15 | 3 |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 37 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 52 | 13 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 15 | 4 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 13 / 17 | 3 |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 38 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 53 | 13 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 16 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
 | [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 11 / 17 | 6 |
@@ -50,11 +50,11 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 - 2026-11-19 · [Série de assinatura e colunas de ideias (967 mil seguidores)](setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) · Nate Gaffney · ● completa
 - 2026-11-19 · [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-19 · [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) · Brock Johnson · ◐ parcial (sem áudio)
+- 2026-11-19 · [Dirigir um comercial: preparação, set e pós](setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md) · Nur Niaz · ◐ parcial (sem áudio)
 - 2026-11-19 · [8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte)](setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) · Kallaway · ● completa
 - 2026-11-19 · [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
 - 2026-11-19 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
-- 2026-11-19 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
 
 [Ver todas →](INDICE.md)
 
@@ -86,12 +86,14 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | Conteúdo e Redes Sociais, Branding, Mercado Imobiliário |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | Design, Branding |
 | [Louis Moss](autoridades/louis-moss.md) | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | Design, Branding |
+| [Luciana Martha Silveira](autoridades/luciana-silveira.md) | teoria da cor (UTFPR): física, percepção e cultura; contraste simultâneo; esquemas de paleta | Design, Branding |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | Branding, Design |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | Conteúdo e Redes Sociais, Marketing |
 | [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | Branding, Conteúdo e Redes Sociais, Negócios e Gestão, Marketing |
 | [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | Inteligência Artificial, Negócios e Gestão |
 | [Michelly Müller](autoridades/michelly-muller.md) | marketing imobiliário prático, Instagram e Meta Ads para corretores | Mercado Imobiliário, Conteúdo e Redes Sociais, Tráfego Pago, Branding |
 | [Nate Gaffney](autoridades/nate-gaffney.md) | Trial Reels com método dos 5 e ideia vencedora virando série (de 10 mil a 800 mil em 78 dias) | Conteúdo e Redes Sociais, Storytelling, Marketing |
+| [Nur Niaz](autoridades/nur-niaz.md) | direção de comercial: preparação resolve o set; editor no set; antes e depois na lente e na trilha | Design, Conteúdo e Redes Sociais |
 | [orenmeetsworld](autoridades/orenmeetsworld.md) | direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção | Design, Conteúdo e Redes Sociais |
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | Marketing, Branding, Negócios e Gestão, Inteligência Artificial |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | Storytelling, Conteúdo e Redes Sociais, Vendas |

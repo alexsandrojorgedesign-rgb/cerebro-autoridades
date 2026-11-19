@@ -35,6 +35,8 @@ P = {
  "orenmeetsworld": ("orenmeetsworld", "direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção", ["design","conteudo-e-redes"]),
  "fernando-kuwahara": ("Fernando F. Kuwahara", "monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração", ["branding","marketing"]),
  "rick-rubin": ("Rick Rubin", "processo criativo: fazer o que é seu, guardar versões, sem ego", ["design","branding"]),
+ "luciana-silveira": ("Luciana Martha Silveira", "teoria da cor (UTFPR): física, percepção e cultura; contraste simultâneo; esquemas de paleta", ["design","branding"]),
+ "nur-niaz": ("Nur Niaz", "direção de comercial: preparação resolve o set; editor no set; antes e depois na lente e na trilha", ["design","conteudo-e-redes"]),
  "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing","ia"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing","design"]),
@@ -220,6 +222,10 @@ F.append(("2023-01-01", "Branding: o processo de construção de marcas (Aaker, 
   "setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md", ["branding","marketing","design","conteudo-e-redes"]))
 F.append(("2026-08-18", "Processo criativo sem ego (compilação de entrevistas)", "Rick Rubin",
   "setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md", ["design","branding","conteudo-e-redes"]))
+F.append(("2015-01-01", "Introdução à teoria da cor (livro, 2ª ed., UTFPR)", "Luciana Martha Silveira",
+  "setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md", ["design","branding","marketing"]))
+F.append(("2026-10-26", "Dirigir um comercial: preparação, set e pós", "Nur Niaz",
+  "setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md", ["design","conteudo-e-redes","trafego-pago","marketing"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -252,7 +258,7 @@ PRINC = {
   "- **Surpresa que faz sentido:** quebrar a expectativa do público prende, desde que a virada tenha pista plantada e lógica. Fontes: [Kallaway — head fake](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — violação de expectativa, Gates/Jobs](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
  ],
  "design": [
-  "- **Menos elementos, mais clareza:** 2–3 ingredientes de destaque, um ponto de entrada, uma cor de destaque e espaço em branco; quando tudo grita, nada é ouvido. Fontes: [Jason Murray — contenção](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md), [ArtClass — 7 princípios](../../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md), [Chris Do — fazer menos, melhor](../../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md).",
+  "- **Menos elementos, mais clareza:** 2–3 ingredientes de destaque, um ponto de entrada, uma cor de destaque e espaço em branco; quando tudo grita, nada é ouvido. Fontes: [Jason Murray — contenção](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md), [ArtClass — 7 princípios](../../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md), [Chris Do — fazer menos, melhor](../../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md), [Luciana Silveira — menos matizes, variar valor e textura](../../setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md).",
   "- **Palavras vagas viram critérios e requisitos:** \"clean\", \"premium\", \"moderno\" precisam virar perguntas e uma lista curta de critérios julgáveis antes de executar e para aprovar. Fontes: [Chris Do — critérios em escala](../../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md), [Satori — adjetivos viram requisitos](../../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md), [Louis Moss — cada referência com razão declarada](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md).",
   "- **Ideia antes do visual e ocupar espaço próprio:** insight e conceito em uma frase antes do layout; olhar o que a categoria já faz para não ficar intercambiável. Fontes: [Jason Murray — insight e ideia](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md), [Satori — lacuna de propriedade](../../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md), [Kallaway — fuga do cluster](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md), [Satori — uma emoção só](../../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md), [Jason Murray — uma grande ideia por projeto](../../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md).",
  ],

@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-68 fontes de 40 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+70 fontes de 42 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -11,6 +11,7 @@
 | 2026-11-19 | [Série de assinatura e colunas de ideias (967 mil seguidores)](setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) | Brock Johnson | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Dirigir um comercial: preparação, set e pós](setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md) | Nur Niaz | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte)](setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) | Kallaway | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
@@ -35,6 +36,7 @@
 | 2026-11-19 | [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) | orenmeetsworld | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
 | 2026-11-19 | [Branding: o processo de construção de marcas (Aaker, Keller, Kapferer)](setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) | Fernando F. Kuwahara | Branding | livro | ● legenda original |
+| 2026-11-19 | [Introdução à teoria da cor (livro, 2ª ed., UTFPR)](setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md) | Luciana Martha Silveira | Design | livro | ● legenda original |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -100,6 +102,7 @@
 
 ### [Design](setores/design/README.md)
 
+- 2026-10-26 · [Dirigir um comercial: preparação, set e pós](setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md) · Nur Niaz · ◐ parcial (sem áudio)
 - 2026-10-21 · [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2026-10-18 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
 - 2026-10-05 · [7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)](setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) · ArtClass · ◐ parcial (sem áudio)
@@ -111,6 +114,7 @@
 - 2025-04-30 · [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2025-01-12 · [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) · orenmeetsworld · ◐ parcial (sem áudio)
 - 2023-06-14 · [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) · Chris Do · ● completa
+- 2015-01-01 · [Introdução à teoria da cor (livro, 2ª ed., UTFPR)](setores/design/fontes/2015-01-01_luciana-silveira_introducao-a-teoria-da-cor.md) · Luciana Martha Silveira · ● legenda original
 
 ### [Branding](setores/branding/README.md)
 
@@ -202,12 +206,14 @@
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | 1 |
 | [Louis Moss](autoridades/louis-moss.md) | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | 1 |
+| [Luciana Martha Silveira](autoridades/luciana-silveira.md) | teoria da cor (UTFPR): física, percepção e cultura; contraste simultâneo; esquemas de paleta | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | 2 |
 | [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | 2 |
 | [Metics Media (Matt)](autoridades/metics-media.md) | comparação prática OpenClaw x Hermes, instalação em VPS | 2 |
 | [Michelly Müller](autoridades/michelly-muller.md) | marketing imobiliário prático, Instagram e Meta Ads para corretores | 1 |
 | [Nate Gaffney](autoridades/nate-gaffney.md) | Trial Reels com método dos 5 e ideia vencedora virando série (de 10 mil a 800 mil em 78 dias) | 2 |
+| [Nur Niaz](autoridades/nur-niaz.md) | direção de comercial: preparação resolve o set; editor no set; antes e depois na lente e na trilha | 1 |
 | [orenmeetsworld](autoridades/orenmeetsworld.md) | direção de foto e vídeo de marca: ação/adereço, swipe file, curva de adoção | 1 |
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | 2 |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 4 |
