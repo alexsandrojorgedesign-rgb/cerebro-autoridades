@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-57 fontes de 33 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+58 fontes de 33 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -24,6 +24,7 @@
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
+| 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -90,6 +91,7 @@
 ### [Design](setores/design/README.md)
 
 - 2026-09-15 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
+- 2023-06-14 · [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) · Chris Do · ● completa
 
 ### [Branding](setores/branding/README.md)
 
@@ -164,7 +166,7 @@
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | 1 |
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | 2 |
 | [Chase Chappell](autoridades/chase-chappell.md) | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | 1 |
-| [Chris Do](autoridades/chris-do.md) | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | 2 |
+| [Chris Do](autoridades/chris-do.md) | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | 3 |
 | [Claude C. Hopkins](autoridades/claude-hopkins.md) | copy de resposta direta: testar, medir, ser específico | 1 |
 | [Daniel Priestley](autoridades/daniel-priestley.md) | geração de leads por diagnóstico/scorecard: 15 perguntas que pontuam e qualificam | 1 |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |

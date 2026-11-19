@@ -1,7 +1,7 @@
 ---
 nome: Chris Do
 slug: chris-do
-setores: [storytelling, branding, conteudo-e-redes, marketing]
+setores: [storytelling, branding, conteudo-e-redes, marketing, design]
 empresa_ou_projeto: fundador e CEO do The Futur (educação para criativos) e da agência Blind
 links: ["https://www.youtube.com/@thefutur"]
 ---
@@ -19,9 +19,11 @@ links: ["https://www.youtube.com/@thefutur"]
 - Fórmula: personagem quer algo → obstáculo → ganha o que precisa (interno) em vez do que queria (externo) → transformação; o passado dá sentido ao presente. ([fonte](../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md))
 - Nicho se escolhe com perguntas de "A ou B" (gênero, fase, idade, setor, faturamento, região, problema na língua do cliente); quem serve todo mundo não serve ninguém. ([fonte](../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md))
 - Marca pessoal é de uma pessoa, não de sócios; seja seu fã número um e mostre também as partes que esconde. ([fonte](../setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md))
+- Para julgar design, troque palavras vagas ("elegante", "clean") por uma lista de ~5 critérios em escala que a equipe aplique sem você; domine o bom antes do ótimo. ([fonte](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md))
 
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2023-06-14 | The Secret To "Great" Design Is Simpler Than You Think | [resumo](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) |
 | 2026-08-26 | The Personal Branding Lesson Nobody Teaches | [resumo](../setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) |
 | 2026-08-29 | Stop Promoting Your Business. Start Telling Better Stories | [resumo](../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |

@@ -30,7 +30,7 @@ P = {
  "jason-murray": ("Jason Murray", "direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual", ["design","branding","marketing"]),
  "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing","ia"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
- "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing"]),
+ "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing","design"]),
  "philipp-humm": ("Philipp Humm", "zoom no momento com PAST: lugar, ação, fala, pensamentos", ["storytelling","conteudo-e-redes","vendas"]),
  "remi": ("Remi (Open Residency)", "agentes de IA na prática: contexto .md, MCPs, skills e pasta OS", ["ia","negocios-e-gestao","marketing","trafego-pago"]),
  "brock-johnson": ("Brock Johnson", "crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM", ["conteudo-e-redes","storytelling","vendas","marketing"]),
@@ -191,6 +191,8 @@ F.append(("2026-08-26", "Marca pessoal é de uma pessoa só (fã número um, mos
   "setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md", ["branding","storytelling","conteudo-e-redes"]))
 F.append(("2026-09-15", "Ingredientes de direção de arte (insight, ideia, sensação × solução visual)", "Jason Murray",
   "setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md", ["design","branding","marketing","trafego-pago","conteudo-e-redes"]))
+F.append(("2023-06-14", "O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)", "Chris Do",
+  "setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md", ["design","negocios-e-gestao"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"

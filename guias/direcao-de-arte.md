@@ -9,6 +9,8 @@
 4. **2 ou 3 ingredientes de destaque**, o resto discreto. Nada de enfeite que não serve à ideia (shapes, degradês, excesso de elementos).
 5. **Um ingrediente que atravesse todos os canais** (feed, anúncio, outdoor, evento) e aceite infinitas variações.
 6. **Repetir até virar assinatura:** os mesmos ingredientes por marca, para o público reconhecer sem ver o logo. → [Kallaway, assinatura visual](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
+7. **Briefing vago vira pergunta:** "clean", "premium", "mais vivo" — pergunte o que muda na peça (menos elementos? mais respiro? foto mais escura?) antes de executar. → [Chris Do](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md)
+8. **Aprovar por lista de 5 critérios em escala** (por marca), não por gosto; qualquer pessoa ou agente deve conseguir aplicar sem o diretor. Ex.: foto protagonista e sangrada · 2–3 ingredientes, sem shapes · hierarquia clara do título · tipografia e cores do manual · logo discreto no lugar padrão. → [Chris Do](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md)
 
 ## Ingredientes de referência por marca (preencher e manter)
 - **Vicente:** fotografia de vida real, luz quente, tipografia fina.
@@ -19,7 +21,8 @@
 ## Leia nesta ordem
 1. [Jason Murray: ingredientes de direção de arte](../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md)
 2. [Kallaway: assinatura visual e anti-slop](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
-3. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
+3. [Chris Do: critérios em escala e briefing vago](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md)
+4. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
 
 ## Cuidados
 - O cardápio de ingredientes é infinito; o erro comum é usar muitos. Contenção é parte do método.
