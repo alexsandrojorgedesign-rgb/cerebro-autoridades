@@ -186,6 +186,8 @@ F.append(("2026-07-08", "5 skills do Claude para conteúdo (contexto, análise d
   "setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md", ["ia","conteudo-e-redes","storytelling"]))
 F.append(("2026-08-29", "Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)", "Chris Do",
   "setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md", ["storytelling","branding","conteudo-e-redes","marketing","ia"]))
+F.append(("2026-08-26", "Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)", "Chris Do",
+  "setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md", ["branding","storytelling","conteudo-e-redes"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"

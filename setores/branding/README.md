@@ -50,6 +50,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-14 | Se eu começasse nas redes em 2026 (lives, nicho, pós-post) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) |
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
+| 2026-08-26 | Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde) | Chris Do | [resumo](../../setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) |
 | 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-23 | Como construir uma marca pessoal em 2027 | Alex Hormozi | [resumo](../../setores/branding/fontes/2026-10-23_alex-hormozi_como-construir-marca-pessoal-2027.md) |
