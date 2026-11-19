@@ -27,6 +27,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2025-07-03 | Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse | Kallaway | [resumo](../../setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) |
 | 2025-07-10 | As 5 linhas para contar qualquer história | Tim Runia | [resumo](../../setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) |
 | 2025-11-06 | Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |
+| 2026-03-18 | Fala na câmera em 3 blocos (ansiedade, ritmo, especialista simpático) | Kallaway | [resumo](../../setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-07-08 | 5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos) | Kallaway | [resumo](../../setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) |

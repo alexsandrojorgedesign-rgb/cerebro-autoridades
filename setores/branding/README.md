@@ -56,6 +56,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
+| 2026-03-18 | Fala na câmera em 3 blocos (ansiedade, ritmo, especialista simpático) | Kallaway | [resumo](../../setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md) |
 | 2026-04-09 | Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s) | Louis Moss | [resumo](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-05-11 | Regras de design de logo (escala, uma cor, forma pela natureza da marca) | Satori Graphics | [resumo](../../setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md) |

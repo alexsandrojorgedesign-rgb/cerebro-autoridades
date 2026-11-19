@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-77 fontes de 44 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+78 fontes de 44 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -33,6 +33,7 @@
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-19 | [Regras de design de logo (escala, uma cor, forma pela natureza da marca)](setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) | Louis Moss | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Fala na câmera em 3 blocos (ansiedade, ritmo, especialista simpático)](setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md) | Kallaway | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo)](setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) | Kallaway | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
@@ -186,6 +187,7 @@
 - 2026-08-05 · [Psicologia dos ganchos: texto, fala, imagem e lock-in](setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) · Kallaway · ● completa
 - 2026-04-22 · [A neurociência do storytelling viciante](setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) · Kallaway · ● legenda original
 - 2026-04-19 · [Zoom no momento: método PAST](setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) · Philipp Humm · ● legenda original
+- 2026-03-18 · [Fala na câmera em 3 blocos (ansiedade, ritmo, especialista simpático)](setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md) · Kallaway · ◐ parcial (sem áudio)
 - 2025-07-10 · [As 5 linhas para contar qualquer história](setores/storytelling/fontes/2025-07-10_tim-runia_5-linhas-para-contar-qualquer-historia.md) · Tim Runia · ● completa
 - 2025-07-03 · [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) · Kallaway · ● completa
 - 2025-02-03 · [Storytelling em 9 min: 5 técnicas do zoom (2025)](setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) · Philipp Humm · ● completa
@@ -218,7 +220,7 @@
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | 1 |
 | [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | 2 |
 | [Jeremy Haynes](autoridades/jeremy-haynes.md) | Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo | 1 |
-| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 11 |
+| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 12 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | 1 |
 | [Louis Moss](autoridades/louis-moss.md) | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | 1 |

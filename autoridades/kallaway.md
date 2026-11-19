@@ -33,10 +33,12 @@ links: ["https://www.youtube.com/channel/UCg5WjzrwxRRUUDf7WHKPzsA"]
 - História que vende parte da dor de um comprador específico, vai do amplo ao estreito, tem dois "aha" cedo e CTA logo depois, e mostra a transformação com prova. ([fonte](../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md))
 - Toda compra tem um medo no fundo: mostre-o por situação, anuncie cedo que há solução, amplie e entregue. ([fonte](../setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md))
 - O público sai por perda de confiança, não por tédio; confiança vem de clareza, espelhamento, personalização, prova, familiaridade e de falar "um passo ao lado" do desejo. ([fonte](../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md))
+- A fala pesa tanto quanto o roteiro: baixar a ansiedade de gravar (aquecer, take de descarte, foto de um amigo, gravar linha a linha), dar ritmo (frases curtas, pausa na palavra-chave, voz que desce no fim) e soar como "especialista simpático" (prova específica + uma admissão honesta). ([fonte](../setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md))
 
 ## Fontes
 | Data | Conteúdo | Arquivo |
 |---|---|---|
+| 2026-03-18 | Speaking Like This Gives You an Unfair Advantage on Social Media | [resumo](../setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md) |
 | 2026-09-16 | I Reversed Engineered Social Media Algorithms | [resumo](../setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md) |
 | 2026-09-09 | How to Become A Master Storyteller (It'll Blow Up Your Business) | [resumo](../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) |
 | 2025-11-06 | If You Don't Understand Psychology, You Don't Understand Social Media | [resumo](../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |

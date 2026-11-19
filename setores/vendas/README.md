@@ -39,6 +39,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
 | 2025-11-06 | Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
+| 2026-03-18 | Fala na câmera em 3 blocos (ansiedade, ritmo, especialista simpático) | Kallaway | [resumo](../../setores/storytelling/fontes/2026-03-18_kallaway_fala-na-camera-3-blocos.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-07-30 | Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
 | 2026-09-09 | Storytelling que converte (6 técnicas: dor do comprador, amplo→estreito, duplo aha) | Kallaway | [resumo](../../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) |
