@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**46 fontes · 28 autoridades · 10 setores · 8 guias · 42 princípios consolidados**
+**47 fontes · 29 autoridades · 10 setores · 8 guias · 42 princípios consolidados**
 
 ## Como consultar
 
@@ -34,11 +34,11 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
 | [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 8 / 34 | 3 |
-| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 3 / 10 | 3 |
+| [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 3 / 11 | 3 |
 | [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 0 / 3 | — |
 | [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 7 / 24 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 15 / 38 | 12 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 1 / 10 | 4 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 15 / 39 | 12 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 11 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 16 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 5 | — |
 | [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 8 / 12 | 6 |
@@ -51,9 +51,9 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
 - 2026-11-19 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
 - 2026-11-19 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
+- 2026-11-19 · [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) · Chase Chappell · ● completa
 - 2026-11-11 · [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-10 · [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) · Mateo Jiménez · ◐ parcial (sem áudio)
-- 2026-11-10 · [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) · Gary Vaynerchuk · ⚠️ fraca
 
 [Ver todas →](INDICE.md)
 
@@ -68,6 +68,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Bruno Nardon](autoridades/bruno-nardon.md) | marca conforme o critério de valor do cliente | Negócios e Gestão, Branding |
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | Conteúdo e Redes Sociais, Inteligência Artificial, Marketing |
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | Storytelling, Branding, Vendas, Negócios e Gestão |
+| [Chase Chappell](autoridades/chase-chappell.md) | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | Tráfego Pago, Conteúdo e Redes Sociais, Inteligência Artificial |
 | [Claude C. Hopkins](autoridades/claude-hopkins.md) | copy de resposta direta: testar, medir, ser específico | Marketing, Tráfego Pago, Vendas, Conteúdo e Redes Sociais |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | Marketing, Branding, Conteúdo e Redes Sociais, Tráfego Pago |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | Marketing, Vendas, Negócios e Gestão, Tráfego Pago |

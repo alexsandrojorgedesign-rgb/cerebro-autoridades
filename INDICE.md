@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-46 fontes de 28 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+47 fontes de 29 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -13,6 +13,7 @@
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
+| 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Corte Open Residency (evidência fraca)](setores/conteudo-e-redes/fontes/2026-11-05_garyvee_corte-open-residency.md) | Gary Vaynerchuk | Conteúdo e Redes Sociais | post | ⚠️ fraca |
@@ -105,6 +106,7 @@
 ### [Tráfego Pago](setores/trafego-pago/README.md)
 
 - 2026-10-07 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
+- 2026-06-26 · [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) · Chase Chappell · ● completa
 
 ### [Vendas](setores/vendas/README.md)
 
@@ -138,6 +140,7 @@
 | [Bruno Nardon](autoridades/bruno-nardon.md) | marca conforme o critério de valor do cliente | 2 |
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | 1 |
 | [Carmine Gallo](autoridades/carmine-gallo.md) | histórias de origem, clareza, apresentações e cultura organizacional | 2 |
+| [Chase Chappell](autoridades/chase-chappell.md) | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | 1 |
 | [Claude C. Hopkins](autoridades/claude-hopkins.md) | copy de resposta direta: testar, medir, ser específico | 1 |
 | [David Ogilvy](autoridades/david-ogilvy.md) | copy que vende + imagem de marca e grande ideia | 1 |
 | [Dener Lippert](autoridades/dener-lippert.md) | performance, gargalos, preço e LTV | 1 |

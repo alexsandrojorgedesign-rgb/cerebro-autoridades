@@ -22,6 +22,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | Brock Johnson | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | [ficha](../../autoridades/brock-johnson.md) |
 | Nate Gaffney | Trial Reels com método dos 5 e ideia vencedora virando série (de 10 mil a 800 mil em 78 dias) | [ficha](../../autoridades/nate-gaffney.md) |
 | Hyeser | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | [ficha](../../autoridades/hyeser.md) |
+| Chase Chappell | criativos de Meta Ads para o Andromeda: regra dos 33% (IA, UGC, própria), funil no nível do anúncio, avatares | [ficha](../../autoridades/chase-chappell.md) |
 | Mateo Jiménez | funil de conteúdo TOFU/MOFU/BOFU com proporções | [ficha](../../autoridades/mateo-jimenez.md) |
 | Teo Egaña | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | [ficha](../../autoridades/teo-egana.md) |
 | Ketherin Kaffka | perfil como programa de TV: séries recorrentes (monoflow) | [ficha](../../autoridades/ketherin-kaffka.md) |
@@ -49,6 +50,7 @@ Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e c
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-04-22 | A neurociência do storytelling viciante | Kallaway | [resumo](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) |
 | 2026-06-03 | Reel: perfil como programa de TV (monoflow) | Ketherin Kaffka | [resumo](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) |
+| 2026-06-26 | Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída | Chase Chappell | [resumo](../../setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) |
 | 2026-08-05 | Posicionamento do Nardon: o nerd rico | Alfredo Soares, Bruno Nardon | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) |
 | 2026-08-05 | Psicologia dos ganchos: texto, fala, imagem e lock-in | Kallaway | [resumo](../../setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) |
 | 2026-08-14 | Se eu começasse nas redes em 2026 (lives, nicho, pós-post) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) |
