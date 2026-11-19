@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**58 fontes · 33 autoridades · 10 setores · 9 guias · 43 princípios consolidados**
+**62 fontes · 36 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
 
 ## Como consultar
 
@@ -36,9 +36,9 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 |---|---|---|---|
 | [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 39 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
-| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 2 / 5 | — |
-| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 10 / 29 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 48 | 13 |
+| [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 6 / 9 | 3 |
+| [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 10 / 31 | 10 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 49 | 13 |
 | [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 14 | 4 |
 | [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
@@ -51,10 +51,10 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 - 2026-11-19 · [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-19 · [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) · Brock Johnson · ◐ parcial (sem áudio)
 - 2026-11-19 · [8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte)](setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) · Kallaway · ● completa
+- 2026-11-19 · [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
+- 2026-11-19 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
 - 2026-11-19 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
-- 2026-11-19 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
-- 2026-11-19 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
 
 [Ver todas →](INDICE.md)
 
@@ -65,6 +65,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Alex Hormozi](autoridades/alex-hormozi.md) | marca pessoal: prova, associação, momentos de marca | Branding, Conteúdo e Redes Sociais, Marketing, Vendas |
 | [Alfredo Soares](autoridades/alfredo-soares.md) | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | Branding, Vendas, Negócios e Gestão, Marketing |
 | [Ana Couto](autoridades/ana-couto.md) | branding como gestão de valor, método, gap de percepção, CBO | Branding, Marketing, Negócios e Gestão |
+| [ArtClass](autoridades/artclass.md) | fundamentos: 7 princípios visuais e 7 regras de tipografia | Design |
 | [Brock Johnson](autoridades/brock-johnson.md) | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | Conteúdo e Redes Sociais, Storytelling, Vendas, Marketing |
 | [Bruno Nardon](autoridades/bruno-nardon.md) | marca conforme o critério de valor do cliente | Negócios e Gestão, Branding |
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | Conteúdo e Redes Sociais, Inteligência Artificial, Marketing |
@@ -82,6 +83,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | Design, Branding, Marketing |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | Storytelling, Conteúdo e Redes Sociais, Tráfego Pago, Marketing |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | Conteúdo e Redes Sociais, Branding, Mercado Imobiliário |
+| [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | Design, Branding |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | Branding, Design |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | Conteúdo e Redes Sociais, Marketing |
 | [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | Branding, Conteúdo e Redes Sociais, Negócios e Gestão, Marketing |
@@ -91,6 +93,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | Marketing, Branding, Negócios e Gestão, Inteligência Artificial |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | Storytelling, Conteúdo e Redes Sociais, Vendas |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | Inteligência Artificial, Negócios e Gestão, Marketing, Tráfego Pago |
+| [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | Design, Branding |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | Marketing, Branding, Conteúdo e Redes Sociais, Inteligência Artificial |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | Branding, Marketing, Conteúdo e Redes Sociais, Negócios e Gestão |
 | [Teo Egaña](autoridades/teo-egana.md) | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | Mercado Imobiliário, Conteúdo e Redes Sociais, Marketing, Vendas |

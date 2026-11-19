@@ -11,6 +11,10 @@
 6. **Repetir até virar assinatura:** os mesmos ingredientes por marca, para o público reconhecer sem ver o logo. → [Kallaway, assinatura visual](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
 7. **Briefing vago vira pergunta:** "clean", "premium", "mais vivo" — pergunte o que muda na peça (menos elementos? mais respiro? foto mais escura?) antes de executar. → [Chris Do](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md)
 8. **Aprovar por lista de 5 critérios em escala** (por marca), não por gosto; qualquer pessoa ou agente deve conseguir aplicar sem o diretor. Ex.: foto protagonista e sangrada · 2–3 ingredientes, sem shapes · hierarquia clara do título · tipografia e cores do manual · logo discreto no lugar padrão. → [Chris Do](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md)
+9. **Revisão básica (7 princípios):** hierarquia, contraste, alinhamento numa grade, proximidade, repetição (1 cor de destaque), equilíbrio e espaço em branco; passa no **teste dos 5 segundos** (o que é, quando/onde, o que fazer). → [ArtClass](../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md)
+10. **Tipografia:** no máximo 2 famílias; texto corrido com 50–75 caracteres por linha e entrelinha ~1,5; nada de fonte fina pequena clara sobre fundo escuro; sem órfãs. → [ArtClass, tipografia](../setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md)
+11. **Logo e selos:** contexto e categoria antes do desenho; conceito em uma frase; testar no uso real e no menor tamanho (avatar, placa de obra); teste das 20 marcas da categoria lado a lado. → [Satori Graphics](../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md)
+12. **Buscar referência pelo nome do estilo** (wabi-sabi, literal object, modern nostalgia…) e escolher um estilo por campanha. → [Kittl](../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md)
 
 ## Ingredientes de referência por marca (preencher e manter)
 - **Vicente:** fotografia de vida real, luz quente, tipografia fina.
@@ -22,7 +26,11 @@
 1. [Jason Murray: ingredientes de direção de arte](../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md)
 2. [Kallaway: assinatura visual e anti-slop](../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md)
 3. [Chris Do: critérios em escala e briefing vago](../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md)
-4. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
+4. [ArtClass: 7 princípios](../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) e [tipografia](../setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md)
+5. [Satori Graphics: guia de logo](../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md)
+6. [Kittl: estilos e palavras de busca](../setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md)
+7. [Princípios de design](../setores/design/README.md#princípios-consolidados)
+8. [Princípios de branding](../setores/branding/README.md#princípios-consolidados)
 
 ## Cuidados
 - O cardápio de ingredientes é infinito; o erro comum é usar muitos. Contenção é parte do método.

@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-58 fontes de 33 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+62 fontes de 36 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -12,9 +12,12 @@
 | 2026-11-19 | [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) | Brock Johnson | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte)](setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) | Kallaway | Conteúdo e Redes Sociais | video | ● completa |
+| 2026-11-19 | [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
+| 2026-11-19 | [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) | ArtClass | Design | video | ● completa |
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
+| 2026-11-19 | [7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)](setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) | ArtClass | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) | Chris Do | Storytelling | video | ● completa |
 | 2026-11-19 | [Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)](setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) | Chris Do | Branding | video | ● completa |
@@ -24,6 +27,7 @@
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
+| 2026-11-19 | [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) | Kittl | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
 | 2026-11-11 | [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-10 | [Reel: funil de conteúdo TOFU, MOFU, BOFU](setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) | Mateo Jiménez | Conteúdo e Redes Sociais | post | ◐ parcial (sem áudio) |
@@ -90,7 +94,11 @@
 
 ### [Design](setores/design/README.md)
 
+- 2026-10-21 · [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) · Satori Graphics · ◐ parcial (sem áudio)
+- 2026-10-18 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
+- 2026-10-05 · [7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)](setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) · ArtClass · ◐ parcial (sem áudio)
 - 2026-09-15 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
+- 2025-05-02 · [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) · Kittl · ◐ parcial (sem áudio)
 - 2023-06-14 · [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) · Chris Do · ● completa
 
 ### [Branding](setores/branding/README.md)
@@ -161,6 +169,7 @@
 | [Alex Hormozi](autoridades/alex-hormozi.md) | marca pessoal: prova, associação, momentos de marca | 1 |
 | [Alfredo Soares](autoridades/alfredo-soares.md) | marca como acelerador de vendas, agenda conectada, influência, conteúdo e marca pessoal | 5 |
 | [Ana Couto](autoridades/ana-couto.md) | branding como gestão de valor, método, gap de percepção, CBO | 1 |
+| [ArtClass](autoridades/artclass.md) | fundamentos: 7 princípios visuais e 7 regras de tipografia | 2 |
 | [Brock Johnson](autoridades/brock-johnson.md) | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | 1 |
 | [Bruno Nardon](autoridades/bruno-nardon.md) | marca conforme o critério de valor do cliente | 2 |
 | [Carima (kaye.creatives)](autoridades/kaye-creatives.md) | crescimento no Instagram: outliers, Trial Reels, compartilhamentos e salvamentos | 1 |
@@ -178,6 +187,7 @@
 | [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | 1 |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 7 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
+| [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | 1 |
 | [Marty Neumeier](autoridades/marty-neumeier.md) | marca é a sensação do cliente, não o logo | 1 |
 | [Mateo Jiménez](autoridades/mateo-jimenez.md) | funil de conteúdo TOFU/MOFU/BOFU com proporções | 2 |
 | [Matt Gray](autoridades/matt-gray.md) | marca pessoal de fundador como empresa de mídia: 5 níveis, método 4-3-2-1, cascata de conteúdo e e-mail | 2 |
@@ -187,6 +197,7 @@
 | [Philip Kotler](autoridades/philip-kotler.md) | base conceitual do marketing; série Marketing X.0 | 2 |
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 4 |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | 1 |
+| [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | 1 |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | 2 |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | 2 |
 | [Teo Egaña](autoridades/teo-egana.md) | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | 1 |

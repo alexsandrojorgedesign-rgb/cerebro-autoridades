@@ -28,6 +28,9 @@ P = {
  "alex-hormozi": ("Alex Hormozi", "marca pessoal: prova, associação, momentos de marca", ["branding","conteudo-e-redes","marketing","vendas"]),
  "gary-vaynerchuk": ("Gary Vaynerchuk", "mídia de interesse, volume, dar antes de pedir, marca acima de performance", ["conteudo-e-redes","marketing","mercado-imobiliario","branding"]),
  "jason-murray": ("Jason Murray", "direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual", ["design","branding","marketing"]),
+ "artclass": ("ArtClass", "fundamentos: 7 princípios visuais e 7 regras de tipografia", ["design"]),
+ "satori-graphics": ("Satori Graphics", "logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade", ["design","branding"]),
+ "kittl": ("Kittl", "glossário de estilos de design com palavras de busca", ["design","branding"]),
  "kallaway": ("Kallaway", "storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai", ["storytelling","conteudo-e-redes","trafego-pago","marketing","ia"]),
  "carmine-gallo": ("Carmine Gallo", "histórias de origem, clareza, apresentações e cultura organizacional", ["storytelling","branding","vendas","negocios-e-gestao","conteudo-e-redes","marketing"]),
  "chris-do": ("Chris Do", "The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B", ["storytelling","branding","conteudo-e-redes","marketing","design"]),
@@ -193,6 +196,14 @@ F.append(("2026-09-15", "Ingredientes de direção de arte (insight, ideia, sens
   "setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md", ["design","branding","marketing","trafego-pago","conteudo-e-redes"]))
 F.append(("2023-06-14", "O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)", "Chris Do",
   "setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md", ["design","negocios-e-gestao"]))
+F.append(("2026-10-05", "7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)", "ArtClass",
+  "setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md", ["design"]))
+F.append(("2026-10-18", "7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)", "ArtClass",
+  "setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md", ["design"]))
+F.append(("2026-10-21", "Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)", "Satori Graphics",
+  "setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md", ["design","branding"]))
+F.append(("2025-05-02", "15 estilos de design e palavras de busca", "Kittl",
+  "setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md", ["design","branding","conteudo-e-redes"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
@@ -223,6 +234,11 @@ PRINC = {
   "- **Detalhe concreto e específico gera crença e imagem mental:** nomear lugar, objeto, fala e número exatos, sem descrição genérica nem detalhe irrelevante. Fontes: [Gallo — Blakely, Frates](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md), [Humm — PAST](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md).",
   "- **Comece no meio da ação, com pouco contexto:** a pergunta ou situação deve aparecer cedo, com contexto suficiente só para o público prever o que vem. Fontes: [Humm — ação e lugar](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md), [Kallaway — grande pergunta](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — manchete nos primeiros 60 s](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
   "- **Surpresa que faz sentido:** quebrar a expectativa do público prende, desde que a virada tenha pista plantada e lógica. Fontes: [Kallaway — head fake](../../setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md), [Gallo — violação de expectativa, Gates/Jobs](../../setores/storytelling/fontes/2016-01-01_carmine-gallo_storytelling.md).",
+ ],
+ "design": [
+  "- **Menos elementos, mais clareza:** 2–3 ingredientes de destaque, um ponto de entrada, uma cor de destaque e espaço em branco; quando tudo grita, nada é ouvido. Fontes: [Jason Murray — contenção](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md), [ArtClass — 7 princípios](../../setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md), [Chris Do — fazer menos, melhor](../../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md).",
+  "- **Palavras vagas viram critérios e requisitos:** \"clean\", \"premium\", \"moderno\" precisam virar perguntas e uma lista curta de critérios julgáveis antes de executar e para aprovar. Fontes: [Chris Do — critérios em escala](../../setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md), [Satori — adjetivos viram requisitos](../../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md).",
+  "- **Ideia antes do visual e ocupar espaço próprio:** insight e conceito em uma frase antes do layout; olhar o que a categoria já faz para não ficar intercambiável. Fontes: [Jason Murray — insight e ideia](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md), [Satori — lacuna de propriedade](../../setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md), [Kallaway — fuga do cluster](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md).",
  ],
  "ia": [
   "- **Correção vira memória persistente:** preferência ensinada uma vez fica salva e vale em toda sessão nova, de preferência em arquivo seu. Fontes: [Remi, memory.md](../../setores/ia/fontes/2026-07-22_remi_agentes-de-ia-curso-completo.md), [Metics, memória do Hermes](../../setores/ia/fontes/2026-10-28_metics-media_hermes-agent-tutorial.md).",
