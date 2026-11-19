@@ -30,6 +30,7 @@ Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em ví
 | 2026-10-29 | 6 vantagens para crescer na era do AI slop | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-29_kallaway_6-alphas-contra-ai-slop.md) |
 | 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 | 2026-11-11 | Roube esta abertura do CEO do Telegram (metáfora do Titanic) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) |
+| 2026-11-15 | Série de assinatura e colunas de ideias (967 mil seguidores) | Nate Gaffney | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) |
 
 ## Princípios consolidados
 
