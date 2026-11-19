@@ -14,6 +14,7 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | Claude C. Hopkins | copy de resposta direta: testar, medir, ser específico | [ficha](../../autoridades/claude-hopkins.md) |
 | Erich Shibata | Cimed: marca-mãe, cor proprietária, colabs, varejo como parceiro | [ficha](../../autoridades/erich-shibata.md) |
 | Alex Hormozi | marca pessoal: prova, associação, momentos de marca | [ficha](../../autoridades/alex-hormozi.md) |
+| Jeremy Haynes | Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo | [ficha](../../autoridades/jeremy-haynes.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Philipp Humm | zoom no momento com PAST: lugar, ação, fala, pensamentos | [ficha](../../autoridades/philipp-humm.md) |
 | Brock Johnson | crescimento no Instagram: método NAP, retenção, Trial Reels, Stories STD e automação de DM | [ficha](../../autoridades/brock-johnson.md) |
@@ -32,19 +33,24 @@ Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação.
 | 2021 | Marketing 5.0 (livro) | Philip Kotler, Hermawan Kartajaya, Iwan Setiawan | [resumo](../../setores/marketing/fontes/2021-01-01_philip-kotler_marketing-5-0.md) |
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2024-10-29 | Psicologia do medo e da compra | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md) |
 | 2025-02-03 | Storytelling em 9 min: 5 técnicas do zoom (2025) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2025-02-03_philipp-humm_storytelling-em-9-minutos.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
+| 2025-11-06 | Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-19 | Zoom no momento: método PAST | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-04-19_philipp-humm_zoom-no-momento-past.md) |
 | 2026-07-30 | Sistema de marca pessoal em 7 passos com skills de IA (voz, cascata, isca, workshop, 20/20/20) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-30_matt-gray_sistema-operacional-da-marca-pessoal.md) |
+| 2026-09-09 | Storytelling que converte (6 técnicas: dor do comprador, amplo→estreito, duplo aha) | Kallaway | [resumo](../../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) |
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
+| 2026-09-16 | Algoritmo: viral × conversão (recrute os 200 certos) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md) |
 | 2026-10-07 | Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV | George Clements | [resumo](../../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) |
 | 2026-10-14 | Marketing e vendas para 2027 (EXTREMOS) | Dener Lippert, Alfredo Soares, Bruno Nardon | [resumo](../../setores/marketing/fontes/2026-10-14_dener-lippert_marketing-e-vendas-2027-extremos.md) |
 | 2026-10-22 | 8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) |
 | 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
 | 2026-11-11 | Roube esta abertura do CEO do Telegram (metáfora do Titanic) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) |
 | 2026-11-13 | Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto) | Philipp Humm | [resumo](../../setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) |
+| 2026-11-14 | Meta Ads em 15 minutos (funil, mensagem, estrutura, pixel, gargalo, escala) | Jeremy Haynes | [resumo](../../setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md) |
 
 ## Princípios consolidados
 

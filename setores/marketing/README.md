@@ -21,6 +21,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | Gary Vaynerchuk | mídia de interesse, volume, dar antes de pedir, marca acima de performance | [ficha](../../autoridades/gary-vaynerchuk.md) |
 | Jason Murray | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | [ficha](../../autoridades/jason-murray.md) |
 | Fernando F. Kuwahara | monografia UFPR que resume Aaker, Keller e Kapferer: identidade, prisma, arquitetura, mensuração | [ficha](../../autoridades/fernando-kuwahara.md) |
+| Jeremy Haynes | Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo | [ficha](../../autoridades/jeremy-haynes.md) |
 | Kallaway | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | [ficha](../../autoridades/kallaway.md) |
 | Carmine Gallo | histórias de origem, clareza, apresentações e cultura organizacional | [ficha](../../autoridades/carmine-gallo.md) |
 | Chris Do | The Futur: história de antes e depois, prova contra a lacuna de imaginação, nicho por perguntas A ou B | [ficha](../../autoridades/chris-do.md) |
@@ -52,11 +53,13 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2023-11-23 | Marketing de influência que funciona (Jota Jota #142) | Alfredo Soares | [resumo](../../setores/marketing/fontes/2023-11-23_alfredo-soares_marketing-de-influencia-jota-jota.md) |
 | 2024-01-22 | O poder do branding (Como Você Fez Isso?) | Ana Couto | [resumo](../../setores/branding/fontes/2024-01-22_ana-couto_o-poder-do-branding.md) |
 | 2024-06-18 | Branding & Cultura na Cimed (ROI Hunters #240) | Erich Shibata | [resumo](../../setores/branding/fontes/2024-06-18_erich-shibata_branding-e-cultura-cimed.md) |
+| 2024-10-29 | Psicologia do medo e da compra | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md) |
 | 2025-01-12 | Guia de direção de arte (ação e adereço, swipe file, curva de adoção) | orenmeetsworld | [resumo](../../setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) |
 | 2025-04-30 | Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos) | Satori Graphics | [resumo](../../setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) |
 | 2025-05-21 | Como vender mais e melhor (G4 Day) | Alfredo Soares | [resumo](../../setores/vendas/fontes/2025-05-21_alfredo-soares_como-vender-mais-e-melhor-g4-day.md) |
 | 2025-05-28 | Branding que vende: marcas sexys (ROI Hunters #296) | Tay Dantas | [resumo](../../setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md) |
 | 2025-10-11 | Landing page de diagnóstico (scorecard) que gera e qualifica leads | Daniel Priestley | [resumo](../../setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) |
+| 2025-11-06 | Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) |
 | 2026-04-09 | Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s) | Louis Moss | [resumo](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
 | 2026-07-16 | Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato) | Jason Murray | [resumo](../../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) |
@@ -67,8 +70,10 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-08-16 | Advisor: a empresa da marca pessoal do Ninja | Alfredo Soares | [resumo](../../setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) |
 | 2026-08-29 | Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B) | Chris Do | [resumo](../../setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) |
 | 2026-09-04 | Mídia de interesse e volume (2 vídeos) | Gary Vaynerchuk | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) |
+| 2026-09-09 | Storytelling que converte (6 técnicas: dor do comprador, amplo→estreito, duplo aha) | Kallaway | [resumo](../../setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) |
 | 2026-09-10 | Reel: estratégia de conteúdo para imobiliárias | Teo Egaña | [resumo](../../setores/mercado-imobiliario/fontes/2026-09-10_teo-egana_estrategia-conteudo-inmobiliarias.md) |
 | 2026-09-15 | Ingredientes de direção de arte (insight, ideia, sensação × solução visual) | Jason Murray | [resumo](../../setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) |
+| 2026-09-16 | Algoritmo: viral × conversão (recrute os 200 certos) | Kallaway | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md) |
 | 2026-09-19 | Reel: sistema TOFU com Trial Reels e YouTube | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) |
 | 2026-10-07 | Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV | George Clements | [resumo](../../setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) |
 | 2026-10-08 | A ordem certa para crescer no Instagram (fases até 10 mil) | Hyeser | [resumo](../../setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) |
@@ -84,6 +89,7 @@ Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e
 | 2026-11-09 | Estudo de caso: Elephant Skin (portfólio, copy e lançamento) | Pesquisa própria (Elephant Skin) | [resumo](../../setores/mercado-imobiliario/fontes/2026-11-09_estudo_elephant-skin.md) |
 | 2026-11-09 | Reel: funil de conteúdo TOFU, MOFU, BOFU | Mateo Jiménez | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_mateo-jimenez_funil-tofu-mofu-bofu.md) |
 | 2026-11-09 | Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM | Brock Johnson | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) |
+| 2026-11-14 | Meta Ads em 15 minutos (funil, mensagem, estrutura, pixel, gargalo, escala) | Jeremy Haynes | [resumo](../../setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md) |
 | 2026-11-15 | Série de assinatura e colunas de ideias (967 mil seguidores) | Nate Gaffney | [resumo](../../setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) |
 
 ## Princípios consolidados

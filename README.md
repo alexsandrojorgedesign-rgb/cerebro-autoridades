@@ -4,7 +4,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 > O conhecimento **interno** (clientes, projetos, aprendizados) fica no `cerebroagent` e em `G:\Meu Drive\00_CEREBRO CRIAÇÃO`. Aqui só entra o que vem de fora.
 
-**71 fontes · 43 autoridades · 10 setores · 9 guias · 46 princípios consolidados**
+**76 fontes · 44 autoridades · 10 setores · 9 guias · 47 princípios consolidados**
 
 ## Como consultar
 
@@ -34,27 +34,27 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 
 | Setor | Assunto | Fontes (principal / total) | Princípios |
 |---|---|---|---|
-| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 46 | 3 |
+| [Marketing](setores/marketing/README.md) | Estratégia de marketing, funil, posicionamento de mercado, growth, retenção e LTV. | 9 / 51 | 3 |
 | [Inteligência Artificial](setores/ia/README.md) | Ferramentas, fluxos e visão de IA aplicada a marketing, criação, vendas e negócios. | 4 / 15 | 3 |
 | [Design](setores/design/README.md) | Design gráfico, direção de arte, tipografia, UI/UX, motion e processo criativo. | 14 / 18 | 3 |
 | [Branding](setores/branding/README.md) | Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de voz. | 11 / 39 | 10 |
-| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 16 / 53 | 13 |
-| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 2 / 16 | 4 |
-| [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 20 | 4 |
+| [Conteúdo e Redes Sociais](setores/conteudo-e-redes/README.md) | Instagram, YouTube, TikTok, LinkedIn: formatos, algoritmo, ganchos, roteiros e calendário. | 19 / 57 | 14 |
+| [Tráfego Pago](setores/trafego-pago/README.md) | Meta Ads (Andromeda, Advantage+), Google Ads, criativos de performance, formulários, CPL/CAC. | 3 / 17 | 4 |
+| [Vendas](setores/vendas/README.md) | Processo comercial, atendimento, follow-up, CRM, oferta, preço e negociação. | 1 / 25 | 4 |
 | [Mercado Imobiliário](setores/mercado-imobiliario/README.md) | Incorporação, lançamentos, corretores, jornada do comprador de imóvel e dados de mercado. | 3 / 6 | — |
-| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 11 / 17 | 6 |
+| [Storytelling](setores/storytelling/README.md) | Narrativa, estrutura de história, roteiro, ganchos, tensão e retenção em vídeo, texto e apresentação. | 12 / 20 | 6 |
 | [Negócios e Gestão](setores/negocios-e-gestao/README.md) | Estratégia de empresa, gargalos, liderança, cultura, finanças e modelo de negócio. | 0 / 23 | — |
 
 ## Entraram por último
 
 - 2026-11-19 · [Série de assinatura e colunas de ideias (967 mil seguidores)](setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) · Nate Gaffney · ● completa
+- 2026-11-19 · [Meta Ads em 15 minutos (funil, mensagem, estrutura, pixel, gargalo, escala)](setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md) · Jeremy Haynes · ◐ parcial (sem áudio)
 - 2026-11-19 · [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-19 · [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) · Brock Johnson · ◐ parcial (sem áudio)
 - 2026-11-19 · [Dirigir um comercial: preparação, set e pós](setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md) · Nur Niaz · ◐ parcial (sem áudio)
 - 2026-11-19 · [8 dicas impopulares de estratégia (formato fixo, IA na entrada, CTA-presente, recorte)](setores/conteudo-e-redes/fontes/2026-10-22_kallaway_8-dicas-impopulares-de-estrategia.md) · Kallaway · ● completa
 - 2026-11-19 · [Guia de logo 2027 (contexto, requisitos, testes, lacuna de propriedade)](setores/design/fontes/2026-10-21_satori-graphics_guia-de-logo-2027.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2026-11-19 · [800 mil seguidores em 78 dias: método dos 5, série e estrutura](setores/conteudo-e-redes/fontes/2026-10-18_nate-gaffney_800k-seguidores-em-78-dias.md) · Nate Gaffney · ● completa
-- 2026-11-19 · [7 regras de tipografia (linha, entrelinha, modo escuro, órfãs)](setores/design/fontes/2026-10-18_artclass_7-regras-de-tipografia.md) · ArtClass · ● completa
 
 [Ver todas →](INDICE.md)
 
@@ -83,6 +83,7 @@ Base de conhecimento **externo** do Alex (We Inc / Ecossistema WE): o que pessoa
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | Tráfego Pago, Vendas, Marketing, Negócios e Gestão |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | Conteúdo e Redes Sociais, Marketing |
 | [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | Design, Branding, Marketing |
+| [Jeremy Haynes](autoridades/jeremy-haynes.md) | Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo | Tráfego Pago, Vendas, Marketing |
 | [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | Storytelling, Conteúdo e Redes Sociais, Tráfego Pago, Marketing |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | Conteúdo e Redes Sociais, Branding, Mercado Imobiliário |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | Design, Branding |

@@ -232,7 +232,7 @@ F.append(("2024-08-06", "Guia de tipografia para iniciantes (famílias, entrelin
   "setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md", ["design","branding"]))
 F.append(("2026-11-14", "Meta Ads em 15 minutos (funil, mensagem, estrutura, pixel, gargalo, escala)", "Jeremy Haynes",
   "setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md", ["trafego-pago","vendas","marketing"]))
-F.append(("2026-09-16", "Algoritmo: viral × conversão ("recrute os 200 certos")", "Kallaway",
+F.append(("2026-09-16", "Algoritmo: viral × conversão (recrute os 200 certos)", "Kallaway",
   "setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md", ["conteudo-e-redes","marketing","vendas"]))
 F.append(("2026-09-09", "Storytelling que converte (6 técnicas: dor do comprador, amplo→estreito, duplo aha)", "Kallaway",
   "setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md", ["storytelling","conteudo-e-redes","vendas","marketing"]))

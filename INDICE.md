@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-71 fontes de 43 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+76 fontes de 44 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -9,6 +9,7 @@
 | Incluída | Fonte | Autoridade | Setor | Tipo | Evidência |
 |---|---|---|---|---|---|
 | 2026-11-19 | [Série de assinatura e colunas de ideias (967 mil seguidores)](setores/conteudo-e-redes/fontes/2026-11-15_nate-gaffney_serie-assinatura-e-colunas.md) | Nate Gaffney | Conteúdo e Redes Sociais | video | ● completa |
+| 2026-11-19 | [Meta Ads em 15 minutos (funil, mensagem, estrutura, pixel, gargalo, escala)](setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md) | Jeremy Haynes | Tráfego Pago | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) | Philipp Humm | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Instagram Masterclass 2027: nicho, perfil, retenção, Trial Reels, Stories e DM](setores/conteudo-e-redes/fontes/2026-11-09_brock-johnson_instagram-masterclass-2027.md) | Brock Johnson | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Dirigir um comercial: preparação, set e pós](setores/design/fontes/2026-10-26_nur-niaz_dirigir-um-comercial.md) | Nur Niaz | Design | video | ◐ parcial (sem áudio) |
@@ -19,7 +20,9 @@
 | 2026-11-19 | [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) | Hyeser | Conteúdo e Redes Sociais | video | ◑ tradução automática |
 | 2026-11-19 | [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) | George Clements | Tráfego Pago | video | ◑ tradução automática |
 | 2026-11-19 | [7 princípios de design visual (hierarquia, contraste, espaço em branco, teste dos 5 s)](setores/design/fontes/2026-10-05_artclass_7-principios-de-design-visual.md) | ArtClass | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Algoritmo: viral × conversão (recrute os 200 certos)](setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md) | Kallaway | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Storytelling que converte (6 técnicas: dor do comprador, amplo→estreito, duplo aha)](setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) | Kallaway | Storytelling | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) | Chris Do | Storytelling | video | ● completa |
 | 2026-11-19 | [Marca pessoal é de uma pessoa só (fã número um, mostrar o lado que esconde)](setores/branding/fontes/2026-08-26_chris-do_marca-pessoal-e-de-uma-pessoa.md) | Chris Do | Branding | video | ● completa |
 | 2026-11-19 | [Processo criativo sem ego (compilação de entrevistas)](setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md) | Rick Rubin | Design | video | ● completa |
@@ -29,11 +32,13 @@
 | 2026-11-19 | [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) | Kallaway | Inteligência Artificial | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
 | 2026-11-19 | [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) | Louis Moss | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo)](setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) | Kallaway | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
 | 2026-11-19 | [Os 4 erros que matam um gancho: atraso, confusão, irrelevância, desinteresse](setores/storytelling/fontes/2025-07-03_kallaway_4-erros-de-gancho.md) | Kallaway | Storytelling | video | ● completa |
 | 2026-11-19 | [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) | Kittl | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Guia de direção de arte (ação e adereço, swipe file, curva de adoção)](setores/design/fontes/2025-01-12_orenmeetsworld_guia-de-direcao-de-arte.md) | orenmeetsworld | Design | video | ◐ parcial (sem áudio) |
+| 2026-11-19 | [Psicologia do medo e da compra](setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md) | Kallaway | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Guia de tipografia para iniciantes (famílias, entrelinha, espaçamento, sistema)](setores/design/fontes/2024-08-06_designspo_guia-de-tipografia-para-iniciantes.md) | DesignSpo | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [O segredo do design ótimo (dominar o bom, critérios em escala, briefing vago)](setores/design/fontes/2023-06-14_chris-do_o-segredo-do-design-otimo.md) | Chris Do | Design | video | ● completa |
 | 2026-11-19 | [Branding: o processo de construção de marcas (Aaker, Keller, Kapferer)](setores/branding/fontes/2023-01-01_fernando-kuwahara_branding-processo-de-construcao-de-marcas.md) | Fernando F. Kuwahara | Branding | livro | ● legenda original |
@@ -145,14 +150,18 @@
 - 2026-10-16 · [1M seguidores em 6 meses: 3 passos](setores/conteudo-e-redes/fontes/2026-10-16_kaye-creatives_1m-seguidores-3-passos.md) · Carima (kaye.creatives) · ● completa
 - 2026-10-08 · [A ordem certa para crescer no Instagram (fases até 10 mil)](setores/conteudo-e-redes/fontes/2026-10-08_hyeser_ordem-certa-para-crescer-no-instagram.md) · Hyeser · ◑ tradução automática
 - 2026-09-19 · [Reel: sistema TOFU com Trial Reels e YouTube](setores/conteudo-e-redes/fontes/2026-09-19_mateo-jimenez_sistema-tofu-trial-reels.md) · Mateo Jiménez · ◐ parcial (sem áudio)
+- 2026-09-16 · [Algoritmo: viral × conversão (recrute os 200 certos)](setores/conteudo-e-redes/fontes/2026-09-16_kallaway_algoritmo-viral-vs-conversao.md) · Kallaway · ◐ parcial (sem áudio)
 - 2026-09-04 · [Mídia de interesse e volume (2 vídeos)](setores/conteudo-e-redes/fontes/2026-09-04_garyvee_midia-de-interesse-e-volume.md) · Gary Vaynerchuk · ● legenda original
 - 2026-08-16 · [Advisor: a empresa da marca pessoal do Ninja](setores/conteudo-e-redes/fontes/2026-08-16_alfredo-soares_advisor-ninja-arquitetura-de-marca-pessoal.md) · Alfredo Soares · ● legenda original
 - 2026-08-14 · [Se eu começasse nas redes em 2026 (lives, nicho, pós-post)](setores/conteudo-e-redes/fontes/2026-08-14_garyvee_se-eu-comecasse-nas-redes-em-2026.md) · Gary Vaynerchuk · ● completa
 - 2026-08-05 · [Posicionamento do Nardon: o nerd rico](setores/conteudo-e-redes/fontes/2026-08-05_alfredo-soares_posicionamento-nardon-nerd-rico.md) · Alfredo Soares, Bruno Nardon · ● legenda original
 - 2026-06-03 · [Reel: perfil como programa de TV (monoflow)](setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) · Ketherin Kaffka · ◐ parcial (sem áudio)
+- 2025-11-06 · [Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo)](setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) · Kallaway · ◐ parcial (sem áudio)
+- 2024-10-29 · [Psicologia do medo e da compra](setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md) · Kallaway · ◐ parcial (sem áudio)
 
 ### [Tráfego Pago](setores/trafego-pago/README.md)
 
+- 2026-11-14 · [Meta Ads em 15 minutos (funil, mensagem, estrutura, pixel, gargalo, escala)](setores/trafego-pago/fontes/2026-11-14_jeremy-haynes_meta-ads-em-15-minutos.md) · Jeremy Haynes · ◐ parcial (sem áudio)
 - 2026-10-07 · [Meta Ads 2027: oferta × mercado, confiança, processo de vendas e LTV](setores/trafego-pago/fontes/2026-10-07_george-clements_meta-ads-2027-quatro-regras.md) · George Clements · ◑ tradução automática
 - 2026-06-26 · [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) · Chase Chappell · ● completa
 
@@ -170,6 +179,7 @@
 
 - 2026-11-13 · [Linguagem corporal em 5 ajustes (postura, mãos, gestos, olhar, rosto)](setores/storytelling/fontes/2026-11-13_philipp-humm_linguagem-corporal.md) · Philipp Humm · ◐ parcial (sem áudio)
 - 2026-11-11 · [Roube esta abertura do CEO do Telegram (metáfora do Titanic)](setores/storytelling/fontes/2026-11-11_philipp-humm_abertura-do-ceo-do-telegram.md) · Philipp Humm · ◐ parcial (sem áudio)
+- 2026-09-09 · [Storytelling que converte (6 técnicas: dor do comprador, amplo→estreito, duplo aha)](setores/storytelling/fontes/2026-09-09_kallaway_storytelling-que-converte-6-tecnicas.md) · Kallaway · ◐ parcial (sem áudio)
 - 2026-08-29 · [Pare de promover, conte histórias (antes e depois, prova, nicho por A ou B)](setores/storytelling/fontes/2026-08-29_chris-do_pare-de-promover-conte-historias.md) · Chris Do · ● completa
 - 2026-08-05 · [Psicologia dos ganchos: texto, fala, imagem e lock-in](setores/storytelling/fontes/2026-08-05_kallaway_psicologia-dos-ganchos.md) · Kallaway · ● completa
 - 2026-04-22 · [A neurociência do storytelling viciante](setores/storytelling/fontes/2026-04-22_kallaway_neurociencia-do-storytelling-viciante.md) · Kallaway · ● legenda original
@@ -205,7 +215,8 @@
 | [George Clements](autoridades/george-clements.md) | Meta Ads para high-ticket: oferta × mercado, confiança via marca pessoal, setter/closer e LTV | 1 |
 | [Hyeser](autoridades/hyeser.md) | crescer até 10 mil no Instagram: conteúdo com consumo comprovado e fases (consistência → vendas) | 1 |
 | [Jason Murray](autoridades/jason-murray.md) | direção de arte como ingredientes: insight → ideia → 2–3 ingredientes de destaque; sensação × solução visual | 2 |
-| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 7 |
+| [Jeremy Haynes](autoridades/jeremy-haynes.md) | Meta Ads ligado à venda: funil pelo time comercial, mensagem como segmentação, pixel com leads bons, gargalo | 1 |
+| [Kallaway](autoridades/kallaway.md) | storytelling como loop e público em alvo (ICP no centro, mix 3-2-1); fundador da Sandcastles.ai | 11 |
 | [Ketherin Kaffka](autoridades/ketherin-kaffka.md) | perfil como programa de TV: séries recorrentes (monoflow) | 1 |
 | [Kittl](autoridades/kittl.md) | glossário de estilos de design com palavras de busca | 1 |
 | [Louis Moss](autoridades/louis-moss.md) | moodboard como argumento: cada referência com razão, quadro enxuto e legendado | 1 |
