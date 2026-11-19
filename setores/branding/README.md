@@ -58,6 +58,7 @@ Marca, identidade, posicionamento, arquitetura de marcas, marca pessoal e tom de
 | 2026-01-24 | Como criar conteúdo para vender imóveis em 2026 | Michelly Müller | [resumo](../../setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md) |
 | 2026-04-09 | Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s) | Louis Moss | [resumo](../../setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) |
 | 2026-04-14 | Marca notável na era da IA (The Entrepreneur's Studio) | Seth Godin | [resumo](../../setores/marketing/fontes/2026-04-14_seth-godin_marca-notavel-na-era-da-ia.md) |
+| 2026-05-11 | Regras de design de logo (escala, uma cor, forma pela natureza da marca) | Satori Graphics | [resumo](../../setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md) |
 | 2026-06-03 | Reel: perfil como programa de TV (monoflow) | Ketherin Kaffka | [resumo](../../setores/conteudo-e-redes/fontes/2026-06-03_ketherin-kaffka_monoflow-perfil-como-programa-de-tv.md) |
 | 2026-07-16 | Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato) | Jason Murray | [resumo](../../setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) |
 | 2026-07-22 | Os 5 níveis da marca pessoal lucrativa (4-3-2-1, CEO de mídia) | Matt Gray | [resumo](../../setores/branding/fontes/2026-07-22_matt-gray_5-niveis-da-marca-pessoal.md) |

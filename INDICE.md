@@ -1,6 +1,6 @@
 # Índice geral de fontes
 
-76 fontes de 44 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
+77 fontes de 44 autoridades. Gerado por `_modelos/gerar_indices.py`; não editar à mão.
 
 **Evidência:** ● completa ou legenda original · ◑ tradução automática · ◐ parcial (resumo de terceiros ou reel sem áudio) · ⚠️ fraca (reassistir antes de citar).
 
@@ -31,6 +31,7 @@
 | 2026-11-19 | [Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato)](setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) | Jason Murray | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [5 skills do Claude para conteúdo (contexto, análise de canal, pulso de outliers, máquina de ganchos)](setores/ia/fontes/2026-07-08_kallaway_5-skills-do-claude-para-conteudo.md) | Kallaway | Inteligência Artificial | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Criativos de Meta Ads 2027: regra dos 33%, funil no anúncio, verba distribuída](setores/trafego-pago/fontes/2026-06-26_chase-chappell_criativos-facebook-ads-2027.md) | Chase Chappell | Tráfego Pago | video | ● completa |
+| 2026-11-19 | [Regras de design de logo (escala, uma cor, forma pela natureza da marca)](setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md) | Satori Graphics | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) | Louis Moss | Design | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo)](setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md) | Kallaway | Conteúdo e Redes Sociais | video | ◐ parcial (sem áudio) |
 | 2026-11-19 | [Landing page de diagnóstico (scorecard) que gera e qualifica leads](setores/marketing/fontes/2025-10-11_daniel-priestley_landing-page-de-diagnostico.md) | Daniel Priestley | Marketing | video | ● completa |
@@ -115,6 +116,7 @@
 - 2026-09-15 · [Ingredientes de direção de arte (insight, ideia, sensação × solução visual)](setores/design/fontes/2026-09-15_jason-murray_ingredientes-de-direcao-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
 - 2026-08-18 · [Processo criativo sem ego (compilação de entrevistas)](setores/design/fontes/2026-08-18_rick-rubin_processo-criativo-sem-ego.md) · Rick Rubin · ● completa
 - 2026-07-16 · [Portfólio de diretor de arte (grande ideia, key visual, 4–6 pontos de contato)](setores/design/fontes/2026-07-16_jason-murray_portfolio-de-diretor-de-arte.md) · Jason Murray · ◐ parcial (sem áudio)
+- 2026-05-11 · [Regras de design de logo (escala, uma cor, forma pela natureza da marca)](setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md) · Satori Graphics · ◐ parcial (sem áudio)
 - 2026-04-09 · [Como montar moodboard (referência com razão, quadro do cliente, teste dos 10 s)](setores/design/fontes/2026-04-09_louis-moss_como-montar-moodboard.md) · Louis Moss · ◐ parcial (sem áudio)
 - 2025-05-02 · [15 estilos de design e palavras de busca](setores/design/fontes/2025-05-02_kittl_15-estilos-de-design.md) · Kittl · ◐ parcial (sem áudio)
 - 2025-04-30 · [Por que o design parece amador (uma emoção, 3 formatos, pré-mortem, arquivos)](setores/design/fontes/2025-04-30_satori-graphics_por-que-o-design-parece-amador.md) · Satori Graphics · ◐ parcial (sem áudio)
@@ -233,7 +235,7 @@
 | [Philipp Humm](autoridades/philipp-humm.md) | zoom no momento com PAST: lugar, ação, fala, pensamentos | 4 |
 | [Remi (Open Residency)](autoridades/remi.md) | agentes de IA na prática: contexto .md, MCPs, skills e pasta OS | 1 |
 | [Rick Rubin](autoridades/rick-rubin.md) | processo criativo: fazer o que é seu, guardar versões, sem ego | 1 |
-| [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | 2 |
+| [Satori Graphics](autoridades/satori-graphics.md) | logo: contexto e categoria primeiro, testes no uso real, lacuna de propriedade | 3 |
 | [Seth Godin](autoridades/seth-godin.md) | ser notável; permissão, confiança e consistência | 2 |
 | [Tay Dantas](autoridades/tay-dantas.md) | diagnóstico e estratégia de marca em 8 camadas, brand performance, audiência própria | 2 |
 | [Teo Egaña](autoridades/teo-egana.md) | conteúdo para imobiliárias: séries de bairro, pessoas reais, newsletter | 1 |

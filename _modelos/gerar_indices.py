@@ -240,6 +240,8 @@ F.append(("2024-10-29", "Psicologia do medo e da compra", "Kallaway",
   "setores/conteudo-e-redes/fontes/2024-10-29_kallaway_psicologia-do-medo-e-compra.md", ["conteudo-e-redes","marketing","storytelling","vendas"]))
 F.append(("2025-11-06", "Psicologia da confiança (clareza, espelhamento, prova, um passo ao lado do desejo)", "Kallaway",
   "setores/conteudo-e-redes/fontes/2025-11-06_kallaway_psicologia-da-confianca-8-principios.md", ["conteudo-e-redes","storytelling","marketing","vendas"]))
+F.append(("2026-05-11", "Regras de design de logo (escala, uma cor, forma pela natureza da marca)", "Satori Graphics",
+  "setores/design/fontes/2026-05-11_satori-graphics_regras-de-design-de-logo.md", ["design","branding"]))
 F.sort(key=lambda x: x[0])
 T = "setores/branding/fontes/2025-05-28_tay-dantas_branding-que-vende-marcas-sexys.md"
 M = "setores/mercado-imobiliario/fontes/2026-01-24_michelly-muller_conteudo-para-vender-imoveis-2026.md"
